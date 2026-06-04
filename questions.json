@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "questionEL": "Ποιο είναι το μεγαλύτερο θηλαστικό στον πλανήτη;",
+    "questionEN": "What is the largest mammal on the planet?",
+    "answersEL": ["Ελέφαντας", "Γαλάζια Φάλαινα", "Καρχαρίας", "Καμηλοπάρδαλη"],
+    "answersEN": ["Elephant", "Blue Whale", "Shark", "Giraffe"],
+    "correctIndex": 1
+  },
+  {
+    "id": 2,
+    "questionEL": "Πόσα λεπτά έχει μία ώρα;",
+    "questionEN": "How many minutes are in an hour?",
+    "answersEL": ["30", "50", "60", "100"],
+    "answersEN": ["30", "50", "60", "100"],
+    "correctIndex": 2
+  },
+  {
+    "id": 3,
+    "questionEL": "Ποιο όργανο του σώματος αντλεί το αίμα;",
+    "questionEN": "Which organ pumps blood through the body?",
+    "answersEL": ["Εγκέφαλος", "Πνεύμονας", "Στομάχι", "Καρδιά"],
+    "answersEN": ["Brain", "Lung", "Stomach", "Heart"],
+    "correctIndex": 3
+  }
+]
