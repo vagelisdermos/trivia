@@ -22,5 +22,405 @@
     "answersEL": ["Εγκέφαλος", "Πνεύμονας", "Στομάχι", "Καρδιά"],
     "answersEN": ["Brain", "Lung", "Stomach", "Heart"],
     "correctIndex": 3
+  },
+  {
+    "id": 4,
+    "questionEL": "Ποια είναι η πρωτεύουσα της Γαλλίας;",
+    "questionEN": "What is the capital of France?",
+    "answersEL": ["Λονδίνο", "Ρώμη", "Παρίσι", "Βερολίνο"],
+    "answersEN": ["London", "Rome", "Paris", "Berlin"],
+    "correctIndex": 2
+  },
+  {
+    "id": 5,
+    "questionEL": "Πόσους πλανήτες έχει το ηλιακό μας σύστημα;",
+    "questionEN": "How many planets are in our solar system?",
+    "answersEL": ["7", "8", "9", "10"],
+    "answersEN": ["7", "8", "9", "10"],
+    "correctIndex": 1
+  },
+  {
+    "id": 6,
+    "questionEL": "Ποιο είναι το χημικό σύμβολο για το νερό;",
+    "questionEN": "What is the chemical symbol for water?",
+    "answersEL": ["CO2", "O2", "H2O", "NaCl"],
+    "answersEN": ["CO2", "O2", "H2O", "NaCl"],
+    "correctIndex": 2
+  },
+  {
+    "id": 7,
+    "questionEL": "Ποιος έγραψε το έργο 'Ρωμαίος και Ιουλιέτα';",
+    "questionEN": "Who wrote 'Romeo and Juliet'?",
+    "answersEL": ["Ομήρος", "Ουίλιαμ Σαίξπηρ", "Κάρολος Ντίκενς", "Μार्क Τουέιν"],
+    "answersEN": ["Homer", "William Shakespeare", "Charles Dickens", "Mark Twain"],
+    "correctIndex": 1
+  },
+  {
+    "id": 8,
+    "questionEL": "Ποια χώρα έκανε δώρο το Άγαλμα της Ελευθερίας στις ΗΠΑ;",
+    "questionEN": "Which country gifted the Statue of Liberty to the USA?",
+    "answersEL": ["Γαλλία", "Μεγάλη Βρετανία", "Γερμανία", "Ιταλία"],
+    "answersEN": ["France", "Great Britain", "Germany", "Italy"],
+    "correctIndex": 0
+  },
+  {
+    "id": 9,
+    "questionEL": "Ποιο είναι το πιο γρήγορο ζώο της στεριάς;",
+    "questionEN": "What is the fastest land animal?",
+    "answersEL": ["Λιοντάρι", "Τσίτα (Γατόπαρδος)", "Άλογο", "Αντιλόπη"],
+    "answersEN": ["Lion", "Cheetah", "Horse", "Antelope"],
+    "correctIndex": 1
+  },
+  {
+    "id": 10,
+    "questionEL": "Πόσες ηπείρους έχει η Γη;",
+    "questionEN": "How many continents are there on Earth?",
+    "answersEL": ["5", "6", "7", "8"],
+    "answersEN": ["5", "6", "7", "8"],
+    "correctIndex": 2
+  },
+  {
+    "id": 11,
+    "questionEL": "Ποιος ανακάλυψε την πενικιλίνη;",
+    "questionEN": "Who discovered penicillin?",
+    "answersEL": ["Άλμπερτ Αϊνστάιν", "Αλεξάντερ Φλέμινγκ", "Λουί Παστέρ", "Ισαάκ Νεύτων"],
+    "answersEN": ["Albert Einstein", "Alexander Fleming", "Louis Pasteur", "Isaac Newton"],
+    "correctIndex": 1
+  },
+  {
+    "id": 12,
+    "questionEL": "Ποιο είναι το μεγαλύτερο σε έκταση κράτος του κόσμου;",
+    "questionEN": "Which is the largest country in the world by area?",
+    "answersEL": ["Καναδάς", "Κίνα", "ΗΠΑ", "Ρωσία"],
+    "answersEN": ["Canada", "China", "USA", "Russia"],
+    "correctIndex": 3
+  },
+  {
+    "id": 13,
+    "questionEL": "Σε ποια ήπειρο βρίσκεται η Αίγυπτος;",
+    "questionEN": "On which continent is Egypt located?",
+    "answersEL": ["Ασία", "Αφρική", "Ευρώπη", "Αυστραλία"],
+    "answersEN": ["Asia", "Africa", "Europe", "Australia"],
+    "correctIndex": 1
+  },
+  {
+    "id": 14,
+    "questionEL": "Ποιο είναι το σκληρότερο φυσικό υλικό στη Γη;",
+    "questionEN": "What is the hardest natural substance on Earth?",
+    "answersEL": ["Χρυσός", "Σίδηρος", "Διαμάντι", "Χαλαζίας"],
+    "answersEN": ["Gold", "Iron", "Diamond", "Quartz"],
+    "correctIndex": 2
+  },
+  {
+    "id": 15,
+    "questionEL": "Ποιος ζωγράφισε τη 'Μόνα Λίζα';",
+    "questionEN": "Who painted the 'Mona Lisa'?",
+    "answersEL": ["Βίνσεντ βαν Γκογκ", "Πάμπλο Πικάσο", "Λεονάρντο ντα Βίντσι", "Μιχαήλ Άγγελος"],
+    "answersEN": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
+    "correctIndex": 2
+  },
+  {
+    "id": 16,
+    "questionEL": "Ποιο είναι το μεγαλύτερο ωκεανό της Γης;",
+    "questionEN": "Which is the largest ocean on Earth?",
+    "answersEL": ["Ατλαντικός", "Ινδικός", "Αρκτικός", "Ειρηνικός"],
+    "answersEN": ["Atlantic", "Indian", "Arctic", "Pacific"],
+    "correctIndex": 3
+  },
+  {
+    "id": 17,
+    "questionEL": "Πόσα οστά έχει ένας ενήλικος άνθρωπος;",
+    "questionEN": "How many bones are in an adult human body?",
+    "answersEL": ["150", "206", "300", "250"],
+    "answersEN": ["150", "206", "300", "250"],
+    "correctIndex": 1
+  },
+  {
+    "id": 18,
+    "questionEL": "Ποιο είναι το εθνικό πουλί των Ηνωμένων Πολιτειών;",
+    "questionEN": "What is the national bird of the United States?",
+    "answersEL": ["Φλαμίνγκο", "Χρυσός Αετός", "Φαλακρός Αετός", "Περιστέρι"],
+    "answersEN": ["Flamingo", "Golden Eagle", "Bald Eagle", "Pigeon"],
+    "correctIndex": 2
+  },
+  {
+    "id": 19,
+    "questionEL": "Ποιο είναι το κύριο αέριο που αναπνέουμε;",
+    "questionEN": "What is the main gas we breathe in?",
+    "answersEL": ["Οξυγόνο", "Άζωτο", "Διοξείδιο του άνθρακα", "Υδρογόνο"],
+    "answersEN": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+    "correctIndex": 1
+  },
+  {
+    "id": 20,
+    "questionEL": "Ποια είναι η πρωτεύουσα της Ιαπωνίας;",
+    "questionEN": "What is the capital of Japan?",
+    "answersEL": ["Κιότο", "Οσάκα", "Σεούλ", "Τόκιο"],
+    "answersEN": ["Kyoto", "Osaka", "Seoul", "Tokyo"],
+    "correctIndex": 3
+  },
+  {
+    "id": 21,
+    "questionEL": "Ποιο είναι το μακρύτερο ποτάμι στον κόσμο;",
+    "questionEN": "Which is the longest river in the world?",
+    "answersEL": ["Αμαζόνιος", "Νείλος", "Μισισιπής", "Γιανγκτσέ"],
+    "answersEN": ["Amazon", "Nile", "Mississippi", "Yangtze"],
+    "correctIndex": 1
+  },
+  {
+    "id": 22,
+    "questionEL": "Ποιος πλανήτης είναι γνωστός ως ο 'Κόκκινος Πλανήτης';",
+    "questionEN": "Which planet is known as the 'Red Planet'?",
+    "answersEL": ["Αφροδίτη", "Δίας", "Άρης", "Κρόνος"],
+    "answersEN": ["Venus", "Jupiter", "Mars", "Saturn"],
+    "correctIndex": 2
+  },
+  {
+    "id": 23,
+    "questionEL": "Πόσες χορδές έχει μια τυπική κιθάρα;",
+    "questionEN": "How many strings does a standard guitar have?",
+    "answersEL": ["4", "5", "6", "7"],
+    "answersEN": ["4", "5", "6", "7"],
+    "correctIndex": 2
+  },
+  {
+    "id": 24,
+    "questionEL": "Ποιο είναι το μικρότερο κράτος στον κόσμο;",
+    "questionEN": "What is the smallest country in the world?",
+    "answersEL": ["Μονακό", "Μάλτα", "Βατικανό", "Άγιος Μαρίνος"],
+    "answersEN": ["Monaco", "Malta", "Vatican City", "San Marino"],
+    "correctIndex": 2
+  },
+  {
+    "id": 25,
+    "questionEL": "Ποιο έτος ξεκίνησε ο Πρώτος Παγκόσμιος Πόλεμος;",
+    "questionEN": "In which year did World War I begin?",
+    "answersEL": ["1914", "1918", "1939", "1945"],
+    "answersEN": ["1914", "1918", "1939", "1945"],
+    "correctIndex": 0
+  },
+  {
+    "id": 26,
+    "questionEL": "Ποιο μέταλλο είναι υγρό σε θερμοκρασία δωματίου;",
+    "questionEN": "Which metal is liquid at room temperature?",
+    "answersEL": ["Σίδηρος", "Υδράργυρος", "Χαλκός", "Μόλυβδος"],
+    "answersEN": ["Iron", "Mercury", "Copper", "Lead"],
+    "correctIndex": 1
+  },
+  {
+    "id": 27,
+    "questionEL": "Ποια είναι η πρωτεύουσα της Αυστραλίας;",
+    "questionEN": "What is the capital of Australia?",
+    "answersEL": ["Σίδνεϊ", "Μελβούρνη", "Καμπέρα", "Μπρίσμπεϊ"],
+    "answersEN": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+    "correctIndex": 2
+  },
+  {
+    "id": 28,
+    "questionEL": "Πόσα μάτια έχει μια μέλισσα;",
+    "questionEN": "How many eyes does a bee have?",
+    "answersEL": ["2", "3", "5", "8"],
+    "answersEN": ["2", "3", "5", "8"],
+    "correctIndex": 2
+  },
+  {
+    "id": 29,
+    "questionEL": "Ποιο είναι το ψηλότερο βουνό του κόσμου;",
+    "questionEN": "What is the highest mountain in the world?",
+    "answersEL": ["Κιλιμάντζαρο", "Έβερεστ", "Όλυμπος", "Άλπεις"],
+    "answersEN": ["Kilimanjaro", "Everest", "Olympus", "Alps"],
+    "correctIndex": 1
+  },
+  {
+    "id": 30,
+    "questionEL": "Ποια εταιρεία δημιούργησε το iPhone;",
+    "questionEN": "Which company created the iPhone?",
+    "answersEL": ["Google", "Samsung", "Microsoft", "Apple"],
+    "answersEN": ["Google", "Samsung", "Microsoft", "Apple"],
+    "correctIndex": 3
+  },
+  {
+    "id": 31,
+    "questionEL": "Πόσες πλευρές έχει ένα οκτάγωνο;",
+    "questionEN": "How many sides does an octagon have?",
+    "answersEL": ["6", "7", "8", "10"],
+    "answersEN": ["6", "7", "8", "10"],
+    "correctIndex": 2
+  },
+  {
+    "id": 32,
+    "questionEL": "Ποιο είναι το πλησιέστερο αστέρι στη Γη;",
+    "questionEN": "What is the closest star to Earth?",
+    "answersEL": ["Ήλιος", "Εγγύτατος Κενταύρου", "Σείριος", "Πολικός Αστέρας"],
+    "answersEN": ["Sun", "Proxima Centauri", "Sirius", "North Star"],
+    "correctIndex": 0
+  },
+  {
+    "id": 33,
+    "questionEL": "Ποιο ζώο είναι γνωστό ως ο 'Βασιλιάς της Ζούγκλας';",
+    "questionEN": "Which animal is known as the 'King of the Jungle'?",
+    "answersEL": ["Τίγρη", "Ελέφαντας", "Λιοντάρι", "Γορίλας"],
+    "answersEN": ["Tiger", "Elephant", "Lion", "Gorilla"],
+    "correctIndex": 2
+  },
+  {
+    "id": 34,
+    "questionEL": "Από ποιο δέντρο προέρχονται τα βελανίδια;",
+    "questionEN": "Acorns come from which type of tree?",
+    "answersEL": ["Πεύκο", "Βελανιδιά (Δρυς)", "Έλατο", "Ελιά"],
+    "answersEN": ["Pine", "Oak", "Fir", "Olive"],
+    "correctIndex": 1
+  },
+  {
+    "id": 35,
+    "questionEL": "Ποια χώρα εφηύρε τα ζυμαρικά (μακαρόνια);",
+    "questionEN": "Which country invented pasta?",
+    "answersEL": ["Ιταλία", "Κίνα", "Ελλάδα", "Μεξικό"],
+    "answersEN": ["Italy", "China", "Greece", "Mexico"],
+    "correctIndex": 1
+  },
+  {
+    "id": 36,
+    "questionEL": "Πόσα θαύματα είχε ο αρχαίος κόσμος;",
+    "questionEN": "How many wonders of the ancient world were there?",
+    "answersEL": ["5", "7", "9", "12"],
+    "answersEN": ["5", "7", "9", "12"],
+    "correctIndex": 1
+  },
+  {
+    "id": 37,
+    "questionEL": "Ποιο είναι το μεγαλύτερο νησί του κόσμου;",
+    "questionEN": "What is the largest island in the world?",
+    "answersEL": ["Μαδαγασκάρη", "Γροιλανδία", "Κρήτη", "Ισλανδία"],
+    "answersEN": ["Madagascar", "Greenland", "Crete", "Iceland"],
+    "correctIndex": 1
+  },
+  {
+    "id": 38,
+    "questionEL": "Ποια είναι η πρωτεύουσα της Ιταλίας;",
+    "questionEN": "What is the capital of Italy?",
+    "answersEL": ["Μιλάνο", "Βενετία", "Φλωρεντία", "Ρώμη"],
+    "answersEN": ["Milano", "Venice", "Florence", "Rome"],
+    "correctIndex": 3
+  },
+  {
+    "id": 39,
+    "questionEL": "Ποιο είναι το πιο πυκνοκατοικημένο κράτος στον κόσμο;",
+    "questionEN": "What is the most populous country in the world?",
+    "answersEL": ["Ινδία", "Κίνα", "ΗΠΑ", "Ρωσία"],
+    "answersEN": ["India", "China", "USA", "Russia"],
+    "correctIndex": 0
+  },
+  {
+    "id": 40,
+    "questionEL": "Πόσα χρώματα έχει το ουράνιο τόξο;",
+    "questionEN": "How many colors are in a rainbow?",
+    "answersEL": ["5", "6", "7", "8"],
+    "answersEN": ["5", "6", "7", "8"],
+    "correctIndex": 2
+  },
+  {
+    "id": 41,
+    "questionEL": "Ποιο όργανο χρησιμοποιούν τα ψάρια για να αναπνεύσουν;",
+    "questionEN": "What organ do fish use to breathe?",
+    "answersEL": ["Πνεύμονες", "Βράγχια", "Λέπια", "Πτερύγια"],
+    "answersEN": ["Lungs", "Gills", "Scales", "Fins"],
+    "correctIndex": 1
+  },
+  {
+    "id": 42,
+    "questionEL": "Ποιο είναι το νόμισμα της Μεγάλης Βρετανίας;",
+    "questionEN": "What is the currency of Great Britain?",
+    "answersEL": ["Ευρώ", "Δολάριο", "Λίρα Στερλίνα", "Γιεν"],
+    "answersEN": ["Euro", "Dollar", "Pound Sterling", "Yen"],
+    "correctIndex": 2
+  },
+  {
+    "id": 43,
+    "questionEL": "Ποιο είναι το πιο κρύο μέρος στη Γη;",
+    "questionEN": "Where is the coldest place on Earth?",
+    "answersEL": ["Σιβηρία", "Ανταρκτική", "Γροιλανδία", "Αλάσκα"],
+    "answersEN": ["Siberia", "Antarctica", "Greenland", "Alaska"],
+    "correctIndex": 1
+  },
+  {
+    "id": 44,
+    "questionEL": "Πόσα χρόνια κρατάει μια 'Δεκαετία';",
+    "questionEN": "How many years are in a decade?",
+    "answersEL": ["5", "10", "50", "100"],
+    "answersEN": ["5", "10", "50", "100"],
+    "correctIndex": 1
+  },
+  {
+    "id": 45,
+    "questionEL": "Ποιο είναι το μεγαλύτερο είδος καρχαρία;",
+    "questionEN": "What is the largest species of shark?",
+    "answersEL": ["Λευκός Καρχαρίας", "Σφυροκέφαλος", "Φαλαινοκαρχαρίας", "Τίγρης Καρχαρίας"],
+    "answersEN": ["Great White Shark", "Hammerhead Shark", "Whale Shark", "Tiger Shark"],
+    "correctIndex": 2
+  },
+  {
+    "id": 46,
+    "questionEL": "Ποια είναι η πρωτεύουσα της Ισπανίας;",
+    "questionEN": "What is the capital of Spain?",
+    "answersEL": ["Βαρκελώνη", "Μαδρίτη", "Σεβίλλη", "Βαλένθια"],
+    "answersEN": ["Barcelona", "Madrid", "Seville", "Valencia"],
+    "correctIndex": 1
+  },
+  {
+    "id": 47,
+    "questionEL": "Ποιο είναι το κύριο συστατικό του γυαλιού;",
+    "questionEN": "What is the main ingredient in glass?",
+    "answersEL": ["Άμμος", "Πλαστικό", "Ξύλο", "Μέταλλο"],
+    "answersEN": ["Sand", "Plastic", "Wood", "Metal"],
+    "correctIndex": 0
+  },
+  {
+    "id": 48,
+    "questionEL": "Ποιος πλανήτης είναι ο πιο κοντινός στον Ήλιο;",
+    "questionEN": "Which planet is closest to the Sun?",
+    "answersEL": ["Αφροδίτη", "Ερμής", "Γη", "Άρης"],
+    "answersEN": ["Venus", "Mercury", "Earth", "Mars"],
+    "correctIndex": 1
+  },
+  {
+    "id": 49,
+    "questionEL": "Πόσες πλευρές έχει ένα τρίγωνο;",
+    "questionEN": "How many sides does a triangle have?",
+    "answersEL": ["2", "3", "4", "5"],
+    "answersEN": ["2", "3", "4", "5"],
+    "correctIndex": 1
+  },
+  {
+    "id": 50,
+    "questionEL": "Ποιο είναι το εθνικό άθλημα της Ιαπωνίας;",
+    "questionEN": "What is the national sport of Japan?",
+    "answersEL": ["Καράτε", "Τζούντο", "Σούμο", "Κέντο"],
+    "answersEN": ["Karate", "Judo", "Sumo", "Kendo"],
+    "correctIndex": 2
+  },
+  {
+    "id": 51,
+    "questionEL": "Ποια χώρα έχει το σχήμα μπότας;",
+    "questionEN": "Which country is shaped like a boot?",
+    "answersEL": ["Ελλάδα", "Ισπανία", "Γαλλία", "Ιταλία"],
+    "answersEN": ["Greece", "Spain", "France", "Italy"],
+    "correctIndex": 3
+  },
+  {
+    "id": 52,
+    "questionEL": "Ποιο έντομο παράγει μέλι;",
+    "questionEN": "Which insect produces honey?",
+    "answersEL": ["Σφήκα", "Μέλισσα", "Μυρμήγκι", "Πεταλούδα"],
+    "answersEN": ["Wasp", "Bee", "Ant", "Butterfly"],
+    "correctIndex": 1
+  },
+  {
+    "id": 53,
+    "questionEL": "Ποιο είναι το μεγαλύτερο σε έκταση νησί της Ελλάδας;",
+    "questionEN": "Which is the largest island in Greece by area?",
+    "answersEL": ["Εύβοια", "Ρόδος", "Κέρκυρα", "Κρήτη"],
+    "answersEN": ["Evia", "Rhodes", "Corfu", "Crete"],
+    "correctIndex": 3
   }
-]
+]  
