@@ -538,5 +538,1469 @@
     "answersEL": ["Σωκράτης", "Πλάτωνας", "Αριστοτέλης", "Πυθαγόρας"],
     "answersEN": ["Socrates", "Plato", "Aristotle", "Pythagoras"],
     "correctIndex": 2
+  },
+
+  {
+    "id": 55,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποιο είναι το βαθύτερο σημείο των ωκεανών παγκοσμίως;",
+    "questionEN": "What is the deepest point in the world's oceans?",
+    "answersEL": ["Τάφρος του Πουέρτο Ρίκο", "Τάφρος των Μαριανών", "Τάφρος της Ιάβας", "Τάφρος του Περού"],
+    "answersEN": ["Puerto Rico Trench", "Mariana Trench", "Java Trench", "Peru Trench"],
+    "correctIndex": 1
+  },
+  {
+    "id": 56,
+    "categoryEL": "Σινεμά",
+    "categoryEN": "Cinema",
+    "questionEL": "Ποια ταινία έχει κερδίσει τα περισσότερα βραβεία Όσκαρ στην ιστορία;",
+    "questionEN": "Which movie has won the most Oscar awards in history?",
+    "answersEL": ["Τιτανικός", "Avatar", "Ο Νονός", "Pulp Fiction"],
+    "answersEN": ["Titanic", "Avatar", "The Godfather", "Pulp Fiction"],
+    "correctIndex": 0
+  },
+  {
+    "id": 57,
+    "categoryEL": "Μυθολογία",
+    "categoryEN": "Mythology",
+    "questionEL": "Ποιος ήταν ο θεός του κάτω κόσμου στην ελληνική μυθολογία;",
+    "questionEN": "Who was the god of the underworld in Greek mythology?",
+    "answersEL": ["Δίας", "Ποσειδώνας", "Άδης", "Άρης"],
+    "answersEN": ["Zeus", "Poseidon", "Hades", "Ares"],
+    "correctIndex": 2
+  },
+  {
+    "id": 58,
+    "categoryEL": "Επιστήμη",
+    "categoryEN": "Science",
+    "questionEL": "Ποια βιταμίνη συνθέτει ο ανθρώπινος οργανισμός μέσω του ήλιου;",
+    "questionEN": "Which vitamin does the human body synthesize through sunlight?",
+    "answersEL": ["Βιταμίνη Α", "Βιταμίνη Β12", "Βιταμίνη C", "Βιταμίνη D"],
+    "answersEN": ["Vitamin A", "Vitamin B12", "Vitamin C", "Vitamin D"],
+    "correctIndex": 3
+  },
+  {
+    "id": 59,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια χώρα έχει τις περισσότερες φυσικές λίμνες στον κόσμο;",
+    "questionEN": "Which country has the most natural lakes in the world?",
+    "answersEL": ["Καναδάς", "Ρωσία", "ΗΠΑ", "Βραζιλία"],
+    "answersEN": ["Canada", "Russia", "USA", "Brazil"],
+    "correctIndex": 0
+  },
+  {
+    "id": 60,
+    "categoryEL": "Ιστορία",
+    "categoryEN": "History",
+    "questionEL": "Ποιος ήταν ο πρώτος κυβερνήτης της Ελλάδας;",
+    "questionEN": "Who was the first governor of Greece?",
+    "answersEL": ["Θεόδωρος Κολοκοτρώνης", "Ιωάννης Καποδίστριας", "Όθωνας", "Ρήγας Φεραίος"],
+    "answersEN": ["Theodoros Kolokotronis", "Ioannis Kapodistrias", "Otto", "Rigas Feraios"],
+    "correctIndex": 1
+  },  
+  {
+    "id": 61,
+    "categoryEL": "Μουσική",
+    "categoryEN": "Music",
+    "questionEL": "Ποιο διάσημο συγκρότημα τραγούδησε το 'Bohemian Rhapsody';",
+    "questionEN": "Which famous band sang 'Bohemian Rhapsody'?",
+    "answersEL": ["The Beatles", "Pink Floyd", "Queen", "Led Zeppelin"],
+    "answersEN": ["The Beatles", "Pink Floyd", "Queen", "Led Zeppelin"],
+    "correctIndex": 2
+  },
+  {
+    "id": 62,
+    "categoryEL": "Ανατομία",
+    "categoryEN": "Anatomy",
+    "questionEL": "Ποιο είναι το μεγαλύτερο όργανο του ανθρώπινου σώματος;",
+    "questionEN": "What is the largest organ of the human body?",
+    "answersEL": ["Συκώτι", "Δέρμα", "Πνεύμονας", "Έντερο"],
+    "answersEN": ["Liver", "Skin", "Lung", "Intestine"],
+    "correctIndex": 1
+  },
+  {
+    "id": 63,
+    "categoryEL": "Gaming",
+    "categoryEN": "Gaming",
+    "questionEL": "Ποιο είναι το βιντεοπαιχνίδι με τις περισσότερες πωλήσεις όλων των εποχών;",
+    "questionEN": "Which is the best-selling video game of all time?",
+    "answersEL": ["Minecraft", "GTA V", "Tetris", "Super Mario Bros"],
+    "answersEN": ["Minecraft", "GTA V", "Tetris", "Super Mario Bros"],
+    "correctIndex": 0
+  },
+  {
+    "id": 64,
+    "categoryEL": "Αστρονομία",
+    "categoryEN": "Astronomy",
+    "questionEL": "Ποιος γαλαξίας είναι ο πλησιέστερος στον δικό μας (Milky Way);",
+    "questionEN": "Which galaxy is the closest to our own (Milky Way)?",
+    "answersEL": ["Ανδρομέδα", "Τριγώνου", "Μαγγελάνου", "Κενταύρου"],
+    "answersEN": ["Andromeda", "Triangulum", "Magellanic", "Centaurus"],
+    "correctIndex": 0
+  },
+  {
+    "id": 65,
+    "categoryEL": "Χημεία",
+    "categoryEN": "Chemistry",
+    "questionEL": "Ποιο είναι το πρώτο στοιχείο στον περιοδικό πίνακα;",
+    "questionEN": "What is the first element on the periodic table?",
+    "answersEL": ["Ήλιο", "Οξυγόνο", "Υδρογόνο", "Άνθρακας"],
+    "answersEN": ["Helium", "Oxygen", "Hydrogen", "Carbon"],
+    "correctIndex": 2
+  },
+  {
+    "id": 66,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια είναι η μεγαλύτερη έρημος στον κόσμο;",
+    "questionEN": "What is the largest desert in the world?",
+    "answersEL": ["Σαχάρα", "Γκόμπι", "Ανταρκτική Έρημος", "Καλαχάρι"],
+    "answersEN": ["Sahara", "Gobi", "Antarctic Desert", "Kalahari"],
+    "correctIndex": 2
+  },
+  {
+    "id": 67,
+    "categoryEL": "Ιστορία",
+    "categoryEN": "History",
+    "questionEL": "Ποιος ήταν ο πρώτος άνθρωπος που πάτησε στο φεγγάρι;",
+    "questionEN": "Who was the first human to walk on the moon?",
+    "answersEL": ["Γιούρι Γκαγκάριν", "Νιλ Άρμστρονγκ", "Μπαζ Όλντριν", "Μάικλ Κόλινς"],
+    "answersEN": ["Yuri Gagarin", "Neil Armstrong", "Buzz Aldrin", "Michael Collins"],
+    "correctIndex": 1
+  },
+  {
+    "id": 68,
+    "categoryEL": "Ζωολογία",
+    "categoryEN": "Zoology",
+    "questionEL": "Ποιο ερπετό μπορεί να αλλάζει χρώμα για να καμουφλάρεται;",
+    "questionEN": "Which reptile can change color to camouflage itself?",
+    "answersEL": ["Ιγκουάνα", "Χαμαιλέοντας", "Σαύρα", "Κροκόδειλος"],
+    "answersEN": ["Iguana", "Chameleon", "Lizard", "Crocodile"],
+    "correctIndex": 1
+  },
+  {
+    "id": 69,
+    "categoryEL": "Τεχνολογία",
+    "categoryEN": "Technology",
+    "questionEL": "Τι σημαίνουν τα αρχικά WWW στο ίντερνετ;",
+    "questionEN": "What do the initials WWW stand for on the internet?",
+    "answersEL": ["Web Wide Window", "World Wide Web", "World Wave Web", "Word Wide Web"],
+    "answersEN": ["Web Wide Window", "World Wide Web", "World Wave Web", "Word Wide Web"],
+    "correctIndex": 1
+  },
+  {
+    "id": 70,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια χώρα ονομαζόταν παλαιότερα 'Περσία';",
+    "questionEN": "Which country was formerly known as 'Persia'?",
+    "answersEL": ["Ιράκ", "Τουρκία", "Ιράν", "Αίγυπτος"],
+    "answersEN": ["Iraq", "Turkey", "Iran", "Egypt"],
+    "correctIndex": 2
+  },
+  {
+    "id": 71,
+    "categoryEL": "Σπορ",
+    "categoryEN": "Sports",
+    "questionEL": "Κάθε πόσα χρόνια διεξάγονται οι Παγκόσμιοι Αγώνες Ποδοσφαίρου (Μουντιάλ);",
+    "questionEN": "Every how many years is the FIFA World Cup held?",
+    "answersEL": ["2", "3", "4", "5"],
+    "answersEN": ["2", "3", "4", "5"],
+    "correctIndex": 2
+  },
+  {
+    "id": 72,
+    "categoryEL": "Λογοτεχνία",
+    "categoryEN": "Literature",
+    "questionEL": "Ποιος είναι ο δημιουργός του διάσημου ντετέκτιβ Σέρλοκ Χολμς;",
+    "questionEN": "Who is the creator of the famous detective Sherlock Holmes?",
+    "answersEL": ["Αγκάθα Κρίστι", "Άρθουρ Κόναν Ντόιλ", "Έντγκαρ Άλαν Πόε", "Στίβεν Κινγκ"],
+    "answersEN": ["Agatha Christie", "Arthur Conan Doyle", "Edgar Allan Poe", "Stephen King"],
+    "correctIndex": 1
+  },
+  {
+    "id": 73,
+    "categoryEL": "Φύση",
+    "categoryEN": "Nature",
+    "questionEL": "Ποιο είναι το ψηλότερο είδος δέντρου στον κόσμο;",
+    "questionEN": "What is the tallest tree species in the world?",
+    "answersEL": ["Σεκόγια (Redwood)", "Έλατο", "Ευκάλυπτος", "Μπαομπάμπ"],
+    "answersEN": ["Sequoia (Redwood)", "Fir", "Eucalyptus", "Baobab"],
+    "correctIndex": 0
+  },
+  {
+    "id": 74,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Σε ποια χώρα βρίσκονται οι περίφημες πέτρινες φιγούρες 'Νησί του Πάσχα';",
+    "questionEN": "In which country is the famous Easter Island located?",
+    "answersEL": ["Περού", "Χιλή", "Αυστραλία", "Νέα Ζηλανδία"],
+    "answersEN": ["Peru", "Chile", "Australia", "New Zealand"],
+    "correctIndex": 1
+  },
+  {
+    "id": 75,
+    "categoryEL": "Ιστορία",
+    "categoryEN": "History",
+    "questionEL": "Ποιος Γάλλος στρατηγός αυτοανακηρύχθηκε Αυτοκράτορας της Γαλλίας το 1804;",
+    "questionEN": "Which French general proclaimed himself Emperor of France in 1804?",
+    "answersEL": ["Λουδοβίκος ΙΔ'", "Μέγας Ναπολέων", "Καρλομάγνος", "Ροβεσπιέρος"],
+    "answersEN": ["Louis XIV", "Napoleon Bonaparte", "Charlemagne", "Robespierre"],
+    "correctIndex": 1
+  },
+  {
+    "id": 76,
+    "categoryEL": "Φυσική",
+    "categoryEN": "Physics",
+    "questionEL": "Ποιος διατύπωσε τη Θεωρία της Σχετικότητας;",
+    "questionEN": "Who formulated the Theory of Relativity?",
+    "answersEL": ["Ισαάκ Νεύτων", "Νίκολα Τέσλα", "Άλμπερτ Αϊνστάιν", "Γαλιλαίος"],
+    "answersEN": ["Isaac Newton", "Nikola Tesla", "Albert Einstein", "Galileo"],
+    "correctIndex": 2
+  },
+  {
+    "id": 77,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια είναι η πρωτεύουσα του Καναδά;",
+    "questionEN": "What is the capital of Canada?",
+    "answersEL": ["Τορόντο", "Βανκούβερ", "Μόντρεαλ", "Οτάβα"],
+    "answersEN": ["Toronto", "Vancouver", "Montreal", "Ottawa"],
+    "correctIndex": 3
+  },
+  {
+    "id": 78,
+    "categoryEL": "Μυθολογία",
+    "categoryEN": "Mythology",
+    "questionEL": "Ποιο μυθικό ον αναγεννάται από τις στάχτες του;",
+    "questionEN": "Which mythical creature rises from its own ashes?",
+    "answersEL": ["Γρύπας", "Φοίνικας", "Πήγασος", "Μινώταυρος"],
+    "answersEN": ["Griffin", "Phoenix", "Pegasus", "Minotaur"],
+    "correctIndex": 1
+  },
+  {
+    "id": 79,
+    "categoryEL": "Τέχνη",
+    "categoryEN": "Art",
+    "questionEL": "Ποιος Ολλανδός ζωγράφος έκοψε το αριστερό του αυτί;",
+    "questionEN": "Which Dutch painter cut off his own left ear?",
+    "answersEL": ["Ρέμπραντ", "Βίνσεντ βαν Γκογκ", "Γιοχάνες Βερμέερ", "Πιετ Μοντριάν"],
+    "answersEN": ["Rembrandt", "Vincent van Gogh", "Johannes Vermeer", "Piet Mondrian"],
+    "correctIndex": 1
+  },
+  {
+    "id": 80,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια ευρωπαϊκή πόλη είναι χτισμένη πάνω σε 118 μικρά νησιά που χωρίζονται από κανάλια;",
+    "questionEN": "Which European city is built on 118 small islands separated by canals?",
+    "answersEL": ["Άμστερνταμ", "Βενετία", "Μπριζ", "Κοπεγχάγη"],
+    "answersEN": ["Amsterdam", "Venice", "Bruges", "Copenhagen"],
+    "correctIndex": 1
+  },
+  {
+    "id": 81,
+    "categoryEL": "Βιολογία",
+    "categoryEN": "Biology",
+    "questionEL": "Ποια είναι η βασική μονάδα της ζωής σε όλους τους ζωντανούς οργανισμούς;",
+    "questionEN": "What is the basic unit of life in all living organisms?",
+    "answersEL": ["Ιστός", "Κύτταρο", "Όργανο", "DNA"],
+    "answersEN": ["Tissue", "Cell", "Organ", "DNA"],
+    "correctIndex": 1
+  },
+  {
+    "id": 82,
+    "categoryEL": "Ιστορία",
+    "categoryEN": "History",
+    "questionEL": "Ποιος ήταν ο πρώτος πρόεδρος των Ηνωμένων Πολιτειών;",
+    "questionEN": "Who was the first president of the United States?",
+    "answersEL": ["Αβραάμ Λίνκολν", "Τόμας Τζέφερσον", "Τζορτζ Ουάσινγκτον", "Μπέντζαμιν Φράνκλιν"],
+    "answersEN": ["Abraham Lincoln", "Thomas Jefferson", "George Washington", "Benjamin Franklin"],
+    "correctIndex": 2
+  },
+  {
+    "id": 83,
+    "categoryEL": "Ζωολογία",
+    "categoryEN": "Zoology",
+    "questionEL": "Ποιο είναι το μοναδικό θηλαστικό που μπορεί να πετάξει;",
+    "questionEN": "What is the only mammal capable of true flight?",
+    "answersEL": ["Ιπτάμενο σκιουράκι", "Νυχτερίδα", "Κουκουβάγια", "Πιγκουίνος"],
+    "answersEN": ["Flying Squirrel", "Bat", "Owl", "Pigeon"],
+    "correctIndex": 1
+  },
+  {
+    "id": 84,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποιο είναι το μικρότερο σε έκταση νησί των Κυκλάδων;",
+    "questionEN": "Which is the smallest island in the Cyclades?",
+    "answersEL": ["Δήλος", "Κουφονήσι", "Αμοργός", "Σίφνος"],
+    "answersEN": ["Delos", "Koufonisi", "Amorgos", "Sifnos"],
+    "correctIndex": 0
+  },
+  {
+    "id": 85,
+    "categoryEL": "Μετεωρολογία",
+    "categoryEN": "Meteorology",
+    "questionEL": "Με ποιο όργανο μετράμε την ατμοσφαιρική πίεση;",
+    "questionEN": "Which instrument is used to measure atmospheric pressure?",
+    "answersEL": ["Θερμόμετρο", "Υγρόμετρο", "Βαρόμετρο", "Ανεμόμετρο"],
+    "answersEN": ["Thermometer", "Hygrometer", "Barometer", "Anemometer"],
+    "correctIndex": 2
+  },
+  {
+    "id": 86,
+    "categoryEL": "Σινεμά",
+    "categoryEN": "Cinema",
+    "questionEL": "Ποιος ηθοποιός υποδύθηκε τον Jack Dawson στην ταινία 'Τιτανικός';",
+    "questionEN": "Which actor played Jack Dawson in the movie 'Titanic'?",
+    "answersEL": ["Μπραντ Πιτ", "Λεονάρντο Ντι Κάπριο", "Τομ Κρουζ", "Ματ Ντέιμον"],
+    "answersEN": ["Brad Pitt", "Leonardo DiCaprio", "Tom Cruise", "Matt Damon"],
+    "correctIndex": 1
+  },
+  {
+    "id": 87,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια χώρα έχει τη μεγαλύτερη ακτογραμμή στον κόσμο;",
+    "questionEN": "Which country has the longest coastline in the world?",
+    "answersEL": ["Ελλάδα", "Αυστραλία", "Καναδάς", "Ρωσία"],
+    "answersEN": ["Greece", "Australia", "Canada", "Russia"],
+    "correctIndex": 2
+  },
+  {
+    "id": 88,
+    "categoryEL": "Αστρονομία",
+    "categoryEN": "Astronomy",
+    "questionEL": "Ποιος είναι ο μεγαλύτερος πλανήτης στο ηλιακό μας σύστημα;",
+    "questionEN": "Which is the largest planet in our solar system?",
+    "answersEL": ["Κρόνος", "Ποσειδώνας", "Δίας", "Ουρανός"],
+    "answersEN": ["Saturn", "Neptune", "Jupiter", "Uranus"],
+    "correctIndex": 2
+  },
+  {
+    "id": 89,
+    "categoryEL": "Γαστρονομία",
+    "categoryEN": "Gastronomy",
+    "questionEL": "Από ποια χώρα προέρχεται το παραδοσιακό σוּσι (Sushi);",
+    "questionEN": "From which country does sushi traditionally originate?",
+    "answersEL": ["Κίνα", "Νότια Κορέα", "Ταϊλάνδη", "Ιαπωνία"],
+    "answersEN": ["China", "South Korea", "Thailand", "Japan"],
+    "correctIndex": 3
+  },
+  {
+    "id": 90,
+    "categoryEL": "Ιστορία",
+    "categoryEN": "History",
+    "questionEL": "Ποιος πολιτισμός έχτισε το Μάτσου Πίτσου στο Περού;",
+    "questionEN": "Which civilization built Machu Picchu in Peru?",
+    "answersEL": ["Αζτέκοι", "Μάγια", "Ίνκας", "Ολμέκοι"],
+    "answersEN": ["Aztecs", "Mayans", "Incas", "Olmecs"],
+    "correctIndex": 2
+  },
+  {
+    "id": 91,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια είναι η πρωτεύουσα της Βραζιλίας;",
+    "questionEN": "What is the capital of America's country Brazil?",
+    "answersEL": ["Ρίο ντε Τζανέιρο", "Σάο Πάολο", "Μπραζίλια", "Μπουένος Άιρες"],
+    "answersEN": ["Rio de Janeiro", "Sao Paulo", "Brasilia", "Buenos Aires"],
+    "correctIndex": 2
+  },
+  {
+    "id": 92,
+    "categoryEL": "Φυσική",
+    "categoryEN": "Physics",
+    "questionEL": "Τι είδους σωματίδια έχουν αρνητικό ηλεκτρικό φορτίο;",
+    "questionEN": "What type of particles have a negative electric charge?",
+    "answersEL": ["Πρωτόνια", "Νετρόνια", "Ηλεκτρόνια", "Φωτόνια"],
+    "answersEN": ["Protons", "Neutrons", "Electrons", "Photons"],
+    "correctIndex": 2
+  },
+  {
+    "id": 93,
+    "categoryEL": "Μυθολογία",
+    "categoryEN": "Mythology",
+    "questionEL": "Ποιος ήρωας της μυθολογίας εκτέλεσε τους 12 άθλους;",
+    "questionEN": "Which mythological hero performed the 12 labors?",
+    "answersEL": ["Θησέας", "Ηρακλής", "Περσέας", "Αχιλλέας"],
+    "answersEN": ["Theseus", "Hercules", "Perseus", "Achilles"],
+    "correctIndex": 1
+  },
+  {
+    "id": 94,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια θάλασσα χωρίζει την Ευρώπη από την Αφρική;",
+    "questionEN": "Which sea separates Europe from Africa?",
+    "answersEL": ["Μαύρη Θάλασσα", "Κόκκινη Θάλασσα", "Μεσόγειος Θάλασσα", "Νεκρά Θάλασσα"],
+    "answersEN": ["Black Sea", "Red Sea", "Mediterranean Sea", "Dead Sea"],
+    "correctIndex": 2
+  },
+  {
+    "id": 95,
+    "categoryEL": "Τεχνολογία",
+    "categoryEN": "Technology",
+    "questionEL": "Ποιο έτος κυκλοφόρησε η πρώτη έκδοση των Windows από τη Microsoft;",
+    "questionEN": "In which year was the first version of Windows released by Microsoft?",
+    "answersEL": ["1985", "1990", "1995", "2000"],
+    "answersEN": ["1985", "1990", "1995", "2000"],
+    "correctIndex": 0
+  },
+  {
+    "id": 96,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποιο είναι το επίσημο όνομα της χώρας μας (Ελλάδα);",
+    "questionEN": "What is the official name of Greece?",
+    "answersEL": ["Ελληνική Δημοκρατία", "Βασίλειο της Ελλάδος", "Ηνωμένη Ελλάδα", "Ελληνική Επικράτεια"],
+    "answersEN": ["Hellenic Republic", "Kingdom of Greece", "United Greece", "Hellenic Territory"],
+    "correctIndex": 0
+  },
+  {
+    "id": 97,
+    "categoryEL": "Ζωολογία",
+    "categoryEN": "Zoology",
+    "questionEL": "Πόσα πόδια έχει μια αράχνη;",
+    "questionEN": "How many legs does a spider have?",
+    "answersEL": ["6", "8", "10", "12"],
+    "answersEN": ["6", "8", "10", "12"],
+    "correctIndex": 1
+  },
+  {
+    "id": 98,
+    "categoryEL": "Ιστορία",
+    "categoryEN": "History",
+    "questionEL": "Σε ποια πόλη υπογράφηκε η Διακήρυξη της Ανεξαρτησίας των ΗΠΑ;",
+    "questionEN": "In which city was the US Declaration of Independence signed?",
+    "answersEL": ["Νέα Υόρκη", "Ουάσινγκτον", "Φιλαδέλφεια", "Βοστώνη"],
+    "answersEN": ["New York", "Washington D.C.", "Philadelphia", "Boston"],
+    "correctIndex": 2
+  },
+  {
+    "id": 99,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποιο είναι το μεγαλύτερο σε έκταση κράτος της Αφρικής;",
+    "questionEN": "Which is the largest country in Africa by land area?",
+    "answersEL": ["Σουδάν", "Αλγερία", "Λιβύη", "Νιγηρία"],
+    "answersEN": ["Sudan", "Algeria", "Libya", "Nigeria"],
+    "correctIndex": 1
+  },
+  {
+    "id": 100,
+    "categoryEL": "Επιστήμη",
+    "categoryEN": "Science",
+    "questionEL": "Ποιο όργανο του ανθρώπινου αυτιού είναι υπεύθυνο για την ισορροπία;",
+    "questionEN": "Which part of the human ear is responsible for balance?",
+    "answersEL": ["Τύμπανο", "Ακουστικός πόρος", "Λαβύρινθος", "Σφύρα"],
+    "answersEN": ["Eardrum", "Ear canal", "Semicircular canals (Labyrinth)", "Malleus"],
+    "correctIndex": 2
+  },
+  {
+    "id": 101,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποιο είναι το επίσημο νόμισμα της Ιαπωνίας;",
+    "questionEN": "What is the official currency of Japan?",
+    "answersEL": ["Γουάν", "Γιέν", "Γουόν", "Ρουπία"],
+    "answersEN": ["Yuan", "Yen", "Won", "Rupee"],
+    "correctIndex": 1
+  },
+  {
+    "id": 102,
+    "categoryEL": "Σινεμά",
+    "categoryEN": "Cinema",
+    "questionEL": "Ποιος σκηνοθέτησε τις ταινίες 'Inception' και 'Interstellar';",
+    "questionEN": "Who directed the movies 'Inception' and 'Interstellar'?",
+    "answersEL": ["Στίβεν Σπίλμπεργκ", "Κουέντιν Ταραντίνο", "Κρίστοφερ Νόλαν", "Μάρτιν Σκορσέζε"],
+    "answersEN": ["Steven Spielberg", "Quentin Tarantino", "Christopher Nolan", "Martin Scorsese"],
+    "correctIndex": 2
+  },
+  {
+    "id": 103,
+    "categoryEL": "Ιστορία",
+    "categoryEN": "History",
+    "questionEL": "Ποιο όνομα δόθηκε στην περίοδο της μεγάλης οικονομικής κρίσης των ΗΠΑ το 1929;",
+    "questionEN": "What name was given to the severe economic downturn in the US in 1929?",
+    "answersEL": ["Οικονομικό Κραχ", "Μεγάλη Ύφεση", "Βιομηχανική Κρίση", "Μαύρη Παρασκευή"],
+    "answersEN": ["Economic Crash", "The Great Depression", "Industrial Crisis", "Black Friday"],
+    "correctIndex": 1
+  },
+  {
+    "id": 104,
+    "categoryEL": "Βιολογία",
+    "categoryEN": "Biology",
+    "questionEL": "Ποιο είδος κυττάρων του αίματος είναι υπεύθυνο για την καταπολέμηση των λοιμώξεων;",
+    "questionEN": "Which type of blood cells is responsible for fighting infections?",
+    "answersEL": ["Ερυθρά αιμοσφαίρια", "Λευκά αιμοσφαίρια", "Αιμοπετάλια", "Πλάσμα"],
+    "answersEN": ["Red blood cells", "White blood cells", "Platelets", "Plasma"],
+    "correctIndex": 1
+  },
+  {
+    "id": 105,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια είναι η μεγαλύτερη σε πληθυσμό πόλη της Ευρώπης (εκτός Ρωσίας);",
+    "questionEN": "What is the most populous city in Europe (excluding Russia)?",
+    "answersEL": ["Λονδίνο", "Παρίσι", "Βερολίνο", "Κωνσταντινούπολη"],
+    "answersEN": ["London", "Paris", "Berlin", "Istanbul"],
+    "correctIndex": 3
+  },
+  {
+    "id": 106,
+    "categoryEL": "Μυθολογία",
+    "categoryEN": "Mythology",
+    "questionEL": "Ποιο ον είχε σώμα λιονταριού, κεφάλι γυναίκας και φτερά πτηνού στη Θήβα;",
+    "questionEN": "Which creature had a lion's body, a woman's head, and wings in Thebes?",
+    "answersEL": ["Χίμαιρα", "Σφίγγα", "Μέδουσα", "Έχιδνα"],
+    "answersEN": ["Chimera", "Sphinx", "Medusa", "Echidna"],
+    "correctIndex": 1
+  },
+  {
+    "id": 107,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποιο είναι το μακρύτερο ποτάμι της Ευρώπης;",
+    "questionEN": "Which is the longest river in Europe?",
+    "answersEL": ["Δούναβης", "Ρήνος", "Βόλγας", "Σηκουάνας"],
+    "answersEN": ["Danube", "Rhine", "Volga", "Seine"],
+    "correctIndex": 2
+  },
+  {
+    "id": 108,
+    "categoryEL": "Τεχνολογία",
+    "categoryEN": "Technology",
+    "questionEL": "Σε ποια γλώσσα προγραμματισμού βασίζεται κυρίως το framework Flutter;",
+    "questionEN": "Which programming language is the Flutter framework primarily based on?",
+    "answersEL": ["Java", "JavaScript", "Dart", "Python"],
+    "answersEN": ["Java", "JavaScript", "Dart", "Python"],
+    "correctIndex": 2
+  },
+  {
+    "id": 109,
+    "categoryEL": "Χημεία",
+    "categoryEN": "Chemistry",
+    "questionEL": "Ποιο είναι το χημικό σύμβολο για τον Χρυσό;",
+    "questionEN": "What is the chemical symbol for Gold?",
+    "answersEL": ["Ag", "Fe", "Au", "Cu"],
+    "answersEN": ["Ag", "Fe", "Au", "Cu"],
+    "correctIndex": 2
+  },
+  {
+    "id": 110,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια σκανδιναβική χώρα είναι γνωστή ως η 'Χώρα των Χιλίων Λιμνών';",
+    "questionEN": "Which Scandinavian country is known as the 'Land of a Thousand Lakes'?",
+    "answersEL": ["Νορβηγία", "Σουηδία", "Φινλανδία", "Δανία"],
+    "answersEN": ["Norway", "Sweden", "Finland", "Denmark"],
+    "correctIndex": 2
+  },
+  {
+    "id": 111,
+    "categoryEL": "Ιστορία",
+    "categoryEN": "History",
+    "questionEL": "Ποια αυτοκρατορία κατέλυσε την Κωνσταντινούπολη το 1453;",
+    "questionEN": "Which empire conquered Constantinople in 1453?",
+    "answersEL": ["Ρωμαϊκή", "Οθωμανική", "Περσική", "Φραγκική"],
+    "answersEN": ["Roman", "Ottoman", "Persian", "Frankish"],
+    "correctIndex": 1
+  },
+  {
+    "id": 112,
+    "categoryEL": "Αστρονομία",
+    "categoryEN": "Astronomy",
+    "questionEL": "Πόσο χρόνο χρειάζεται το φως του Ήλιου για να φτάσει στη Γη;",
+    "questionEN": "How long does it take for sunlight to reach Earth?",
+    "answersEL": ["8 δευτερόλεπτα", "8 λεπτά", "1 ώρα", "1 ημέρα"],
+    "answersEN": ["8 seconds", "8 minutes", "1 hour", "1 day"],
+    "correctIndex": 1
+  },
+  {
+    "id": 113,
+    "categoryEL": "Λογοτεχνία",
+    "categoryEN": "Literature",
+    "questionEL": "Ποιος έγραψε το επικό έργο 'Οδύσσεια';",
+    "questionEN": "Who wrote the epic work 'Odyssey'?",
+    "answersEL": ["Ησίοδος", "Σοφοκλής", "Όμηρος", "Ευριπίδης"],
+    "answersEN": ["Hesiod", "Sophocles", "Homer", "Euripides"],
+    "correctIndex": 2
+  },
+  {
+    "id": 114,
+    "categoryEL": "Ζωολογία",
+    "categoryEN": "Zoology",
+    "questionEL": "Ποιο είναι το μεγαλύτερο πτηνό στον κόσμο που δεν μπορεί να πετάξει;",
+    "questionEN": "What is the largest bird in the world that cannot fly?",
+    "answersEL": ["Πιγκουίνος", "Στρουθοκάμηλος", "Εμού", "Άλμπατρος"],
+    "answersEN": ["Penguin", "Ostrich", "Emu", "Albatross"],
+    "correctIndex": 1
+  },
+  {
+    "id": 115,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποιο είναι το ψηλότερο ενεργό ηφαίστειο της Ευρώπης;",
+    "questionEN": "What is the highest active volcano in Europe?",
+    "answersEL": ["Βεζούβιος", "Σαντορίνη", "Αίτνα", "Στρόμπολι"],
+    "answersEN": ["Vesuvius", "Santorini", "Etna", "Stromboli"],
+    "correctIndex": 2
+  },
+  {
+    "id": 116,
+    "categoryEL": "Μουσική",
+    "categoryEN": "Music",
+    "questionEL": "Σε ποια πόλη γεννήθηκε ο διάσημος συνθέτης Βόλφγκανγκ Αμαντέους Μότσαρτ;",
+    "questionEN": "In which city was the famous composer Wolfgang Amadeus Mozart born?",
+    "answersEL": ["Βιέννη", "Σάλτσμπουργκ", "Βερολίνο", "Μόναχο"],
+    "answersEN": ["Vienna", "Salzburg", "Berlin", "Munich"],
+    "correctIndex": 1
+  },
+  {
+    "id": 117,
+    "categoryEL": "Σπορ",
+    "categoryEN": "Sports",
+    "questionEL": "Ποιο είναι το μοναδικό άθλημα που έχει παιχτεί στην επιφάνεια της Σελήνης;",
+    "questionEN": "What is the only sport that has been played on the Moon?",
+    "answersEL": ["Γκολφ", "Τένις", "Μπέιζμπολ", "Ποδόσφαιρο"],
+    "answersEN": ["Golf", "Tennis", "Baseball", "Football"],
+    "correctIndex": 0
+  },
+  {
+    "id": 118,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια είναι η πρωτεύουσα της Αιγύπτου;",
+    "questionEN": "What is the capital of Egypt?",
+    "answersEL": ["Αλεξάνδρεια", "Κάιρο", "Λούξορ", "Γκίζα"],
+    "answersEN": ["Alexandria", "Cairo", "Luxor", "Giza"],
+    "correctIndex": 1
+  },
+  {
+    "id": 119,
+    "categoryEL": "Ιστορία",
+    "categoryEN": "History",
+    "questionEL": "Ποιο έτος έγινε η πτώση του Τείχους του Βερολίνου;",
+    "questionEN": "In which year did the fall of the Berlin Wall occur?",
+    "answersEL": ["1985", "1989", "1991", "1993"],
+    "answersEN": ["1985", "1989", "1991", "1993"],
+    "correctIndex": 1
+  },
+  {
+    "id": 120,
+    "categoryEL": "Φυσική",
+    "categoryEN": "Physics",
+    "questionEL": "Ποια είναι η ταχύτητα του φωτός στο κενό (περίπου);",
+    "questionEN": "What is the speed of light in a vacuum (approximately)?",
+    "answersEL": ["150.000 χλμ/δευτ", "300.000 χλμ/δευτ", "500.000 χλμ/δευτ", "1.000.000 χλμ/δευτ"],
+    "answersEN": ["150,000 km/s", "300,000 km/s", "500,000 km/s", "1,000,000 km/s"],
+    "correctIndex": 1
+  },
+  {
+    "id": 121,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Σε ποια χώρα ανήκει το τουριστικό νησί Μπαλί;",
+    "questionEN": "To which country does the tourist island of Bali belong?",
+    "answersEL": ["Ταϊλάνδη", "Φιλιππίνες", "Ινδονησία", "Μαλαισία"],
+    "answersEN": ["Thailand", "Philippines", "Indonesia", "Malaysia"],
+    "correctIndex": 2
+  },
+  {
+    "id": 122,
+    "categoryEL": "Ανατομία",
+    "categoryEN": "Anatomy",
+    "questionEL": "Πού βρίσκεται το μικρότερο οστό του ανθρώπινου σώματος;",
+    "questionEN": "Where is the smallest bone in the human body located?",
+    "answersEL": ["Στο αυτί", "Στη μύτη", "Στο δάχτυλο", "Στο πόδι"],
+    "answersEN": ["In the ear", "In the nose", "In the finger", "In the foot"],
+    "correctIndex": 0
+  },
+  {
+    "id": 123,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποιο είναι το μεγαλύτερο λιμάνι της Ελλάδας;",
+    "questionEN": "Which is the largest port in Greece?",
+    "answersEL": ["Θεσσαλονίκη", "Πάτρα", "Πειραιάς", "Ηράκλειο"],
+    "answersEN": ["Thessaloniki", "Patras", "Piraeus", "Heraklion"],
+    "correctIndex": 2
+  },
+  {
+    "id": 124,
+    "categoryEL": "Μυθολογία",
+    "categoryEN": "Mythology",
+    "questionEL": "Ποια ήταν η θεά της σοφίας στην αρχαία ελληνική μυθολογία;",
+    "questionEN": "Who was the goddess of wisdom in ancient Greek mythology?",
+    "answersEL": ["Ήρα", "Αφροδίτη", "Αθηνά", "Άρτεμις"],
+    "answersEN": ["Hera", "Afrodite", "Athena", "Artemis"],
+    "correctIndex": 2
+  },
+  {
+    "id": 125,
+    "categoryEL": "Τεχνολογία",
+    "categoryEN": "Technology",
+    "questionEL": "Ποιο λειτουργικό σύστημα για κινητά τηλέφωνα αναπτύσσει η Google;",
+    "questionEN": "Which mobile operating system is developed by Google?",
+    "answersEL": ["iOS", "Windows Phone", "Android", "Symbian"],
+    "answersEN": ["iOS", "Windows Phone", "Android", "Symbian"],
+    "correctIndex": 2
+  },
+  {
+    "id": 126,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια είναι η πρωτεύουσα της Πορτογαλίας;",
+    "questionEN": "What is the capital of Portugal?",
+    "answersEL": ["Πόρτο", "Λισαβόνα", "Μαδρίτη", "Βαρκελώνη"],
+    "answersEN": ["Porto", "Lisbon", "Madrid", "Barcelona"],
+    "correctIndex": 1
+  },
+  {
+    "id": 127,
+    "categoryEL": "Σινεμά",
+    "categoryEN": "Cinema",
+    "questionEL": "Ποιος υποδύθηκε τον Iron Man/Tony Stark στο Κινηματογραφικό Σύμπαν της Marvel (MCU);",
+    "questionEN": "Who played Iron Man/Tony Stark in the Marvel Cinematic Universe (MCU)?",
+    "answersEL": ["Κρις Έβανς", "Ρόμπερτ Ντάουνι Τζούνιορ", "Κρις Χέμσγουορθ", "Τομ Χόλαντ"],
+    "answersEN": ["Chris Evans", "Robert Downey Jr.", "Chris Hemsworth", "Tom Holland"],
+    "correctIndex": 1
+  },
+  {
+    "id": 128,
+    "categoryEL": "Γαστρονομία",
+    "categoryEN": "Gastronomy",
+    "questionEL": "Ποιο είναι το βασικό συστατικό της παραδοσιακής ελληνικής φάβας;",
+    "questionEN": "What is the main ingredient of traditional Greek fava?",
+    "answersEL": ["Ρεβίθια", "Λαθούρι (ή σπασμένο μπιζέλι)", "Φασόλια", "Φακές"],
+    "answersEN": ["Chickpeas", "Yellow split peas", "Beans", "Lentils"],
+    "correctIndex": 1
+  },
+  {
+    "id": 129,
+    "categoryEL": "Ιστορία",
+    "categoryEN": "History",
+    "questionEL": "Ποια βασίλισσα κυβερνούσε την Αίγυπτο κατά την περίοδο της συμμαχίας της με τον Μάρκο Αντώνιο;",
+    "questionEN": "Which queen ruled Egypt during her alliance with Mark Antony?",
+    "answersEL": ["Νεφερτίτη", "Κλεοπάτρα", "Χατσεψούτ", "Αρσινόη"],
+    "answersEN": ["Nefertiti", "Cleopatra", "Hatshepsut", "Arsinoe"],
+    "correctIndex": 1
+  },
+  {
+    "id": 130,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποιο είναι το ψηλότερο βουνό της Ελλάδας;",
+    "questionEN": "What is the highest mountain in Greece?",
+    "answersEL": ["Ψηλορείτης", "Όλυμπος", "Παρνασσός", "Ταΰγετος"],
+    "answersEN": ["Psiloritis", "Olympus", "Parnassus", "Taygetos"],
+    "correctIndex": 1
+  },
+  {
+    "id": 131,
+    "categoryEL": "Χημεία",
+    "categoryEN": "Chemistry",
+    "questionEL": "Ποιο αέριο απελευθερώνουν τα φυτά κατά τη διάρκεια της φωτοσύνθεσης;",
+    "questionEN": "Which gas do plants release during photosynthesis?",
+    "answersEL": ["Διοξείδιο του άνθρακα", "Άζωτο", "Οξυγόνο", "Υδρογόνο"],
+    "answersEN": ["Carbon dioxide", "Nitrogen", "Oxygen", "Hydrogen"],
+    "correctIndex": 2
+  },
+  {
+    "id": 132,
+    "categoryEL": "Gaming",
+    "categoryEN": "Gaming",
+    "questionEL": "Ποια εταιρεία δημιούργησε την πασίγνωστη κονσόλα PlayStation;",
+    "questionEN": "Which company created the famous PlayStation console?",
+    "answersEL": ["Nintendo", "Microsoft", "Sega", "Sony"],
+    "answersEN": ["Nintendo", "Microsoft", "Sega", "Sony"],
+    "correctIndex": 3
+  },
+  {
+    "id": 133,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια χώρα έχει τη μεγαλύτερη έκταση στη Νότια Αμερική;",
+    "questionEN": "Which country has the largest area in South America?",
+    "answersEL": ["Αργεντινή", "Κολομβία", "Βραζιλία", "Περού"],
+    "answersEN": ["Argentina", "Colombia", "Brazil", "Peru"],
+    "correctIndex": 2
+  },
+  {
+    "id": 134,
+    "categoryEL": "Τέχνη",
+    "categoryEN": "Art",
+    "questionEL": "Ποιο διάσημο γλυπτό της ελληνικής αρχαιότητας βρέθηκε στη Μήλο και βρίσκεται στο Μουσείο του Λούβρου;",
+    "questionEN": "Which famous ancient Greek sculpture was found in Milos and is located in the Louvre Museum?",
+    "answersEL": ["Νίκη της Σαμοθράκης", "Αφροδίτη της Μήλου", "Ερμής του Πραξιτέλη", "Ηνίοχος των Δελφών"],
+    "answersEN": ["Winged Victory of Samothrace", "Venus de Milo", "Hermes of Praxiteles", "Charioteer of Delphi"],
+    "correctIndex": 1
+  },
+  {
+    "id": 135,
+    "categoryEL": "Μαθηματικά",
+    "categoryEN": "Mathematics",
+    "questionEL": "Ποιος είναι ο επόμενος αριθμός στη σειρά: 2, 4, 8, 16...;",
+    "questionEN": "What is the next number in the sequence: 2, 4, 8, 16...?",
+    "answersEL": ["20", "24", "32", "64"],
+    "answersEN": ["20", "24", "32", "64"],
+    "correctIndex": 2
+  },
+  {
+    "id": 136,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Σε ποια πόλη βρίσκεται η διάσημη Όπερα με το σχήμα που θυμίζει πανιά πλοίου;",
+    "questionEN": "In which city is the famous Opera House shaped like ship sails located?",
+    "answersEL": ["Μελβούρνη", "Σίδνεϊ", "Λονδίνο", "Όκλαντ"],
+    "answersEN": ["Melbourne", "Sydney", "London", "Auckland"],
+    "correctIndex": 1
+  },
+  {
+    "id": 137,
+    "categoryEL": "Ζωολογία",
+    "categoryEN": "Zoology",
+    "questionEL": "Ποιο ζωικό είδος είναι γνωστό ότι πεθαίνει αφού κεντρίσει τον άνθρωπο;",
+    "questionEN": "Which animal species is known to die after stinging a human?",
+    "answersEL": ["Σφήκα", "Μέλισσα", "Κουνούπι", "Σκορπιός"],
+    "answersEN": ["Wasp", "Honeybee", "Mosquito", "Scorpion"],
+    "correctIndex": 1
+  },
+  {
+    "id": 138,
+    "categoryEL": "Ιστορία",
+    "categoryEN": "History",
+    "questionEL": "Ποιο ιστορικό γεγονός πυροδότησε την έναρξη της Ελληνικής Επανάστασης το 1821;",
+    "questionEN": "Which historical year marks the beginning of the Greek War of Independence?",
+    "answersEL": ["1453", "1821", "1912", "1940"],
+    "answersEN": ["1453", "1821", "1912", "1940"],
+    "correctIndex": 1
+  },
+  {
+    "id": 139,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια είναι η πρωτεύουσα της Κίνας;",
+    "questionEN": "What is the capital of China?",
+    "answersEL": ["Σαγκάη", "Χονγκ Κονγκ", "Πεκίνο", "Γκουανγκζού"],
+    "answersEN": ["Shanghai", "Hong Kong", "Beijing", "Guangzhou"],
+    "correctIndex": 2
+  },
+  {
+    "id": 140,
+    "categoryEL": "Φύση",
+    "categoryEN": "Nature",
+    "questionEL": "Ποιο φαινόμενο προκαλείται από την ξαφνική απελευθέρωση ενέργειας στον φλοιό της Γης;",
+    "questionEN": "What phenomenon is caused by the sudden release of energy in the Earth's crust?",
+    "answersEL": ["Έκρηξη ηφαιστείου", "Σεισμός", "Τσουνάμι", "Ανεμοστρόβιλος"],
+    "answersEN": ["Volcanic eruption", "Earthquake", "Tsunami", "Tornado"],
+    "correctIndex": 1
+  },
+  {
+    "id": 141,
+    "categoryEL": "Σινεμά",
+    "categoryEN": "Cinema",
+    "questionEL": "Πόσες ταινίες περιλαμβάνει η αρχική (original) τριλογία του 'Star Wars';",
+    "questionEN": "How many movies are included in the original 'Star Wars' trilogy?",
+    "answersEL": ["2", "3", "6", "9"],
+    "answersEN": ["2", "3", "6", "9"],
+    "correctIndex": 1
+  },
+  {
+    "id": 142,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποιο είναι το μεγαλύτερο σε έκταση νησί της Μεσογείου;",
+    "questionEN": "Which is the largest island in the Mediterranean Sea by area?",
+    "answersEL": ["Κρήτη", "Κύπρος", "Σαρδηνία", "Σικελία"],
+    "answersEN": ["Crete", "Cyprus", "Sardinia", "Sicily"],
+    "correctIndex": 3
+  },
+  {
+    "id": 143,
+    "categoryEL": "Αστρονομία",
+    "categoryEN": "Astronomy",
+    "questionEL": "Ποιο ουράνιο σώμα υποβαθμίστηκε από 'πλανήτης' σε 'νάνος πλανήτης' το 2006;",
+    "questionEN": "Which celestial body was downgraded from 'planet' to 'dwarf planet' in 2006?",
+    "answersEL": ["Ερμής", "Πλούτωνας", "Ποσειδώνας", "Δήμητρα"],
+    "answersEN": ["Mercury", "Pluto", "Neptune", "Ceres"],
+    "correctIndex": 1
+  },
+  {
+    "id": 144,
+    "categoryEL": "Ιστορία",
+    "categoryEN": "History",
+    "questionEL": "Ποια χώρα υπέστη την πρώτη επίθεση με ατομική βόμβα στην ιστορία (Χιροσίμα);",
+    "questionEN": "Which country suffered the first atomic bomb attack in history (Hiroshima)?",
+    "answersEL": ["Γερμανία", "Ρωσία", "Ιαπωνία", "Κίνα"],
+    "answersEN": ["Germany", "Russia", "Japan", "China"],
+    "correctIndex": 2
+  },
+  {
+    "id": 145,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποιο είναι το επίσημο νόμισμα της Αυστραλίας;",
+    "questionEN": "What is the official currency of Australia?",
+    "answersEL": ["Αυστραλιανή Λίρα", "Δολάριο Αυστραλίας", "Αυστραλιανό Ευρώ", "Δολάριο ΗΠΑ"],
+    "answersEN": ["Australian Pound", "Australian Dollar", "Australian Euro", "US Dollar"],
+    "correctIndex": 1
+  },
+  {
+    "id": 146,
+    "categoryEL": "Λογοτεχνία",
+    "categoryEN": "Literature",
+    "questionEL": "Ποιος φανταστικός χαρακτήρας μεγαλώνει η μύτη του κάθε φορά που λέει ψέματα;",
+    "questionEN": "Which fictional character's nose grows every time he tells a lie?",
+    "answersEL": ["Πίτερ Παν", "Πινόκιο", "Μόγλης", "Αλαντίν"],
+    "answersEN": ["Peter Pan", "Pinocchio", "Mowgli", "Aladdin"],
+    "correctIndex": 1
+  },
+  {
+    "id": 147,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια είναι η πρωτεύουσα της Αργεντινής;",
+    "questionEN": "What is the capital of Argentina?",
+    "answersEL": ["Σαντιάγο", "Μπογκοτά", "Μπουένος Άιρες", "Λίμα"],
+    "answersEN": ["Santiago", "Bogota", "Buenos Aires", "Lima"],
+    "correctIndex": 2
+  },
+  {
+    "id": 148,
+    "categoryEL": "Ζωολογία",
+    "categoryEN": "Zoology",
+    "questionEL": "Ποιο θηλαστικό της θάλασσας είναι γνωστό για την εξαιρετική του ευφυΐα και το μόνιμο 'χαμόγελο' στο πρόσωπό του;",
+    "questionEN": "Which marine mammal is known for its high intelligence and permanent 'smile'?",
+    "answersEL": ["Φώκια", "Δελφίνι", "Όρκα", "Θαλάσσιος ίππος"],
+    "answersEN": ["Seal", "Dolphin", "Orca", "Walrus"],
+    "correctIndex": 1
+  },
+  {
+    "id": 149,
+    "categoryEL": "Μουσική",
+    "categoryEN": "Music",
+    "questionEL": "Πόσες νότες υπάρχουν στη βασική μουσική κλίμακα (Ντο, Ρε, Μι...);",
+    "questionEN": "How many notes are there in the basic musical scale (Do, Re, Mi...)?",
+    "answersEL": ["5", "7", "8", "12"],
+    "answersEN": ["5", "7", "8", "12"],
+    "correctIndex": 1
+  },
+  {
+    "id": 150,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Σε ποια ήπειρο βρίσκεται το τροπικό δάσος του Αμαζονίου;",
+    "questionEN": "On which continent is the Amazon rainforest located?",
+    "answersEL": ["Αφρική", "Ασία", "Βόρεια Αμερική", "Νότια Αμερική"],
+    "answersEN": ["Africa", "Asia", "North America", "South America"],
+    "correctIndex": 3
+  },
+
+  {
+    "id": 151,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια είναι η πρωτεύουσα της Νορβηγίας;",
+    "questionEN": "What is the capital of Norway?",
+    "answersEL": ["Στοκχόλμη", "Ελσίνκι", "Όσλο", "Κοπεγχάγη"],
+    "answersEN": ["Stockholm", "Helsinki", "Oslo", "Copenhagen"],
+    "correctIndex": 2
+  },
+  {
+    "id": 152,
+    "categoryEL": "Ιστορία",
+    "categoryEN": "History",
+    "questionEL": "Ποιος Ρωμαίος αυτοκράτορας μετέφερε την πρωτεύουσα της αυτοκρατορίας στο Βυζάντιο;",
+    "questionEN": "Which Roman emperor moved the empire's capital to Byzantium?",
+    "answersEL": ["Ιούλιος Καίσαρας", "Μέγας Κωνσταντίνος", "Αύγουστος", "Νέρωνας"],
+    "answersEN": ["Julius Caesar", "Constantine the Great", "Augustus", "Nero"],
+    "correctIndex": 1
+  },
+  {
+    "id": 153,
+    "categoryEL": "Βιολογία",
+    "categoryEN": "Biology",
+    "questionEL": "Ποια ουσία δίνει στα φυτά το πράσινο χρώμα τους και απορροφά το φως;",
+    "questionEN": "Which substance gives plants their green color and absorbs light?",
+    "answersEL": ["Αιμοσφαιρίνη", "Χλωροφύλλη", "Καροτίνη", "Μελανίνη"],
+    "answersEN": ["Hemoglobin", "Chlorophyll", "Carotene", "Melanin"],
+    "correctIndex": 1
+  },
+  {
+    "id": 154,
+    "categoryEL": "Σινεμά",
+    "categoryEN": "Cinema",
+    "questionEL": "Ποια ταινία κινουμένων σχεδίων της Disney διαδραματίζεται στην Αφρική και έχει ήρωα τον Simba;",
+    "questionEN": "Which Disney animated movie is set in Africa and features Simba?",
+    "answersEL": ["Ταρζάν", "Ο Βασιλιάς των Λιονταριών", "Αλαντίν", "Μανταγασκάρη"],
+    "answersEN": ["Tarzan", "The Lion King", "Aladdin", "Madagascar"],
+    "correctIndex": 1
+  },
+  {
+    "id": 155,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποιο είναι το επίσημο νόμισμα της Νότιας Αφρικής;",
+    "questionEN": "What is the official currency of South Africa?",
+    "answersEL": ["Ράντ", "Δολάριο", "Σελίνι", "Λίρα"],
+    "answersEN": ["Rand", "Dollar", "Shilling", "Pound"],
+    "correctIndex": 0
+  },
+  {
+    "id": 156,
+    "categoryEL": "Μυθολογία",
+    "categoryEN": "Mythology",
+    "questionEL": "Ποιος μυθικός ήρωας πέταξε πολύ κοντά στον ήλιο με κέρινα φτερά και έπεσε στη θάλασσα;",
+    "questionEN": "Which mythical hero flew too close to the sun with wax wings and fell into the sea?",
+    "answersEL": ["Δαίδαλος", "Ίκαρος", "Φαέθων", "Βελλεροφόντης"],
+    "answersEN": ["Daedalus", "Icarus", "Phaethon", "Bellerophon"],
+    "correctIndex": 1
+  },
+  {
+    "id": 157,
+    "categoryEL": "Επιστήμη",
+    "categoryEN": "Science",
+    "questionEL": "Ποια είναι η πλησιέστερη στον άνθρωπο ομάδα πρωτευόντων θηλαστικών (γενετικά);",
+    "questionEN": "Which group of primates is genetically closest to humans?",
+    "answersEL": ["Γορίλας", "Χιμπατζής", "Ουρανκοτάγκος", "Λεμούριος"],
+    "answersEN": ["Gorilla", "Chimpanzee", "Orangutan", "Lemur"],
+    "correctIndex": 1
+  },
+  {
+    "id": 158,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Σε ποια χώρα βρίσκεται το περίφημο μνημείο Ταζ Μαχάλ;",
+    "questionEN": "In which country is the famous Taj Mahal monument located?",
+    "answersEL": ["Πακιστάν", "Ινδία", "Νεπάλ", "Ταϊλάνδη"],
+    "answersEN": ["Pakistan", "India", "Nepal", "Thailand"],
+    "correctIndex": 1
+  },
+  {
+    "id": 159,
+    "categoryEL": "Τεχνολογία",
+    "categoryEN": "Technology",
+    "questionEL": "Τι σημαίνουν τα αρχικά του όρου 'USB' στις ηλεκτρονικές συσκευές;",
+    "questionEN": "What do the initials 'USB' stand for in electronic devices?",
+    "answersEL": ["Universal Serial Bus", "United Software Base", "Universal System Board", "Unique Serial Boot"],
+    "answersEN": ["Universal Serial Bus", "United Software Base", "Universal System Board", "Unique Serial Boot"],
+    "correctIndex": 0
+  },
+  {
+    "id": 160,
+    "categoryEL": "Χημεία",
+    "categoryEN": "Chemistry",
+    "questionEL": "Ποιο είναι το κοινό όνομα της χημικής ένωσης 'Χλωριούχο Νάτριο' (NaCl);",
+    "questionEN": "What is the common name for the chemical compound 'Sodium Chloride' (NaCl)?",
+    "answersEL": ["Ζάχαρη", "Αλάτι", "Σόδα", "Ξύδι"],
+    "answersEN": ["Sugar", "Salt", "Baking Soda", "Vinegar"],
+    "correctIndex": 1
+  },
+  {
+    "id": 161,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια είναι η πρωτεύουσα της Ελβετίας;",
+    "questionEN": "What is the capital of Switzerland?",
+    "answersEL": ["Ζυρίχη", "Γενεύη", "Βέρνη", "Λουκέρνη"],
+    "answersEN": ["Zurich", "Geneva", "Bern", "Lucerne"],
+    "correctIndex": 2
+  },
+  {
+    "id": 162,
+    "categoryEL": "Σπορ",
+    "categoryEN": "Sports",
+    "questionEL": "Πόσοι παίκτες μιας ομάδας μπάσκετ βρίσκονται ταυτόχρονα μέσα στο παρκέ κατά τη διάρκεια του αγώνα;",
+    "questionEN": "How many players of a basketball team are on the court at the same time during a game?",
+    "answersEL": ["4", "5", "6", "11"],
+    "answersEN": ["4", "5", "6", "11"],
+    "correctIndex": 1
+  },
+  {
+    "id": 163,
+    "categoryEL": "Λογοτεχνία",
+    "categoryEN": "Literature",
+    "questionEL": "Ποιο διάσημο βιβλίο φαντασίας του J.R.R. Tolkien διαδραματίζεται στη 'Μέση Γη';",
+    "questionEN": "Which famous fantasy book by J.R.R. Tolkien is set in 'Middle-earth'?",
+    "answersEL": ["Ο Χάρι Πότερ", "Ο Άρχοντας των Δαχτυλιδιών", "Τα Χρονικά της Νάρνια", "Game of Thrones"],
+    "answersEN": ["Harry Potter", "The Lord of the Rings", "The Chronicles of Narnia", "Game of Thrones"],
+    "correctIndex": 1
+  },
+  {
+    "id": 164,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποιο είναι το μικρότερο σε έκταση νησί του Ιονίου Πελάγους (από τα Επτάνησα);",
+    "questionEN": "Which is the smallest island in the Ionian Sea (among the Heptanese)?",
+    "answersEL": ["Ιθάκη", "Παξοί", "Κύθηρα", "Λευκάδα"],
+    "answersEN": ["Ithaca", "Paxos", "Kythira", "Lefkada"],
+    "correctIndex": 1
+  },
+  {
+    "id": 165,
+    "categoryEL": "Ιστορία",
+    "categoryEN": "History",
+    "questionEL": "Ποιος ήταν ο ηγέτης της Ναζιστικής Γερμανίας κατά τον Δεύτερο Παγκόσμιο Πόλεμο;",
+    "questionEN": "Who was the leader of Nazi Germany during World War II?",
+    "answersEL": ["Μπενίτο Μουσολίνι", "Αδόλφος Χίτλερ", "Ιωσήφ Στάλιν", "Ουίνστον Τσώρτσιλ"],
+    "answersEN": ["Benito Mussolini", "Adolf Hitler", "Joseph Stalin", "Winston Churchill"],
+    "correctIndex": 1
+  },
+  {
+    "id": 166,
+    "categoryEL": "Αστρονομία",
+    "categoryEN": "Astronomy",
+    "questionEL": "Ποιο είναι το δεύτερο πλησιέστερο αστέρι στη Γη μετά τον Ήλιο;",
+    "questionEN": "What is the second closest star to Earth after the Sun?",
+    "answersEL": ["Σείριος", "Εγγύτατος Κενταύρου", "Βέγας", "Πολικός Αστέρας"],
+    "answersEN": ["Sirius", "Proxima Centauri", "Vega", "North Star"],
+    "correctIndex": 1
+  },
+  {
+    "id": 167,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποιο κράτος είναι το μοναδικό που καταλαμβάνει μια ολόκληρη ήπειρο;",
+    "questionEN": "Which country is the only one that occupies an entire continent?",
+    "answersEL": ["Ρωσία", "Καναδάς", "Αυστραλία", "Βραζιλία"],
+    "answersEN": ["Russia", "Canada", "Australia", "Brazil"],
+    "correctIndex": 2
+  },
+  {
+    "id": 168,
+    "categoryEL": "Τέχνη",
+    "categoryEN": "Art",
+    "questionEL": "Ποιος Ισπανός ζωγράφος είναι ο πιο διάσημος εκπρόσωπος του Κυβισμού;",
+    "questionEN": "Which Spanish painter is the most famous representative of Cubism?",
+    "answersEL": ["Σαλβαδόρ Νταλί", "Πάμπλο Πικάσο", "Φρανθίσκο Γκόγια", "Ντιέγκο Βελάθκεθ"],
+    "answersEN": ["Salvador Dali", "Pablo Picasso", "Francisco Goya", "Diego Velazquez"],
+    "correctIndex": 1
+  },
+  {
+    "id": 169,
+    "categoryEL": "Ζωολογία",
+    "categoryEN": "Zoology",
+    "questionEL": "Ποιο ζώο έχει τη μεγαλύτερη διάρκεια εγκυμοσύνης (περίπου 22 μήνες);",
+    "questionEN": "Which animal has the longest gestation period (about 22 months)?",
+    "answersEL": ["Γαλάζια Φάλαινα", "Ασιατικός Ελέφαντας", "Καμηλοπάρδαλη", "Ρινόκερος"],
+    "answersEN": ["Blue Whale", "Asian Elephant", "Giraffe", "Rhinoceros"],
+    "correctIndex": 1
+  },
+  {
+    "id": 170,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια είναι η πρωτεύουσα της Κούβας;",
+    "questionEN": "What is the capital of Cuba?",
+    "answersEL": ["Αβάνα", "Σαντιάγο", "Κίνγκστον", "Σάντο Ντομίνγκο"],
+    "answersEN": ["Havana", "Santiago", "Kingston", "Santo Domingo"],
+    "correctIndex": 0
+  },
+  {
+    "id": 171,
+    "categoryEL": "Φυσική",
+    "categoryEN": "Physics",
+    "questionEL": "Ποιο όργανο χρησιμοποιείται για τη μέτρηση του ηλεκτρικού ρεύματος;",
+    "questionEN": "Which instrument is used to measure electric current?",
+    "answersEL": ["Βολτόμετρο", "Αμπερόμετρο", "Ωμόμετρο", "Γαλβανόμετρο"],
+    "answersEN": ["Voltmeter", "Ammeter", "Ohmmeter", "Galvanometer"],
+    "correctIndex": 1
+  },
+  {
+    "id": 172,
+    "categoryEL": "Μυθολογία",
+    "categoryEN": "Mythology",
+    "questionEL": "Ποιος ήταν ο φύλακας-σκύλος με τα τρία κεφάλια που προστάτευε την έξοδο από τον Άδη;",
+    "questionEN": "Who was the three-headed hound that guarded the exit of Hades?",
+    "answersEL": ["Κέρβερος", "Όρθρος", "Χίμαιρα", "Μινώταυρος"],
+    "answersEN": ["Cerberus", "Orthrus", "Chimera", "Minotaur"],
+    "correctIndex": 0
+  },
+  {
+    "id": 173,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποιο είναι το μεγαλύτερο σε μήκος σινικό τείχος (Μεγάλο Τείχος) στον κόσμο;",
+    "questionEN": "Which country built the Great Wall, the longest wall in the world?",
+    "answersEL": ["Μογγολία", "Ιαπωνία", "Κίνα", "Κορέα"],
+    "answersEN": ["Mongolia", "Japan", "China", "Korea"],
+    "correctIndex": 2
+  },
+  {
+    "id": 174,
+    "categoryEL": "Γαστρονομία",
+    "categoryEN": "Gastronomy",
+    "questionEL": "Ποιο είναι το κύριο αλκοολούχο ποτό που χρησιμοποιείται για την παρασκευή ενός Mojito;",
+    "questionEN": "What is the primary alcoholic spirit used in a Mojito?",
+    "answersEL": ["Βότκα", "Τζιν", "Ρούμι", "Τεκίλα"],
+    "answersEN": ["Vodka", "Gin", "Rum", "Tequila"],
+    "correctIndex": 2
+  },
+  {
+    "id": 175,
+    "categoryEL": "Gaming",
+    "categoryEN": "Gaming",
+    "questionEL": "Ποιο είναι το όνομα του πράσινου δεινόσαυρου που συνοδεύει τον Mario στα παιχνίδια της Nintendo;",
+    "questionEN": "What is the name of the green dinosaur that accompanies Mario in Nintendo games?",
+    "answersEL": ["Luigi", "Yoshi", "Bowser", "Toad"],
+    "answersEN": ["Luigi", "Yoshi", "Bowser", "Toad"],
+    "correctIndex": 1
+  },
+  {
+    "id": 176,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια είναι η πρωτεύουσα του Μεξικού;",
+    "questionEN": "What is the capital of Mexico?",
+    "answersEL": ["Γουαδαλαχάρα", "Κανκούν", "Πόλη του Μεξικού", "Μοντερέι"],
+    "answersEN": ["Guadalajara", "Cancun", "Mexico City", "Monterrey"],
+    "correctIndex": 2
+  },
+  {
+    "id": 177,
+    "categoryEL": "Ανατομία",
+    "categoryEN": "Anatomy",
+    "questionEL": "Ποιο είναι το κύριο αέριο που αποβάλλει ο άνθρωπος κατά την εκπνοή;",
+    "questionEN": "What is the main gas released by humans during exhalation?",
+    "answersEL": ["Οξυγόνο", "Διοξείδιο του Άνθρακα", "Άζωτο", "Μονοξείδιο του Άνθρακα"],
+    "answersEN": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Carbon Monoxide"],
+    "correctIndex": 1
+  },
+  {
+    "id": 178,
+    "categoryEL": "Ιστορία",
+    "categoryEN": "History",
+    "questionEL": "Ποιο έτος έγινε η Ελληνική Επανάσταση κατά του Οθωμανικού ζυγού;",
+    "questionEN": "In which historical year did the Greek Revolution against the Ottoman rule begin?",
+    "answersEL": ["1721", "1821", "1921", "1453"],
+    "answersEN": ["1721", "1821", "1921", "1453"],
+    "correctIndex": 1
+  },
+  {
+    "id": 179,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποιο είναι το ψηλότερο κτίριο στον κόσμο (Burj Khalifa);",
+    "questionEN": "In which city is the Burj Khalifa, the tallest building in the world, located?",
+    "answersEL": ["Νέα Υόρκη", "Ντουμπάι", "Τόκιο", "Σαγκάη"],
+    "answersEN": ["New York", "Dubai", "Tokyo", "Shanghai"],
+    "correctIndex": 1
+  },
+  {
+    "id": 180,
+    "categoryEL": "Φύση",
+    "categoryEN": "Nature",
+    "questionEL": "Ποια είναι η κύρια πηγή ενέργειας για τον πλανήτη Γη;",
+    "questionEN": "What is the primary source of energy for planet Earth?",
+    "answersEL": ["Ωκεανοί", "Ήλιος", "Άνεμος", "Ηφαίστεια"],
+    "answersEN": ["Oceans", "Sun", "Wind", "Volcanoes"],
+    "correctIndex": 1
+  },
+  {
+    "id": 181,
+    "categoryEL": "Σινεμά",
+    "categoryEN": "Cinema",
+    "questionEL": "Ποιος ηθοποιός υποδύθηκε τον Wolverine στην κινηματογραφική σειρά X-Men;",
+    "questionEN": "Which actor played Wolverine in the X-Men film series?",
+    "answersEL": ["Χιου Τζάκμαν", "Ρόμπερτ Ντάουνι Τζούνιορ", "Μπράντ Πιτ", "Τομ Κρουζ"],
+    "answersEN": ["Hugh Jackman", "Robert Downey Jr.", "Brad Pitt", "Tom Cruise"],
+    "correctIndex": 0
+  },
+  {
+    "id": 182,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποιο είναι το όνομα του πελαγικού συμπλέγματος που περιλαμβάνει τη Μύκονο και τη Σαντορίνη;",
+    "questionEN": "What is the name of the island group that includes Mykonos and Santorini?",
+    "answersEL": ["Επτάνησα", "Σποράδες", "Κυκλάδες", "Δωδεκάνησα"],
+    "answersEN": ["Heptanese", "Sporades", "Cyclades", "Dodecanese"],
+    "correctIndex": 2
+  },
+  {
+    "id": 183,
+    "categoryEL": "Μουσική",
+    "categoryEN": "Music",
+    "questionEL": "Ποιο όργανο είναι γνωστό ως ο 'βασιλιάς των οργάνων' λόγω του μεγέθους και του εύρους του στις εκκλησίες;",
+    "questionEN": "Which instrument is known as the 'king of instruments' due to its size and range in churches?",
+    "answersEL": ["Πιάνο", "Εκκλησιαστικό Όργανο", "Άρπα", "Βιολί"],
+    "answersEN": ["Piano", "Pipe Organ", "Harp", "Violin"],
+    "correctIndex": 1
+  },
+  {
+    "id": 184,
+    "categoryEL": "Ιστορία",
+    "categoryEN": "History",
+    "questionEL": "Ποιος ήταν ο διάσημος βασιλιάς της Σπάρτης που πολέμησε στις Θερμοπύλες με τους 300;",
+    "questionEN": "Who was the famous king of Sparta who fought at Thermopylae with the 300?",
+    "answersEL": ["Λεωνίδας", "Παυσανίας", "Αγησίλαος", "Κλεομένης"],
+    "answersEN": ["Leonidas", "Pausanias", "Agesilaus", "Cleomenes"],
+    "correctIndex": 0
+  },
+  {
+    "id": 185,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια είναι η πρωτεύουσα της Τουρκίας;",
+    "questionEN": "What is the capital of Turkey?",
+    "answersEL": ["Κωνσταντινούπολη", "Άγκυρα", "Σμύρνη", "Αττάλεια"],
+    "answersEN": ["Istanbul", "Ankara", "Izmir", "Antalya"],
+    "correctIndex": 1
+  },
+  {
+    "id": 186,
+    "categoryEL": "Επιστήμη",
+    "categoryEN": "Science",
+    "questionEL": "Πόσες καταστάσεις της ύλης μελετώνται βασικά στη σχολική φυσική (Στερεή, Υγρή, Αέρια);",
+    "questionEN": "How many basic states of matter are commonly studied (Solid, Liquid, Gas)?",
+    "answersEL": ["2", "3", "4", "5"],
+    "answersEN": ["2", "3", "4", "5"],
+    "correctIndex": 1
+  },
+  {
+    "id": 187,
+    "categoryEL": "Ζωολογία",
+    "categoryEN": "Zoology",
+    "questionEL": "Ποιο είναι το μοναδικό πουλί που μπορεί να πετάξει προς τα πίσω;",
+    "questionEN": "What is the only bird that can fly backwards?",
+    "answersEL": ["Κολίμπρι", "Χελιδόνι", "Αετός", "Περιστέρι"],
+    "answersEN": ["Hummingbird", "Swallow", "Eagle", "Pigeon"],
+    "correctIndex": 0
+  },
+  {
+    "id": 188,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποιο κανάλι (διώρυγα) συνδέει τον Ατλαντικό με τον Ειρηνικό Ωκεανό;",
+    "questionEN": "Which canal connects the Atlantic Ocean with the Pacific Ocean?",
+    "answersEL": ["Διώρυγα του Σουέζ", "Διώρυγα του Παναμά", "Διώρυγα της Κορίνθου", "Διώρυγα του Κιέλου"],
+    "answersEN": ["Suez Canal", "Panama Canal", "Corinth Canal", "Kiel Canal"],
+    "correctIndex": 1
+  },
+  {
+    "id": 189,
+    "categoryEL": "Τεχνολογία",
+    "categoryEN": "Technology",
+    "questionEL": "Ποιο είναι το κοινωνικό δίκτυο με σήμα ένα μπλε πουλί (που μετονομάστηκε σε X);",
+    "questionEN": "Which social network featured a blue bird icon before being renamed to X?",
+    "answersEL": ["Facebook", "Twitter", "Instagram", "TikTok"],
+    "answersEN": ["Facebook", "Twitter", "Instagram", "TikTok"],
+    "correctIndex": 1
+  },
+  {
+    "id": 190,
+    "categoryEL": "Μαθηματικά",
+    "categoryEN": "Mathematics",
+    "questionEL": "Πόσες μοίρες έχει μια ορθή γωνία;",
+    "questionEN": "How many degrees are in a right angle?",
+    "answersEL": ["45°", "90°", "180°", "360°"],
+    "answersEN": ["45°", "90°", "180°", "360°"],
+    "correctIndex": 1
+  },
+  {
+    "id": 191,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια είναι η πρωτεύουσα της Νέας Ζηλανδίας;",
+    "questionEN": "What is the capital of New Zealand?",
+    "answersEL": ["Όκλαντ", "Ουέλινγκτον", "Κράισττσερτς", "Σίδνεϊ"],
+    "answersEN": ["Auckland", "Wellington", "Christchurch", "Sydney"],
+    "correctIndex": 1
+  },
+  {
+    "id": 192,
+    "categoryEL": "Ιστορία",
+    "categoryEN": "History",
+    "questionEL": "Ποιος ήταν ο πρόεδρος της Νότιας Αφρικής που αγωνίστηκε κατά του Απαρτχάιντ και κέρδισε Νόμπελ Ειρήνης;",
+    "questionEN": "Who was the South African president who fought against Apartheid and won a Nobel Peace Prize?",
+    "answersEL": ["Νέλσον Μαντέλα", "Ντέσμοντ Τούτου", "Κόφι Ανάν", "Μάρτιν Λούθερ Κινγκ"],
+    "answersEN": ["Nelson Mandela", "Desmond Tutu", "Kofi Annan", "Martin Luther King"],
+    "correctIndex": 0
+  },
+  {
+    "id": 193,
+    "categoryEL": "Λογοτεχνία",
+    "categoryEN": "Literature",
+    "questionEL": "Ποιος έγραψε το πασίγνωστο παραμύθι 'Η Χιονάτη και οι Επτά Νάνοι';",
+    "questionEN": "Who wrote the famous fairy tale 'Snow White and the Seven Dwarfs'?",
+    "answersEL": ["Αδελφοί Γκριμ", "Χανς Κρίστιαν Άντερσεν", "Σαρλ Περώ", "Αίσωπος"],
+    "answersEN": ["Brothers Grimm", "Hans Christian Andersen", "Charles Perrault", "Aesop"],
+    "correctIndex": 0
+  },
+  {
+    "id": 194,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποιο είναι το μεγαλύτερο σε πληθυσμό κράτος της Ευρωπαϊκής Ένωσης;",
+    "questionEN": "Which is the most populous country in the European Union?",
+    "answersEL": ["Γαλλία", "Γερμανία", "Ιταλία", "Ισπανία"],
+    "answersEN": ["France", "Germany", "Italy", "Spain"],
+    "correctIndex": 1
+  },
+  {
+    "id": 195,
+    "categoryEL": "Χημεία",
+    "categoryEN": "Chemistry",
+    "questionEL": "Ποιο είναι το χημικό σύμβολο για τον Σίδηρο;",
+    "questionEN": "What is the chemical symbol for Iron?",
+    "answersEL": ["I", "Ir", "Fe", "Zn"],
+    "answersEN": ["I", "Ir", "Fe", "Zn"],
+    "correctIndex": 2
+  },
+  {
+    "id": 196,
+    "categoryEL": "Μυθολογία",
+    "categoryEN": "Mythology",
+    "questionEL": "Ποιος θεός της ελληνικής μυθολογίας ήταν ο κατασκευαστής των όπλων των θεών και θεός της φωτιάς;",
+    "questionEN": "Which Greek god was the blacksmith of the gods and god of fire?",
+    "answersEL": ["Άρης", "Ήφαιστος", "Ερμής", "Απόλλωνας"],
+    "answersEN": ["Ares", "Hephaestus", "Hermes", "Apollo"],
+    "correctIndex": 1
+  },
+  {
+    "id": 197,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια είναι η πρωτεύουσα της Σουηδίας;",
+    "questionEN": "What is the capital of Sweden?",
+    "answersEL": ["Όσλο", "Κοπεγχάγη", "Στοκχόλμη", "Ελσίνκι"],
+    "answersEN": ["Oslo", "Copenhagen", "Stockholm", "Helsinki"],
+    "correctIndex": 2
+  },
+  {
+    "id": 198,
+    "categoryEL": "Σινεμά",
+    "categoryEN": "Cinema",
+    "questionEL": "Ποιος σκηνοθέτησε την ταινία 'Τιτανικός' (1997) και το 'Avatar';",
+    "questionEN": "Who directed the movies 'Titanic' (1997) and 'Avatar'?",
+    "answersEL": ["Στίβεν Σπίλμπεργκ", "Τζέιμς Κάμερον", "Κρίστοφερ Νόλαν", "Ρίντλεϊ Σκοτ"],
+    "answersEN": ["Steven Spielberg", "James Cameron", "Christopher Nolan", "Ridley Scott"],
+    "correctIndex": 1
+  },
+  {
+    "id": 199,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια είναι η μεγαλύτερη σε έκταση λίμνη της Ελλάδας;",
+    "questionEN": "Which is the largest lake in Greece by surface area?",
+    "answersEL": ["Βόλβη", "Βεγορίτιδα", "Τριχωνίδα", "Πρέσπα"],
+    "answersEN": ["Volvi", "Vegoritida", "Trichonida", "Prespa"],
+    "correctIndex": 2
+  },
+  {
+    "id": 200,
+    "categoryEL": "Επιστήμη",
+    "categoryEN": "Science",
+    "questionEL": "Ποιος επιστήμονας διατύπωσε τον νόμο της παγκόσμιας έλξης (βαρύτητα) μετά από την πτώση ενός μήλου;",
+    "questionEN": "Which scientist formulated the law of universal gravitation after observing a falling apple?",
+    "answersEL": ["Άλμπερτ Αϊνστάιν", "Γαλιλαίος", "Ισαάκ Νεύτων", "Νίκολα Τέσλα"],
+    "answersEN": ["Albert Einstein", "Galileo", "Isaac Newton", "Nikola Tesla"],
+    "correctIndex": 2
   }
-]
+]  
+
+  
