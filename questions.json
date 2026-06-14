@@ -2501,7 +2501,15 @@
     "answersEL": ["Άλπεις", "Καυκάσιος", "Ουράλια Όρη", "Καρπάθια"],
     "answersEN": ["Alps", "Caucasus", "Ural Mountains", "Carpathians"],
     "correctIndex": 2
-  }
+  },
+{
+  "id": 251,
+  "categoryEL": "Ιχθυολογία",
+  "categoryEN": "Ichthyology",
+  "questionEL": "Ποιο είναι το μεγαλύτερο ψάρι στον κόσμο;",
+  "questionEN": "What is the largest fish in the world?",
+  "answersEL": ["Καρχαρίας-Φάλαινα", "Τόνος", "Ξιφίας", "Μπακαλιάρος"],
+  "answersEN": ["Whale Shark", "Tuna", "Swordfish", "Cod"],
+  "correctIndex": 0
+}  
 ]  
-
-  
