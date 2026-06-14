@@ -2000,7 +2000,509 @@
     "answersEL": ["Άλμπερτ Αϊνστάιν", "Γαλιλαίος", "Ισαάκ Νεύτων", "Νίκολα Τέσλα"],
     "answersEN": ["Albert Einstein", "Galileo", "Isaac Newton", "Nikola Tesla"],
     "correctIndex": 2
+  },
+
+  {
+    "id": 201,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποιο είναι το μακρύτερο ποτάμι αποκλειστικά εντός της Ευρώπης;",
+    "questionEN": "Which is the longest river entirely within Europe?",
+    "answersEL": ["Δούναβης", "Βόλγας", "Ρήνος", "Σέκουνας"],
+    "answersEN": ["Danube", "Volga", "Rhine", "Seine"],
+    "correctIndex": 1
+  },
+  {
+    "id": 202,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποιο ενεργό ηφαίστειο είναι το υψηλότερο στην ευρωπαϊκή ήπειρο;",
+    "questionEN": "Which active volcano is the highest in the European continent?",
+    "answersEL": ["Βεζούβιος", "Στρόμπολι", "Αίτνα", "Σαντορίνη"],
+    "answersEN": ["Vesuvius", "Stromboli", "Etna", "Santorini"],
+    "correctIndex": 2
+  },
+  {
+    "id": 203,
+    "categoryEL": "Ιστορία",
+    "categoryEN": "History",
+    "questionEL": "Σε ποια σημερινή χώρα υπογράφηκε η Magna Carta το 1215;",
+    "questionEN": "In which modern country was the Magna Carta signed in 1215?",
+    "answersEL": ["Γαλλία", "Αγγλία", "Γερμανία", "Ιταλία"],
+    "answersEN": ["France", "England", "Germany", "Italy"],
+    "correctIndex": 1
+  },
+  {
+    "id": 204,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια είναι η πρωτεύουσα της Ισλανδίας;",
+    "questionEN": "What is the capital of Iceland?",
+    "answersEL": ["Ρέικιαβικ", "Όσλο", "Ελσίνκι", "Κοπεγχάγη"],
+    "answersEN": ["Reykjavik", "Oslo", "Helsinki", "Copenhagen"],
+    "correctIndex": 0
+  },
+  {
+    "id": 205,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια χώρα της Ευρώπης έχει τις περισσότερες λίμνες στην επικράτειά της;",
+    "questionEN": "Which European country has the most lakes within its territory?",
+    "answersEL": ["Σουηδία", "Νορβηγία", "Φινλανδία", "Ελβετία"],
+    "answersEN": ["Sweden", "Norway", "Finland", "Switzerland"],
+    "correctIndex": 2
+  },
+  {
+    "id": 206,
+    "categoryEL": "Πολιτική",
+    "categoryEN": "Politics",
+    "questionEL": "Πού βρίσκεται η επίσημη έδρα του Ευρωπαϊκού Κοινοβουλίου;",
+    "questionEN": "Where is the official seat of the European Parliament?",
+    "answersEL": ["Βρυξέλλες", "Στρασβούργο", "Λουξεμβούργο", "Φρανκφούρτη"],
+    "answersEN": ["Brussels", "Strasbourg", "Luxembourg", "Frankfurt"],
+    "correctIndex": 1
+  },
+  {
+    "id": 207,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποιο στενό χωρίζει την Ισπανία από το Μαρόκο;",
+    "questionEN": "Which strait separates Spain from Morocco?",
+    "answersEL": ["Στενό του Βοσπόρου", "Στενό του Γιβραλτάρ", "Στενό των Δαρδανελίων", "Στενό της Μεσσήνης"],
+    "answersEN": ["Bosphorus Strait", "Strait of Gibraltar", "Dardanelles Strait", "Strait of Messina"],
+    "correctIndex": 1
+  },
+  {
+    "id": 208,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια είναι η πρωτεύουσα της Ελβετίας;",
+    "questionEN": "What is the capital of Switzerland?",
+    "answersEL": ["Ζυρίχη", "Γενεύη", "Βέρνη", "Λουκέρνη"],
+    "answersEN": ["Zurich", "Geneva", "Bern", "Lucerne"],
+    "correctIndex": 2
+  },
+  {
+    "id": 209,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Σε ποια ευρωπαϊκή πόλη έπεσε το περίφημο 'Τείχος' το 1989;",
+    "questionEN": "In which European city did the famous 'Wall' fall in 1989?",
+    "answersEL": ["Βιέννη", "Βερολίνο", "Πράγα", "Βουδαπέστη"],
+    "answersEN": ["Vienna", "Berlin", "Prague", "Budapest"],
+    "correctIndex": 1
+  },
+  {
+    "id": 210,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια είναι η μεγαλύτερη σε έκταση λίμνη της κεντρικής Ευρώπης;",
+    "questionEN": "What is the largest lake in Central Europe by surface area?",
+    "answersEL": ["Λίμνη Μπάλατον", "Λίμνη της Γενεύης", "Λίμνη Κωνσταντίας", "Λίμνη Γκάρντα"],
+    "answersEN": ["Lake Balaton", "Lake Geneva", "Lake Constance", "Lake Garda"],
+    "correctIndex": 0
+  },
+  {
+    "id": 211,
+    "categoryEL": "Τέχνη",
+    "categoryEN": "Art",
+    "questionEL": "Ποιος διάσημος αρχιτέκτονας σχεδίασε τη Sagrada Familia στη Βαρκελώνη;",
+    "questionEN": "Which famous architect designed the Sagrada Familia in Barcelona?",
+    "answersEL": ["Πάμπλο Πικάσο", "Αντόνι Γκαουντί", "Λε Κορμπιζιέ", "Μιχαήλ Άγγελος"],
+    "answersEN": ["Pablo Picasso", "Antoni Gaudi", "Le Corbusier", "Michelangelo"],
+    "correctIndex": 1
+  },
+  {
+    "id": 212,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια σκανδιναβική χώρα είναι γνωστή για τα εντυπωσιακά φιόρδ της;",
+    "questionEN": "Which Scandinavian country is famous for its stunning fjords?",
+    "answersEL": ["Δανία", "Σουηδία", "Νορβηγία", "Φινλανδία"],
+    "answersEN": ["Denmark", "Sweden", "Norway", "Finland"],
+    "correctIndex": 2
+  },
+  {
+    "id": 213,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποιο πέλαγος βρίσκεται ανάμεσα στην Ιταλία και την Κροατία;",
+    "questionEN": "Which sea is located between Italy and Croatia?",
+    "answersEL": ["Τυρρηνικό Πέλαγος", "Αδριατική Θάλασσα", "Ιόνιο Πέλαγος", "Αιγαίο Πέλαγος"],
+    "answersEN": ["Tyrrhenian Sea", "Adriatic Sea", "Ionian Sea", "Aegean Sea"],
+    "correctIndex": 1
+  },
+  {
+    "id": 214,
+    "categoryEL": "Ιστορία",
+    "categoryEN": "History",
+    "questionEL": "Ποιος πολιτισμός έχτισε το Κολοσσαίο;",
+    "questionEN": "Which civilization built the Colosseum?",
+    "answersEL": ["Αρχαίοι Έλληνες", "Ρωμαίοι", "Ετρούσκοι", "Βυζαντινοί"],
+    "answersEN": ["Ancient Greeks", "Romans", "Etruscans", "Byzantines"],
+    "correctIndex": 1
+  },
+  {
+    "id": 215,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια είναι η πρωτεύουσα της Πορτογαλίας;",
+    "questionEN": "What is the capital of Portugal?",
+    "answersEL": ["Μαδρίτη", "Λισαβόνα", "Πόρτο", "Βαρκελώνη"],
+    "answersEN": ["Madrid", "Lisbon", "Porto", "Barcelona"],
+    "correctIndex": 1
+  },
+  {
+    "id": 216,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια οροσειρά αποτελεί το φυσικό σύνορο μεταξύ Γαλλίας και Ισπανίας;",
+    "questionEN": "Which mountain range forms the natural border between France and Spain?",
+    "answersEL": ["Άλπεις", "Πυρηναία", "Απέννινα", "Καρπάθια"],
+    "answersEN": ["Alps", "Pyrenees", "Apennines", "Carpathians"],
+    "correctIndex": 1
+  },
+  {
+    "id": 217,
+    "categoryEL": "Μουσική",
+    "categoryEN": "Music",
+    "questionEL": "Σε ποια ευρωπαϊκή πόλη γεννήθηκε ο Βόλφγκανγκ Αμαντέους Μότσαρτ;",
+    "questionEN": "In which European city was Wolfgang Amadeus Mozart born?",
+    "answersEL": ["Βιέννη", "Σάλτσμπουργκ", "Βερολίνο", "Μόναχο"],
+    "answersEN": ["Vienna", "Salzburg", "Berlin", "Munich"],
+    "correctIndex": 1
+  },
+  {
+    "id": 218,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποιο είναι το δεύτερο μικρότερο ανεξάρτητο κράτος στην Ευρώπη μετά το Βατικανό;",
+    "questionEN": "What is the second smallest independent state in Europe after the Vatican?",
+    "answersEL": ["Μονακό", "Άγιος Μαρίνος", "Λίχτενσταϊν", "Ανδόρα"],
+    "answersEN": ["Monaco", "San Marino", "Liechtenstein", "Andorra"],
+    "correctIndex": 0
+  },
+  {
+    "id": 219,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια χώρα της Ευρώπης είναι γνωστή και ως 'Κάτω Χώρες';",
+    "questionEN": "Which European country is also known as the 'Low Countries'?",
+    "answersEL": ["Βέλγιο", "Ολλανδία", "Λουξεμβούργο", "Δανία"],
+    "answersEN": ["Belgium", "Netherlands", "Luxembourg", "Denmark"],
+    "correctIndex": 1
+  },
+  {
+    "id": 220,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια είναι η πρωτεύουσα της Πολωνίας;",
+    "questionEN": "What is the capital of Poland?",
+    "answersEL": ["Κρακοβία", "Βαρσοβία", "Πράγα", "Βουδαπέστη"],
+    "answersEN": ["Krakow", "Warsaw", "Prague", "Budapest"],
+    "correctIndex": 1
+  },
+  {
+    "id": 221,
+    "categoryEL": "Ιστορία",
+    "categoryEN": "History",
+    "questionEL": "Ποια ευρωπαϊκή χώρα υπέφερε από έναν μεγάλο λιμό πατάτας τη δεκαετία του 1840;",
+    "questionEN": "Which European country suffered from a great potato famine in the 1840s?",
+    "answersEL": ["Σκωτία", "Ιρλανδία", "Γαλλία", "Πολωνία"],
+    "answersEN": ["Scotland", "Ireland", "France", "Poland"],
+    "correctIndex": 1
+  },
+  {
+    "id": 222,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποιο μεγάλο νησί της Μεσογείου ανήκει στη Γαλλία;",
+    "questionEN": "Which large Mediterranean island belongs to France?",
+    "answersEL": ["Σαρδηνία", "Σικελία", "Κορσική", "Κρήτη"],
+    "answersEN": ["Sardinia", "Sicily", "Corsica", "Crete"],
+    "correctIndex": 2
+  },
+  {
+    "id": 223,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια είναι η πρωτεύουσα της Αυστρίας;",
+    "questionEN": "What is the capital of Austria?",
+    "answersEL": ["Μόναχο", "Βιέννη", "Ζυρίχη", "Μπρατισλάβα"],
+    "answersEN": ["Munich", "Vienna", "Zurich", "Bratislava"],
+    "correctIndex": 1
+  },
+  {
+    "id": 224,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποιο ποτάμι περνάει μέσα από το Λονδίνο;",
+    "questionEN": "Which river flows through London?",
+    "answersEL": ["Σέκουνας", "Τάμεσης", "Ρήνος", "Δούναβης"],
+    "answersEN": ["Seine", "Thames", "Rhine", "Danube"],
+    "correctIndex": 1
+  },
+  {
+    "id": 225,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Σε ποια χώρα βρίσκεται το Κάστρο του Νόισβανσταϊν, που ενέπνευσε τη Disney;",
+    "questionEN": "In which country is Neuschwanstein Castle, which inspired Disney?",
+    "answersEL": ["Αυστρία", "Γαλλία", "Γερμανία", "Ελβετία"],
+    "answersEN": ["Austria", "France", "Germany", "Switzerland"],
+    "correctIndex": 2
+  },
+  {
+    "id": 226,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποιο είναι το επίσημο νόμισμα της Σουηδίας;",
+    "questionEN": "What is the official currency of Sweden?",
+    "answersEL": ["Ευρώ", "Σουηδική Κορstatus", "Λίρα", "Φράγκο"],
+    "answersEN": ["Euro", "Swedish Krona", "Pound", "Franc"],
+    "correctIndex": 1
+  },
+  {
+    "id": 227,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια είναι η πρωτεύουσα της Δημοκρατίας της Ιρλανδίας;",
+    "questionEN": "What is the capital of the Republic of Ireland?",
+    "answersEL": ["Μπέλφαστ", "Δουβλίνο", "Εδιμβούργο", "Λονδίνο"],
+    "answersEN": ["Belfast", "Dublin", "Edinburgh", "London"],
+    "correctIndex": 1
+  },
+  {
+    "id": 228,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποιο είναι το ψηλότερο βουνό των Άλπεων;",
+    "questionEN": "What is the highest mountain in the Alps?",
+    "answersEL": ["Μάτερχορν", "Λευκό Όρος (Mont Blanc)", "Όλυμπος", "Βενstatus"],
+    "answersEN": ["Matterhorn", "Mont Blanc", "Olympus", "Ben Nevis"],
+    "correctIndex": 1
+  },
+  {
+    "id": 229,
+    "categoryEL": "Ιστορία",
+    "categoryEN": "History",
+    "questionEL": "Ποια σκανδιναβική ναυτική φυλή κυριάρχησε στην Ευρώπη από τον 8ο έως τον 11ο αιώνα;",
+    "questionEN": "Which Scandinavian seafaring warrior tribe dominated Europe from the 8th to the 11th century?",
+    "answersEL": ["Κέλτες", "Βάνδαλοι", "Βίκινγκς", "Γότθοι"],
+    "answersEN": ["Celts", "Vandals", "Vikings", "Goths"],
+    "correctIndex": 2
+  },
+  {
+    "id": 230,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια είναι η πρωτεύουσα της Ουγγαρίας;",
+    "questionEN": "What is the capital of Hungary?",
+    "answersEL": ["Βουκουρέστι", "Βουδαπέστη", "Βιέννη", "Βελιγράδι"],
+    "answersEN": ["Bucharest", "Budapest", "Vienna", "Belgrade"],
+    "correctIndex": 1
+  },
+  {
+    "id": 231,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποιο κανάλι χωρίζει τη νότια Αγγλία από τη βόρεια Γαλλία;",
+    "questionEN": "Which channel separates southern England from northern France?",
+    "answersEL": ["Κανάλι της Κορίνθου", "Κανάλι της Μάνχης", "Κανάλι του Σουέζ", "Κανάλι του Παναμά"],
+    "answersEN": ["Corinth Canal", "English Channel", "Suez Canal", "Panama Canal"],
+    "correctIndex": 1
+  },
+  {
+    "id": 232,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια είναι η πρωτεύουσα της Τσεχίας;",
+    "questionEN": "What is the capital of the Czech Republic?",
+    "answersEL": ["Μπρατισλάβα", "Πράγα", "Λουμπλιάνα", "Ζάγκρεμπ"],
+    "answersEN": ["Bratislava", "Prague", "Ljubljana", "Zagreb"],
+    "correctIndex": 1
+  },
+  {
+    "id": 233,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποιο μικρό περίκλειστο κράτος βρίσκεται εξολοκλήρου μέσα στην πόλη της Ρώμης;",
+    "questionEN": "Which tiny landlocked state is located entirely within the city of Rome?",
+    "answersEL": ["Μονακό", "Άγιος Μαρίνος", "Βατικανό", "Μάλτα"],
+    "answersEN": ["Monaco", "San Marino", "Vatican City", "Malta"],
+    "correctIndex": 2
+  },
+  {
+    "id": 234,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποιο είναι το κύριο ποτάμι που διασχίζει το Παρίσι;",
+    "questionEN": "What is the main river that flows through Paris?",
+    "answersEL": ["Ροδανός", "Λίγηρας", "Σέκουνας", "Γαρούνας"],
+    "answersEN": ["Rhone", "Loire", "Seine", "Garonne"],
+    "correctIndex": 2
+  },
+  {
+    "id": 235,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια είναι η πρωτεύουσα της Ρουμανίας;",
+    "questionEN": "What is the capital of Romania?",
+    "answersEL": ["Βουδαπέστη", "Βελιγράδι", "Βουκουρέστι", "Σόφια"],
+    "answersEN": ["Budapest", "Belgrade", "Bucharest", "Sofia"],
+    "correctIndex": 2
+  },
+  {
+    "id": 236,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια χώρα κατέχει το μεγαλύτερο μέρος της Ιβηρικής Χερσονήσου;",
+    "questionEN": "Which country occupies most of the Iberian Peninsula?",
+    "answersEL": ["Πορτογαλία", "Γαλλία", "Ισπανία", "Ιταλία"],
+    "answersEN": ["Portugal", "France", "Spain", "Italy"],
+    "correctIndex": 2
+  },
+  {
+    "id": 237,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια είναι η πρωτεύουσα του Βελγίου;",
+    "questionEN": "What is the capital of Belgium?",
+    "answersEL": ["Αμβέρσα", "Μπριζ", "Βρυξέλλες", "Γάνδη"],
+    "answersEN": ["Antwerp", "Bruges", "Brussels", "Ghent"],
+    "correctIndex": 2
+  },
+  {
+    "id": 238,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποιο νησιωτικό κράτος της Μεσογείου βρίσκεται νότια της Σικελίας;",
+    "questionEN": "Which Mediterranean island nation is located south of Sicily?",
+    "answersEL": ["Κύπρος", "Μάλτα", "Κρήτη", "Ρόδος"],
+    "answersEN": ["Cyprus", "Malta", "Crete", "Rhodes"],
+    "correctIndex": 1
+  },
+  {
+    "id": 239,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια είναι η πρωτεύουσα της Ουκρανίας;",
+    "questionEN": "What is the capital of Ukraine?",
+    "answersEL": ["Οδησσός", "Λβιβ", "Κίεβο", "Χάρκοβο"],
+    "answersEN": ["Odesa", "Lviv", "Kyiv", "Kharkiv"],
+    "correctIndex": 2
+  },
+  {
+    "id": 240,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποιο είναι το μεγαλύτερο σε έκταση κράτος που ανήκει εξολοκλήρου στην Ευρώπη;",
+    "questionEN": "Which is the largest country by area located entirely within Europe?",
+    "answersEL": ["Γαλλία", "Γερμανία", "Ουκρανία", "Ισπανία"],
+    "answersEN": ["France", "Germany", "Ukraine", "Spain"],
+    "correctIndex": 2
+  },
+  {
+    "id": 241,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια είναι η πρωτεύουσα της Νορβηγίας;",
+    "questionEN": "What is the capital of Norway?",
+    "answersEL": ["Μπέργκεν", "Όσλο", "Στοκχόλμη", "Κοπεγχάγη"],
+    "answersEN": ["Bergen", "Oslo", "Stockholm", "Copenhagen"],
+    "correctIndex": 1
+  },
+  {
+    "id": 242,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποιο ποτάμι διασχίζει τις περισσότερες πρωτεύουσες του κόσμου (στην Ευρώπη);",
+    "questionEN": "Which river flows through the most capital cities in the world (in Europe)?",
+    "answersEL": ["Ρήνος", "Βόλγας", "Δούναβης", "Έλβας"],
+    "answersEN": ["Rhine", "Volga", "Danube", "Elbe"],
+    "correctIndex": 2
+  },
+  {
+    "id": 243,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια είναι η πρωτεύουσα της Φινλανδίας;",
+    "questionEN": "What is the capital of Finland?",
+    "answersEL": ["Τούρκου", "Ελσίνκι", "Τάμπερε", "Ροβανιέμι"],
+    "answersEN": ["Turku", "Helsinki", "Tampere", "Rovaniemi"],
+    "correctIndex": 1
+  },
+  {
+    "id": 244,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποιο μικρό πριγκιπάτο βρίσκεται στα Πυρηναία μεταξύ Γαλλίας και Ισπανίας;",
+    "questionEN": "Which tiny principality is located in the Pyrenees between France and Spain?",
+    "answersEL": ["Λίχτενσταϊν", "Λουξεμβούργο", "Ανδόρα", "Μονακό"],
+    "answersEN": ["Liechtenstein", "Luxembourg", "Andorra", "Monaco"],
+    "correctIndex": 2
+  },
+  {
+    "id": 245,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια είναι η πρωτεύουσα της Κροατίας;",
+    "questionEN": "What is the capital of Croatia?",
+    "answersEL": ["Σπλιτ", "Ντουμπρόβνικ", "Ζάγκρεμπ", "Ριέκα"],
+    "answersEN": ["Split", "Dubrovnik", "Zagreb", "Rijeka"],
+    "correctIndex": 2
+  },
+  {
+    "id": 246,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια χώρα της Ευρώπης είναι διάσημη για τους ανεμόμυλους και τις τουλίπες της;",
+    "questionEN": "Which European country is famous for its windmills and tulips?",
+    "answersEL": ["Βέλγιο", "Δανία", "Ολλανδία", "Αυστρία"],
+    "answersEN": ["Belgium", "Denmark", "Netherlands", "Austria"],
+    "correctIndex": 2
+  },
+  {
+    "id": 247,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια είναι η πρωτεύουσα της Βουλγαρίας;",
+    "questionEN": "What is the capital of Bulgaria?",
+    "answersEL": ["Φιλιππούπολη", "Βάρνα", "Σόφια", "Μπουργκάς"],
+    "answersEN": ["Plovdiv", "Varna", "Sofia", "Burgas"],
+    "correctIndex": 2
+  },
+  {
+    "id": 248,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποιο μεγάλο νησί του Ατλαντικού ανήκει γεωγραφικά στην Ευρώπη και είναι γνωστό για τους θερμοπίδακες (geysers);",
+    "questionEN": "Which large Atlantic island belongs geographically to Europe and is known for its geysers?",
+    "answersEL": ["Γροιλανδία", "Ιρλανδία", "Ισλανδία", "Μεγάλη Βρετανία"],
+    "answersEN": ["Greenland", "Ireland", "Iceland", "Great Britain"],
+    "correctIndex": 2
+  },
+  {
+    "id": 249,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια είναι η πρωτεύουσα της Δανίας;",
+    "questionEN": "What is the capital of Denmark?",
+    "answersEL": ["Άαρχους", "Όντενσε", "Κοπεγχάγη", "Αλμπόργκ"],
+    "answersEN": ["Aarhus", "Odense", "Copenhagen", "Aalborg"],
+    "correctIndex": 2
+  },
+  {
+    "id": 250,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια οροσειρά θεωρείται το παραδοσιακό ανατολικό σύνορο της Ευρώπης με την Ασία;",
+    "questionEN": "Which mountain range is considered the traditional eastern border of Europe with Asia?",
+    "answersEL": ["Άλπεις", "Καυκάσιος", "Ουράλια Όρη", "Καρπάθια"],
+    "answersEN": ["Alps", "Caucasus", "Ural Mountains", "Carpathians"],
+    "correctIndex": 2
   }
+]  
 ]  
 
   
