@@ -2511,5 +2511,506 @@
   "answersEL": ["Καρχαρίας-Φάλαινα", "Τόνος", "Ξιφίας", "Μπακαλιάρος"],
   "answersEN": ["Whale Shark", "Tuna", "Swordfish", "Cod"],
   "correctIndex": 0
-}  
+},
+{
+"id": 252,
+"categoryEL": "Αστρονομία",
+"categoryEN": "Astronomy",
+"questionEL": "Ποιος πλανήτης έχει τη μεγαλύτερη περίοδο περιφοράς γύρω από τον Ήλιο;",
+"questionEN": "Which planet has the longest orbital period around the Sun?",
+"answersEL": ["Κρόνος", "Ποσειδώνας", "Ουρανός", "Δίας"],
+"answersEN": ["Saturn", "Neptune", "Uranus", "Jupiter"],
+"correctIndex": 1
+},
+{
+"id": 253,
+"categoryEL": "Φυσική",
+"categoryEN": "Physics",
+"questionEL": "Ποια μονάδα μετρά την ηλεκτρική αντίσταση;",
+"questionEN": "Which unit measures electrical resistance?",
+"answersEL": ["Βολτ", "Αμπέρ", "Ωμ", "Τέσλα"],
+"answersEN": ["Volt", "Ampere", "Ohm", "Tesla"],
+"correctIndex": 2
+},
+{
+"id": 254,
+"categoryEL": "Ιστορία",
+"categoryEN": "History",
+"questionEL": "Ποια μάχη το 1815 σήμανε το τέλος της εξουσίας του Ναπολέοντα;",
+"questionEN": "Which battle in 1815 marked the end of Napoleon's rule?",
+"answersEL": ["Βατερλώ", "Αούστερλιτς", "Λειψία", "Τραφάλγκαρ"],
+"answersEN": ["Waterloo", "Austerlitz", "Leipzig", "Trafalgar"],
+"correctIndex": 0
+},
+{
+"id": 255,
+"categoryEL": "Γεωγραφία",
+"categoryEN": "Geography",
+"questionEL": "Ποιο είναι το μεγαλύτερο αρχιπέλαγος στον κόσμο;",
+"questionEN": "What is the largest archipelago in the world?",
+"answersEL": ["Ινδονησία", "Φιλιππίνες", "Ιαπωνία", "Ελλάδα"],
+"answersEN": ["Indonesia", "Philippines", "Japan", "Greece"],
+"correctIndex": 0
+},
+{
+"id": 256,
+"categoryEL": "Βιολογία",
+"categoryEN": "Biology",
+"questionEL": "Ποιο οργανίδιο είναι υπεύθυνο για την παραγωγή ενέργειας στο κύτταρο;",
+"questionEN": "Which organelle is responsible for energy production in the cell?",
+"answersEL": ["Πυρήνας", "Μιτοχόνδριο", "Ριβόσωμα", "Χλωροπλάστης"],
+"answersEN": ["Nucleus", "Mitochondrion", "Ribosome", "Chloroplast"],
+"correctIndex": 1
+},
+{
+"id": 257,
+"categoryEL": "Χημεία",
+"categoryEN": "Chemistry",
+"questionEL": "Ποιο pH θεωρείται ουδέτερο;",
+"questionEN": "Which pH value is considered neutral?",
+"answersEL": ["0", "7", "10", "14"],
+"answersEN": ["0", "7", "10", "14"],
+"correctIndex": 1
+},
+{
+"id": 258,
+"categoryEL": "Γεωγραφία",
+"categoryEN": "Geography",
+"questionEL": "Ποια χώρα έχει τη μεγαλύτερη παραγωγή καφέ παγκοσμίως;",
+"questionEN": "Which country is the largest coffee producer in the world?",
+"answersEL": ["Βραζιλία", "Κολομβία", "Βιετνάμ", "Ινδία"],
+"answersEN": ["Brazil", "Colombia", "Vietnam", "India"],
+"correctIndex": 0
+},
+{
+"id": 259,
+"categoryEL": "Ιστορία",
+"categoryEN": "History",
+"questionEL": "Ποια αρχαία πόλη καταστράφηκε από την έκρηξη του Βεζούβιου το 79 μ.Χ.;",
+"questionEN": "Which ancient city was destroyed by the eruption of Mount Vesuvius in 79 AD?",
+"answersEL": ["Πομπηία", "Αθήνα", "Σπάρτη", "Καρχηδόνα"],
+"answersEN": ["Pompeii", "Athens", "Sparta", "Carthage"],
+"correctIndex": 0
+},
+{
+"id": 260,
+"categoryEL": "Μαθηματικά",
+"categoryEN": "Mathematics",
+"questionEL": "Ποιος είναι ο τετραγωνικός ρίζας του 144;",
+"questionEN": "What is the square root of 144?",
+"answersEL": ["10", "11", "12", "13"],
+"answersEN": ["10", "11", "12", "13"],
+"correctIndex": 2
+},
+{
+"id": 261,
+"categoryEL": "Τεχνολογία",
+"categoryEN": "Technology",
+"questionEL": "Τι σημαίνει το HTML;",
+"questionEN": "What does HTML stand for?",
+"answersEL": ["Hyper Trainer Marking Language", "HyperText Markup Language", "HighText Markdown Language", "Hyper Tool Multi Language"],
+"answersEN": ["Hyper Trainer Marking Language", "HyperText Markup Language", "HighText Markdown Language", "Hyper Tool Multi Language"],
+"correctIndex": 1
+},
+{
+"id": 262,
+"categoryEL": "Ανατομία",
+"categoryEN": "Anatomy",
+"questionEL": "Ποιο όργανο φιλτράρει το αίμα και παράγει ούρα;",
+"questionEN": "Which organ filters blood and produces urine?",
+"answersEL": ["Συκώτι", "Νεφρό", "Σπλήνας", "Πάγκρεας"],
+"answersEN": ["Liver", "Kidney", "Spleen", "Pancreas"],
+"correctIndex": 1
+},
+{
+"id": 263,
+"categoryEL": "Μουσική",
+"categoryEN": "Music",
+"questionEL": "Ποιος συνθέτης έγραψε την '9η Συμφωνία';",
+"questionEN": "Which composer wrote the '9th Symphony'?",
+"answersEL": ["Μπετόβεν", "Μότσαρτ", "Μπαχ", "Σοπέν"],
+"answersEN": ["Beethoven", "Mozart", "Bach", "Chopin"],
+"correctIndex": 0
+},
+{
+"id": 264,
+"categoryEL": "Γεωγραφία",
+"categoryEN": "Geography",
+"questionEL": "Ποια είναι η πρωτεύουσα της Νότιας Κορέας;",
+"questionEN": "What is the capital of South Korea?",
+"answersEL": ["Σεούλ", "Πεκίνο", "Τόκιο", "Μανίλα"],
+"answersEN": ["Seoul", "Beijing", "Tokyo", "Manila"],
+"correctIndex": 0
+},
+{
+"id": 265,
+"categoryEL": "Φυσική",
+"categoryEN": "Physics",
+"questionEL": "Ποια δύναμη κρατά τα αντικείμενα προσκολλημένα στη Γη;",
+"questionEN": "Which force keeps objects attached to Earth?",
+"answersEL": ["Μαγνητισμός", "Βαρύτητα", "Τριβή", "Ηλεκτρισμός"],
+"answersEN": ["Magnetism", "Gravity", "Friction", "Electricity"],
+"correctIndex": 1
+},
+{
+"id": 266,
+"categoryEL": "Γεωγραφία",
+"categoryEN": "Geography",
+"questionEL": "Ποια είναι η μεγαλύτερη πόλη της Καναδά;",
+"questionEN": "What is the largest city in Canada?",
+"answersEL": ["Οτάβα", "Τορόντο", "Βανκούβερ", "Μόντρεαλ"],
+"answersEN": ["Ottawa", "Toronto", "Vancouver", "Montreal"],
+"correctIndex": 1
+},
+{
+"id": 267,
+"categoryEL": "Ιστορία",
+"categoryEN": "History",
+"questionEL": "Ποιο έτος ξεκίνησε ο Δεύτερος Παγκόσμιος Πόλεμος;",
+"questionEN": "In which year did World War II begin?",
+"answersEL": ["1935", "1939", "1941", "1945"],
+"answersEN": ["1935", "1939", "1941", "1945"],
+"correctIndex": 1
+},
+{
+"id": 268,
+"categoryEL": "Βιολογία",
+"categoryEN": "Biology",
+"questionEL": "Ποιο μόριο μεταφέρει γενετικές πληροφορίες;",
+"questionEN": "Which molecule carries genetic information?",
+"answersEL": ["RNA", "DNA", "ATP", "Πρωτεΐνη"],
+"answersEN": ["RNA", "DNA", "ATP", "Protein"],
+"correctIndex": 1
+},
+{
+"id": 269,
+"categoryEL": "Γεωγραφία",
+"categoryEN": "Geography",
+"questionEL": "Ποιο είναι το μεγαλύτερο νησί της Ιαπωνίας;",
+"questionEN": "What is the largest island of Japan?",
+"answersEL": ["Χοκάιντο", "Χονσού", "Κιουσού", "Σικόκου"],
+"answersEN": ["Hokkaido", "Honshu", "Kyushu", "Shikoku"],
+"correctIndex": 1
+},
+{
+"id": 270,
+"categoryEL": "Τεχνολογία",
+"categoryEN": "Technology",
+"questionEL": "Ποια εταιρεία ανέπτυξε το λειτουργικό σύστημα Windows;",
+"questionEN": "Which company developed the Windows operating system?",
+"answersEL": ["Apple", "Google", "Microsoft", "IBM"],
+"answersEN": ["Apple", "Google", "Microsoft", "IBM"],
+"correctIndex": 2
+},
+{
+"id": 271,
+"categoryEL": "Γεωγραφία",
+"categoryEN": "Geography",
+"questionEL": "Ποια είναι η πρωτεύουσα της Χιλής;",
+"questionEN": "What is the capital of Chile?",
+"answersEL": ["Λίμα", "Σαντιάγο", "Μπουένος Άιρες", "Καράκας"],
+"answersEN": ["Lima", "Santiago", "Buenos Aires", "Caracas"],
+"correctIndex": 1
+},
+{
+"id": 272,
+"categoryEL": "Μυθολογία",
+"categoryEN": "Mythology",
+"questionEL": "Ποιος ήταν ο θεός της θάλασσας στην ελληνική μυθολογία;",
+"questionEN": "Who was the god of the sea in Greek mythology?",
+"answersEL": ["Δίας", "Άρης", "Ποσειδώνας", "Ερμής"],
+"answersEN": ["Zeus", "Ares", "Poseidon", "Hermes"],
+"correctIndex": 2
+},
+{
+"id": 273,
+"categoryEL": "Χημεία",
+"categoryEN": "Chemistry",
+"questionEL": "Ποιο στοιχείο έχει ατομικό αριθμό 6;",
+"questionEN": "Which element has atomic number 6?",
+"answersEL": ["Άνθρακας", "Οξυγόνο", "Άζωτο", "Ήλιο"],
+"answersEN": ["Carbon", "Oxygen", "Nitrogen", "Helium"],
+"correctIndex": 0
+},
+{
+"id": 274,
+"categoryEL": "Σπορ",
+"categoryEN": "Sports",
+"questionEL": "Πόσα λεπτά διαρκεί ένας αγώνας ποδοσφαίρου (χωρίς καθυστερήσεις);",
+"questionEN": "How many minutes does a football match last (without extra time)?",
+"answersEL": ["60", "80", "90", "120"],
+"answersEN": ["60", "80", "90", "120"],
+"correctIndex": 2
+},
+{
+"id": 275,
+"categoryEL": "Γεωγραφία",
+"categoryEN": "Geography",
+"questionEL": "Ποια είναι η πρωτεύουσα της Ταϊλάνδης;",
+"questionEN": "What is the capital of Thailand?",
+"answersEL": ["Μπανγκόκ", "Χανόι", "Κουάλα Λουμπούρ", "Γιακάρτα"],
+"answersEN": ["Bangkok", "Hanoi", "Kuala Lumpur", "Jakarta"],
+"correctIndex": 0
+},
+{
+"id": 276,
+"categoryEL": "Ιστορία",
+"categoryEN": "History",
+"questionEL": "Ποια αυτοκρατορία είχε πρωτεύουσα την Κωνσταντινούπολη πριν το 1453;",
+"questionEN": "Which empire had Constantinople as its capital before 1453?",
+"answersEL": ["Ρωμαϊκή", "Βυζαντινή", "Οθωμανική", "Περσική"],
+"answersEN": ["Roman", "Byzantine", "Ottoman", "Persian"],
+"correctIndex": 1
+},
+{
+"id": 277,
+"categoryEL": "Φυσική",
+"categoryEN": "Physics",
+"questionEL": "Ποια είναι η μονάδα μέτρησης της δύναμης;",
+"questionEN": "What is the unit of force?",
+"answersEL": ["Joule", "Watt", "Newton", "Pascal"],
+"answersEN": ["Joule", "Watt", "Newton", "Pascal"],
+"correctIndex": 2
+},
+{
+"id": 278,
+"categoryEL": "Βιολογία",
+"categoryEN": "Biology",
+"questionEL": "Ποια ομάδα οργανισμών κάνει φωτοσύνθεση;",
+"questionEN": "Which group of organisms performs photosynthesis?",
+"answersEL": ["Ζώα", "Μύκητες", "Φυτά", "Βακτήρια"],
+"answersEN": ["Animals", "Fungi", "Plants", "Bacteria"],
+"correctIndex": 2
+},
+{
+"id": 279,
+"categoryEL": "Γεωγραφία",
+"categoryEN": "Geography",
+"questionEL": "Ποια είναι η πρωτεύουσα της Ινδίας;",
+"questionEN": "What is the capital of India?",
+"answersEL": ["Μουμπάι", "Νέο Δελχί", "Καλκούτα", "Τσενάι"],
+"answersEN": ["Mumbai", "New Delhi", "Kolkata", "Chennai"],
+"correctIndex": 1
+},
+{
+"id": 280,
+"categoryEL": "Τεχνολογία",
+"categoryEN": "Technology",
+"questionEL": "Ποιο είναι το κύριο πρωτόκολλο μεταφοράς δεδομένων στο web;",
+"questionEN": "What is the main protocol used for data transfer on the web?",
+"answersEL": ["FTP", "HTTP", "SMTP", "SSH"],
+"answersEN": ["FTP", "HTTP", "SMTP", "SSH"],
+"correctIndex": 1
+},
+{
+"id": 281,
+"categoryEL": "Γεωγραφία",
+"categoryEN": "Geography",
+"questionEL": "Ποια είναι η πρωτεύουσα της Ινδονησίας;",
+"questionEN": "What is the capital of Indonesia?",
+"answersEL": ["Μπανγκόκ", "Γιακάρτα", "Μανίλα", "Κουάλα Λουμπούρ"],
+"answersEN": ["Bangkok", "Jakarta", "Manila", "Kuala Lumpur"],
+"correctIndex": 1
+},
+{
+"id": 282,
+"categoryEL": "Χημεία",
+"categoryEN": "Chemistry",
+"questionEL": "Ποιο αέριο είναι απαραίτητο για την καύση;",
+"questionEN": "Which gas is necessary for combustion?",
+"answersEL": ["Άζωτο", "Οξυγόνο", "Υδρογόνο", "Ήλιο"],
+"answersEN": ["Nitrogen", "Oxygen", "Hydrogen", "Helium"],
+"correctIndex": 1
+},
+{
+"id": 283,
+"categoryEL": "Μαθηματικά",
+"categoryEN": "Mathematics",
+"questionEL": "Πόσες μοίρες έχει ένα πλήρες κύκλος;",
+"questionEN": "How many degrees are in a full circle?",
+"answersEL": ["180", "270", "360", "720"],
+"answersEN": ["180", "270", "360", "720"],
+"correctIndex": 2
+},
+{
+"id": 284,
+"categoryEL": "Ιστορία",
+"categoryEN": "History",
+"questionEL": "Ποιος ήταν ο πρώτος άνθρωπος στο διάστημα;",
+"questionEN": "Who was the first human in space?",
+"answersEL": ["Νιλ Άρμστρονγκ", "Γιούρι Γκαγκάριν", "Τζον Γκλεν", "Μπαζ Όλντριν"],
+"answersEN": ["Neil Armstrong", "Yuri Gagarin", "John Glenn", "Buzz Aldrin"],
+"correctIndex": 1
+},
+{
+"id": 285,
+"categoryEL": "Γεωγραφία",
+"categoryEN": "Geography",
+"questionEL": "Ποια είναι η πρωτεύουσα της Σαουδικής Αραβίας;",
+"questionEN": "What is the capital of Saudi Arabia?",
+"answersEL": ["Ντόχα", "Ριάντ", "Ντουμπάι", "Άμπου Ντάμπι"],
+"answersEN": ["Doha", "Riyadh", "Dubai", "Abu Dhabi"],
+"correctIndex": 1
+},
+{
+"id": 286,
+"categoryEL": "Φύση",
+"categoryEN": "Nature",
+"questionEL": "Ποια μορφή νερού έχει τη μεγαλύτερη πυκνότητα;",
+"questionEN": "Which state of water has the highest density?",
+"answersEL": ["Πάγος", "Υγρό νερό", "Υδρατμός", "Όλα ίδια"],
+"answersEN": ["Ice", "Liquid water", "Water vapor", "All equal"],
+"correctIndex": 1
+},
+{
+"id": 287,
+"categoryEL": "Ζωολογία",
+"categoryEN": "Zoology",
+"questionEL": "Ποιο ζώο έχει την πιο δυνατή δαγκωματιά σε σχέση με το μέγεθός του;",
+"questionEN": "Which animal has the strongest bite relative to its size?",
+"answersEL": ["Καρχαρίας", "Κροκόδειλος", "Ιπποπόταμος", "Σκαθάρι"],
+"answersEN": ["Shark", "Crocodile", "Hippopotamus", "Beetle"],
+"correctIndex": 1
+},
+{
+"id": 288,
+"categoryEL": "Γεωγραφία",
+"categoryEN": "Geography",
+"questionEL": "Ποια είναι η πρωτεύουσα της Κολομβίας;",
+"questionEN": "What is the capital of Colombia?",
+"answersEL": ["Λίμα", "Μπογκοτά", "Καράκας", "Λα Πας"],
+"answersEN": ["Lima", "Bogota", "Caracas", "La Paz"],
+"correctIndex": 1
+},
+{
+"id": 289,
+"categoryEL": "Τεχνολογία",
+"categoryEN": "Technology",
+"questionEL": "Ποια εταιρεία αναπτύσσει την πλατφόρμα Android;",
+"questionEN": "Which company develops the Android platform?",
+"answersEL": ["Microsoft", "Google", "Apple", "Samsung"],
+"answersEN": ["Microsoft", "Google", "Apple", "Samsung"],
+"correctIndex": 1
+},
+{
+"id": 290,
+"categoryEL": "Ιστορία",
+"categoryEN": "History",
+"questionEL": "Ποια πόλη ήταν η πρωτεύουσα της αρχαίας Αιγύπτου στο Νέο Βασίλειο;",
+"questionEN": "Which city was the capital of ancient Egypt in the New Kingdom?",
+"answersEL": ["Μέμφις", "Θήβα", "Αλεξάνδρεια", "Γκίζα"],
+"answersEN": ["Memphis", "Thebes", "Alexandria", "Giza"],
+"correctIndex": 1
+},
+{
+"id": 291,
+"categoryEL": "Φυσική",
+"categoryEN": "Physics",
+"questionEL": "Ποιο είναι το σύμβολο της ταχύτητας στο SI;",
+"questionEN": "What is the SI symbol for velocity?",
+"answersEL": ["v", "t", "s", "a"],
+"answersEN": ["v", "t", "s", "a"],
+"correctIndex": 0
+},
+{
+"id": 292,
+"categoryEL": "Γεωγραφία",
+"categoryEN": "Geography",
+"questionEL": "Ποια είναι η πρωτεύουσα της Αιθιοπίας;",
+"questionEN": "What is the capital of Ethiopia?",
+"answersEL": ["Ναϊρόμπι", "Αντίς Αμπέμπα", "Χαρτούμ", "Ντακάρ"],
+"answersEN": ["Nairobi", "Addis Ababa", "Khartoum", "Dakar"],
+"correctIndex": 1
+},
+{
+"id": 293,
+"categoryEL": "Μαθηματικά",
+"categoryEN": "Mathematics",
+"questionEL": "Πόσο ισούται το 2^5;",
+"questionEN": "What is 2^5 equal to?",
+"answersEL": ["16", "32", "64", "128"],
+"answersEN": ["16", "32", "64", "128"],
+"correctIndex": 1
+},
+{
+"id": 294,
+"categoryEL": "Χημεία",
+"categoryEN": "Chemistry",
+"questionEL": "Ποιο στοιχείο έχει το σύμβολο Na;",
+"questionEN": "Which element has the symbol Na?",
+"answersEL": ["Άζωτο", "Νάτριο", "Νικέλιο", "Νεόν"],
+"answersEN": ["Nitrogen", "Sodium", "Nickel", "Neon"],
+"correctIndex": 1
+},
+{
+"id": 295,
+"categoryEL": "Γεωγραφία",
+"categoryEN": "Geography",
+"questionEL": "Ποια είναι η πρωτεύουσα της Νιγηρίας;",
+"questionEN": "What is the capital of Nigeria?",
+"answersEL": ["Λάγος", "Αμπούτζα", "Κάιρο", "Άκρα"],
+"answersEN": ["Lagos", "Abuja", "Cairo", "Accra"],
+"correctIndex": 1
+},
+{
+"id": 296,
+"categoryEL": "Βιολογία",
+"categoryEN": "Biology",
+"questionEL": "Ποιο είναι το βασικό καύσιμο των κυττάρων;",
+"questionEN": "What is the primary fuel of cells?",
+"answersEL": ["Πρωτεΐνη", "Λιπίδια", "Γλυκόζη", "DNA"],
+"answersEN": ["Protein", "Lipids", "Glucose", "DNA"],
+"correctIndex": 2
+},
+{
+"id": 297,
+"categoryEL": "Γεωγραφία",
+"categoryEN": "Geography",
+"questionEL": "Ποια είναι η πρωτεύουσα της Περού;",
+"questionEN": "What is the capital of Peru?",
+"answersEL": ["Λα Πας", "Λίμα", "Σαντιάγο", "Κίτο"],
+"answersEN": ["La Paz", "Lima", "Santiago", "Quito"],
+"correctIndex": 1
+},
+{
+"id": 298,
+"categoryEL": "Σπορ",
+"categoryEN": "Sports",
+"questionEL": "Σε ποιο άθλημα χρησιμοποιείται ο όρος 'ace';",
+"questionEN": "In which sport is the term 'ace' used?",
+"answersEL": ["Ποδόσφαιρο", "Τένις", "Μπάσκετ", "Ράγκμπι"],
+"answersEN": ["Football", "Tennis", "Basketball", "Rugby"],
+"correctIndex": 1
+},
+{
+"id": 299,
+"categoryEL": "Γεωγραφία",
+"categoryEN": "Geography",
+"questionEL": "Ποια είναι η πρωτεύουσα της Μαλαισίας;",
+"questionEN": "What is the capital of Malaysia?",
+"answersEL": ["Κουάλα Λουμπούρ", "Σιγκαπούρη", "Μπανγκόκ", "Μανίλα"],
+"answersEN": ["Kuala Lumpur", "Singapore", "Bangkok", "Manila"],
+"correctIndex": 0
+},
+{
+"id": 300,
+"categoryEL": "Ιστορία",
+"categoryEN": "History",
+"questionEL": "Ποια αρχαία ελληνική πόλη ήταν γνωστή για τη δημοκρατία της;",
+"questionEN": "Which ancient Greek city was known for its democracy?",
+"answersEL": ["Σπάρτη", "Κόρινθος", "Αθήνα", "Θήβα"],
+"answersEN": ["Sparta", "Corinth", "Athens", "Thebes"],
+"correctIndex": 2
+},
+{
+"id": 301,
+"categoryEL": "Φυσική",
+"categoryEN": "Physics",
+"questionEL": "Ποια είναι η μονάδα μέτρησης της ισχύος;",
+"questionEN": "What is the unit of power?",
+"answersEL": ["Joule", "Watt", "Newton", "Volt"],
+"answersEN": ["Joule", "Watt", "Newton", "Volt"],
+"correctIndex": 1
+}
+  
 ]  
