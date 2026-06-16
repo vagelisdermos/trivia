@@ -3011,6 +3011,25 @@
 "answersEL": ["Joule", "Watt", "Newton", "Volt"],
 "answersEN": ["Joule", "Watt", "Newton", "Volt"],
 "correctIndex": 1
-}
-  
+},
+  {
+    "id": 302,
+    "categoryEL": "Ζωολογία",
+    "categoryEN": "Zoology",
+    "questionEL": "Ποιο από τα παρακάτω θηλαστικά είναι το μοναδικό που μπορεί να πετά πραγματικά με συνεχή πτήση;",
+    "questionEN": "Which of the following mammals is the only one capable of true sustained flight?",
+    "answersEL": ["Ιπτάμενος Σκίουρος", "Νυχτερίδα", "Λεμούριος", "Κολούγκο"],
+    "answersEN": ["Flying Squirrel", "Bat", "Lemur", "Colugo"],
+    "correctIndex": 1
+  },
+  {
+    "id": 303,
+    "categoryEL": "Ζωολογία",
+    "categoryEN": "Zoology",
+    "questionEL": "Ποιο είναι το μοναδικό γνωστό δηλητηριώδες πρωτεύον θηλαστικό;",
+    "questionEN": "Which is the only known venomous primate mammal?",
+    "answersEL": ["Μπαμπουίνος", "Καπουτσίνος", "Αργό Λόρις", "Γίββωνας"],
+    "answersEN": ["Baboon", "Capuchin", "Slow Loris", "Gibbon"],
+    "correctIndex": 2
+  }  
 ]  
