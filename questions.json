@@ -5,8 +5,19 @@
     "categoryEN": "Zoology",
     "questionEL": "Ποιο είναι το μεγαλύτερο θηλαστικό στον πλανήτη;",
     "questionEN": "What is the largest mammal on the planet?",
-    "answersEL": ["Ελέφαντας", "Γαλάζια Φάλαινα", "Καρχαρίας", "Καμηλοπάρδαλη"],
-    "answersEN": ["Elephant", "Blue Whale", "Shark", "Giraffe"],
+    "answersEL": [
+      "Ελέφαντας",
+      "Γαλάζια Φάλαινα",
+      "Καρχαρίας",
+      "Καμηλοπάρδαλη"
+    ],
+    "answersEN": [
+      "Elephant",
+      "Blue Whale",
+      "Shark",
+      "Giraffe"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -15,8 +26,19 @@
     "categoryEN": "Science",
     "questionEL": "Πόσα λεπτά έχει μία ώρα;",
     "questionEN": "How many minutes are in an hour?",
-    "answersEL": ["30", "50", "60", "100"],
-    "answersEN": ["30", "50", "60", "100"],
+    "answersEL": [
+      "30",
+      "50",
+      "60",
+      "100"
+    ],
+    "answersEN": [
+      "30",
+      "50",
+      "60",
+      "100"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -25,8 +47,19 @@
     "categoryEN": "Anatomy",
     "questionEL": "Ποιο όργανο του σώματος αντλεί το αίμα;",
     "questionEN": "Which organ pumps blood through the body?",
-    "answersEL": ["Εγκέφαλος", "Πνεύμονας", "Στομάχι", "Καρδιά"],
-    "answersEN": ["Brain", "Lung", "Stomach", "Heart"],
+    "answersEL": [
+      "Εγκέφαλος",
+      "Πνεύμονας",
+      "Στομάχι",
+      "Καρδιά"
+    ],
+    "answersEN": [
+      "Brain",
+      "Lung",
+      "Stomach",
+      "Heart"
+    ],
+    "difficulty": 1,
     "correctIndex": 3
   },
   {
@@ -35,8 +68,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια είναι η πρωτεύουσα της Γαλλίας;",
     "questionEN": "What is the capital of France?",
-    "answersEL": ["Λονδίνο", "Ρώμη", "Παρίσι", "Βερολίνο"],
-    "answersEN": ["London", "Rome", "Paris", "Berlin"],
+    "answersEL": [
+      "Λονδίνο",
+      "Ρώμη",
+      "Παρίσι",
+      "Βερολίνο"
+    ],
+    "answersEN": [
+      "London",
+      "Rome",
+      "Paris",
+      "Berlin"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -45,8 +89,19 @@
     "categoryEN": "Astronomy",
     "questionEL": "Πόσους πλανήτες έχει το ηλιακό μας σύστημα;",
     "questionEN": "How many planets are in our solar system?",
-    "answersEL": ["7", "8", "9", "10"],
-    "answersEN": ["7", "8", "9", "10"],
+    "answersEL": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "answersEN": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -55,8 +110,19 @@
     "categoryEN": "Chemistry",
     "questionEL": "Ποιο είναι το χημικό σύμβολο για το νερό;",
     "questionEN": "What is the chemical symbol for water?",
-    "answersEL": ["CO2", "O2", "H2O", "NaCl"],
-    "answersEN": ["CO2", "O2", "H2O", "NaCl"],
+    "answersEL": [
+      "CO2",
+      "O2",
+      "H2O",
+      "NaCl"
+    ],
+    "answersEN": [
+      "CO2",
+      "O2",
+      "H2O",
+      "NaCl"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -65,8 +131,19 @@
     "categoryEN": "Literature",
     "questionEL": "Ποιος έγραψε το έργο 'Ρωμαίος και Ιουλιέτα';",
     "questionEN": "Who wrote 'Romeo and Juliet'?",
-    "answersEL": ["Ομήρος", "Ουίλιαμ Σαίξπηρ", "Κάρολος Ντίκενς", "Μάρκ Τουέιν"],
-    "answersEN": ["Homer", "William Shakespeare", "Charles Dickens", "Mark Twain"],
+    "answersEL": [
+      "Ομήρος",
+      "Ουίλιαμ Σαίξπηρ",
+      "Κάρολος Ντίκενς",
+      "Μάρκ Τουέιν"
+    ],
+    "answersEN": [
+      "Homer",
+      "William Shakespeare",
+      "Charles Dickens",
+      "Mark Twain"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -75,8 +152,19 @@
     "categoryEN": "History",
     "questionEL": "Ποια χώρα έκανε δώρο το Άγαλμα της Ελευθερίας στις ΗΠΑ;",
     "questionEN": "Which country gifted the Statue of Liberty to the USA?",
-    "answersEL": ["Γαλλία", "Μεγάλη Βρετανία", "Γερμανία", "Ιταλία"],
-    "answersEN": ["France", "Great Britain", "Germany", "Italy"],
+    "answersEL": [
+      "Γαλλία",
+      "Μεγάλη Βρετανία",
+      "Γερμανία",
+      "Ιταλία"
+    ],
+    "answersEN": [
+      "France",
+      "Great Britain",
+      "Germany",
+      "Italy"
+    ],
+    "difficulty": 1,
     "correctIndex": 0
   },
   {
@@ -85,8 +173,19 @@
     "categoryEN": "Zoology",
     "questionEL": "Ποιο είναι το πιο γρήγορο ζώο της στεριάς;",
     "questionEN": "What is the fastest land animal?",
-    "answersEL": ["Λιοντάρι", "Τσίτα (Γατόπαρδος)", "Άλογο", "Αντιλόπη"],
-    "answersEN": ["Lion", "Cheetah", "Horse", "Antelope"],
+    "answersEL": [
+      "Λιοντάρι",
+      "Τσίτα (Γατόπαρδος)",
+      "Άλογο",
+      "Αντιλόπη"
+    ],
+    "answersEN": [
+      "Lion",
+      "Cheetah",
+      "Horse",
+      "Antelope"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -95,8 +194,19 @@
     "categoryEN": "Geography",
     "questionEL": "Πόσες ηπείρους έχει η Γη;",
     "questionEN": "How many continents are there on Earth?",
-    "answersEL": ["5", "6", "7", "8"],
-    "answersEN": ["5", "6", "7", "8"],
+    "answersEL": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answersEN": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -105,8 +215,19 @@
     "categoryEN": "Science",
     "questionEL": "Ποιος ανακάλυψε την πενικιλίνη;",
     "questionEN": "Who discovered penicillin?",
-    "answersEL": ["Άλμπερτ Αϊνστάιν", "Αλεξάντερ Φλέμινγκ", "Λουί Παστέρ", "Ισαάκ Νεύτων"],
-    "answersEN": ["Albert Einstein", "Alexander Fleming", "Louis Pasteur", "Isaac Newton"],
+    "answersEL": [
+      "Άλμπερτ Αϊνστάιν",
+      "Αλεξάντερ Φλέμινγκ",
+      "Λουί Παστέρ",
+      "Ισαάκ Νεύτων"
+    ],
+    "answersEN": [
+      "Albert Einstein",
+      "Alexander Fleming",
+      "Louis Pasteur",
+      "Isaac Newton"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -115,8 +236,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποιο είναι το μεγαλύτερο σε έκταση κράτος του κόσμου;",
     "questionEN": "Which is the largest country in the world by area?",
-    "answersEL": ["Καναδάς", "Κίνα", "ΗΠΑ", "Ρωσία"],
-    "answersEN": ["Canada", "China", "USA", "Russia"],
+    "answersEL": [
+      "Καναδάς",
+      "Κίνα",
+      "ΗΠΑ",
+      "Ρωσία"
+    ],
+    "answersEN": [
+      "Canada",
+      "China",
+      "USA",
+      "Russia"
+    ],
+    "difficulty": 1,
     "correctIndex": 3
   },
   {
@@ -125,8 +257,19 @@
     "categoryEN": "Geography",
     "questionEL": "Σε ποια ήπειρο βρίσκεται η Αίγυπτος;",
     "questionEN": "On which continent is Egypt located?",
-    "answersEL": ["Ασία", "Αφρική", "Ευρώπη", "Αυστραλία"],
-    "answersEN": ["Asia", "Africa", "Europe", "Australia"],
+    "answersEL": [
+      "Ασία",
+      "Αφρική",
+      "Ευρώπη",
+      "Αυστραλία"
+    ],
+    "answersEN": [
+      "Asia",
+      "Africa",
+      "Europe",
+      "Australia"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -135,8 +278,19 @@
     "categoryEN": "Geology",
     "questionEL": "Ποιο είναι το σκληρότερο φυσικό υλικό στη Γη;",
     "questionEN": "What is the hardest natural substance on Earth?",
-    "answersEL": ["Χρυσός", "Σίδηρος", "Διαμάντι", "Χαλαζίας"],
-    "answersEN": ["Gold", "Iron", "Diamond", "Quartz"],
+    "answersEL": [
+      "Χρυσός",
+      "Σίδηρος",
+      "Διαμάντι",
+      "Χαλαζίας"
+    ],
+    "answersEN": [
+      "Gold",
+      "Iron",
+      "Diamond",
+      "Quartz"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -145,8 +299,19 @@
     "categoryEN": "Art",
     "questionEL": "Ποιος ζωγράφισε τη 'Μόνα Λίζα';",
     "questionEN": "Who painted the 'Mona Lisa'?",
-    "answersEL": ["Βίνσεντ βαν Γκογκ", "Πάμπλο Πικάσο", "Λεονάρντο ντα Βίντσι", "Μιχαήλ Άγγελος"],
-    "answersEN": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
+    "answersEL": [
+      "Βίνσεντ βαν Γκογκ",
+      "Πάμπλο Πικάσο",
+      "Λεονάρντο ντα Βίντσι",
+      "Μιχαήλ Άγγελος"
+    ],
+    "answersEN": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Leonardo da Vinci",
+      "Michelangelo"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -155,8 +320,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποιο είναι το μεγαλύτερο ωκεανό της Γης;",
     "questionEN": "Which is the largest ocean on Earth?",
-    "answersEL": ["Ατλαντικός", "Ινδικός", "Αρκτικός", "Ειρηνικός"],
-    "answersEN": ["Atlantic", "Indian", "Arctic", "Pacific"],
+    "answersEL": [
+      "Ατλαντικός",
+      "Ινδικός",
+      "Αρκτικός",
+      "Ειρηνικός"
+    ],
+    "answersEN": [
+      "Atlantic",
+      "Indian",
+      "Arctic",
+      "Pacific"
+    ],
+    "difficulty": 1,
     "correctIndex": 3
   },
   {
@@ -165,8 +341,19 @@
     "categoryEN": "Anatomy",
     "questionEL": "Πόσα οστά έχει ένας ενήλικος άνθρωπος;",
     "questionEN": "How many bones are in an adult human body?",
-    "answersEL": ["150", "206", "300", "250"],
-    "answersEN": ["150", "206", "300", "250"],
+    "answersEL": [
+      "150",
+      "206",
+      "300",
+      "250"
+    ],
+    "answersEN": [
+      "150",
+      "206",
+      "300",
+      "250"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -175,8 +362,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποιο είναι το εθνικό πουλί των Ηνωμένων Πολιτειών;",
     "questionEN": "What is the national bird of the United States?",
-    "answersEL": ["Φλαμίνγκο", "Χρυσός Αετός", "Φαλακρός Αετός", "Περιστέρι"],
-    "answersEN": ["Flamingo", "Golden Eagle", "Bald Eagle", "Pigeon"],
+    "answersEL": [
+      "Φλαμίνγκο",
+      "Χρυσός Αετός",
+      "Φαλακρός Αετός",
+      "Περιστέρι"
+    ],
+    "answersEN": [
+      "Flamingo",
+      "Golden Eagle",
+      "Bald Eagle",
+      "Pigeon"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -185,8 +383,19 @@
     "categoryEN": "Science",
     "questionEL": "Ποιο είναι το κύριο αέριο που αναπνέουμε;",
     "questionEN": "What is the main gas we breathe in?",
-    "answersEL": ["Οξυγόνο", "Άζωτο", "Διοξείδιο του άνθρακα", "Υδρογόνο"],
-    "answersEN": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+    "answersEL": [
+      "Οξυγόνο",
+      "Άζωτο",
+      "Διοξείδιο του άνθρακα",
+      "Υδρογόνο"
+    ],
+    "answersEN": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Hydrogen"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -195,8 +404,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια είναι η πρωτεύουσα της Ιαπωνίας;",
     "questionEN": "What is the capital of Japan?",
-    "answersEL": ["Κιότο", "Οσάκα", "Σεούλ", "Τόκιο"],
-    "answersEN": ["Kyoto", "Osaka", "Seoul", "Tokyo"],
+    "answersEL": [
+      "Κιότο",
+      "Οσάκα",
+      "Σεούλ",
+      "Τόκιο"
+    ],
+    "answersEN": [
+      "Kyoto",
+      "Osaka",
+      "Seoul",
+      "Tokyo"
+    ],
+    "difficulty": 1,
     "correctIndex": 3
   },
   {
@@ -205,8 +425,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποιο είναι το μακρύτερο ποτάμι στον κόσμο;",
     "questionEN": "Which is the longest river in the world?",
-    "answersEL": ["Αμαζόνιος", "Νείλος", "Μισισιπής", "Γιανγκτσέ"],
-    "answersEN": ["Amazon", "Nile", "Mississippi", "Yangtze"],
+    "answersEL": [
+      "Αμαζόνιος",
+      "Νείλος",
+      "Μισισιπής",
+      "Γιανγκτσέ"
+    ],
+    "answersEN": [
+      "Amazon",
+      "Nile",
+      "Mississippi",
+      "Yangtze"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -215,8 +446,19 @@
     "categoryEN": "Astronomy",
     "questionEL": "Ποιος πλανήτης είναι γνωστός ως ο 'Κόκκινος Πλανήτης';",
     "questionEN": "Which planet is known as the 'Red Planet'?",
-    "answersEL": ["Αφροδίτη", "Δίας", "Άρης", "Κρόνος"],
-    "answersEN": ["Venus", "Jupiter", "Mars", "Saturn"],
+    "answersEL": [
+      "Αφροδίτη",
+      "Δίας",
+      "Άρης",
+      "Κρόνος"
+    ],
+    "answersEN": [
+      "Venus",
+      "Jupiter",
+      "Mars",
+      "Saturn"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -225,8 +467,19 @@
     "categoryEN": "Music",
     "questionEL": "Πόσες χορδές έχει μια τυπική κιθάρα;",
     "questionEN": "How many strings does a standard guitar have?",
-    "answersEL": ["4", "5", "6", "7"],
-    "answersEN": ["4", "5", "6", "7"],
+    "answersEL": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answersEN": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -235,8 +488,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποιο είναι το μικρότερο κράτος στον κόσμο;",
     "questionEN": "What is the smallest country in the world?",
-    "answersEL": ["Μονακό", "Μάλτα", "Βατικανό", "Άγιος Μαρίνος"],
-    "answersEN": ["Monaco", "Malta", "Vatican City", "San Marino"],
+    "answersEL": [
+      "Μονακό",
+      "Μάλτα",
+      "Βατικανό",
+      "Άγιος Μαρίνος"
+    ],
+    "answersEN": [
+      "Monaco",
+      "Malta",
+      "Vatican City",
+      "San Marino"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -245,8 +509,19 @@
     "categoryEN": "History",
     "questionEL": "Ποιο έτος ξεκίνησε ο Πρώτος Παγκόσμιος Πόλεμος;",
     "questionEN": "In which year did World War I begin?",
-    "answersEL": ["1914", "1918", "1939", "1945"],
-    "answersEN": ["1914", "1918", "1939", "1945"],
+    "answersEL": [
+      "1914",
+      "1918",
+      "1939",
+      "1945"
+    ],
+    "answersEN": [
+      "1914",
+      "1918",
+      "1939",
+      "1945"
+    ],
+    "difficulty": 1,
     "correctIndex": 0
   },
   {
@@ -255,8 +530,19 @@
     "categoryEN": "Chemistry",
     "questionEL": "Ποιο μέταλλο είναι υγρό σε θερμοκρασία δωματίου;",
     "questionEN": "Which metal is liquid at room temperature?",
-    "answersEL": ["Σίδηρος", "Υδράργυρος", "Χαλκός", "Μόλυβδος"],
-    "answersEN": ["Iron", "Mercury", "Copper", "Lead"],
+    "answersEL": [
+      "Σίδηρος",
+      "Υδράργυρος",
+      "Χαλκός",
+      "Μόλυβδος"
+    ],
+    "answersEN": [
+      "Iron",
+      "Mercury",
+      "Copper",
+      "Lead"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -265,8 +551,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια είναι η πρωτεύουσα της Αυστραλίας;",
     "questionEN": "What is the capital of Australia?",
-    "answersEL": ["Σίδνεϊ", "Μελβούρνη", "Καμπέρα", "Μπρίσμπεϊ"],
-    "answersEN": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+    "answersEL": [
+      "Σίδνεϊ",
+      "Μελβούρνη",
+      "Καμπέρα",
+      "Μπρίσμπεϊ"
+    ],
+    "answersEN": [
+      "Sydney",
+      "Melbourne",
+      "Canberra",
+      "Brisbane"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -275,8 +572,19 @@
     "categoryEN": "Zoology",
     "questionEL": "Πόσα μάτια έχει μια μέλισσα;",
     "questionEN": "How many eyes does a bee have?",
-    "answersEL": ["2", "3", "5", "8"],
-    "answersEN": ["2", "3", "5", "8"],
+    "answersEL": [
+      "2",
+      "3",
+      "5",
+      "8"
+    ],
+    "answersEN": [
+      "2",
+      "3",
+      "5",
+      "8"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -285,8 +593,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποιο είναι το ψηλότερο βουνό του κόσμου;",
     "questionEN": "What is the highest mountain in the world?",
-    "answersEL": ["Κιλιμάντζαρο", "Έβερεστ", "Όλυμπος", "Άλπεις"],
-    "answersEN": ["Kilimanjaro", "Everest", "Olympus", "Alps"],
+    "answersEL": [
+      "Κιλιμάντζαρο",
+      "Έβερεστ",
+      "Όλυμπος",
+      "Άλπεις"
+    ],
+    "answersEN": [
+      "Kilimanjaro",
+      "Everest",
+      "Olympus",
+      "Alps"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -295,8 +614,19 @@
     "categoryEN": "Technology",
     "questionEL": "Ποια εταιρεία δημιούργησε το iPhone;",
     "questionEN": "Which company created the iPhone?",
-    "answersEL": ["Google", "Samsung", "Microsoft", "Apple"],
-    "answersEN": ["Google", "Samsung", "Microsoft", "Apple"],
+    "answersEL": [
+      "Google",
+      "Samsung",
+      "Microsoft",
+      "Apple"
+    ],
+    "answersEN": [
+      "Google",
+      "Samsung",
+      "Microsoft",
+      "Apple"
+    ],
+    "difficulty": 1,
     "correctIndex": 3
   },
   {
@@ -305,8 +635,19 @@
     "categoryEN": "Mathematics",
     "questionEL": "Πόσες πλευρές έχει ένα οκτάγωνο;",
     "questionEN": "How many sides does an octagon have?",
-    "answersEL": ["6", "7", "8", "10"],
-    "answersEN": ["6", "7", "8", "10"],
+    "answersEL": [
+      "6",
+      "7",
+      "8",
+      "10"
+    ],
+    "answersEN": [
+      "6",
+      "7",
+      "8",
+      "10"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -315,8 +656,19 @@
     "categoryEN": "Astronomy",
     "questionEL": "Ποιο είναι το πλησιέστερο αστέρι στη Γη;",
     "questionEN": "What is the closest star to Earth?",
-    "answersEL": ["Ήλιος", "Εγγύτατος Κενταύρου", "Σείριος", "Πολικός Αστέρας"],
-    "answersEN": ["Sun", "Proxima Centauri", "Sirius", "North Star"],
+    "answersEL": [
+      "Ήλιος",
+      "Εγγύτατος Κενταύρου",
+      "Σείριος",
+      "Πολικός Αστέρας"
+    ],
+    "answersEN": [
+      "Sun",
+      "Proxima Centauri",
+      "Sirius",
+      "North Star"
+    ],
+    "difficulty": 1,
     "correctIndex": 0
   },
   {
@@ -325,8 +677,19 @@
     "categoryEN": "Zoology",
     "questionEL": "Ποιο ζώο είναι γνωστό ως ο 'Βασιλιάς της Ζούγκλας';",
     "questionEN": "Which animal is known as the 'King of the Jungle'?",
-    "answersEL": ["Τίγρη", "Ελέφαντας", "Λιοντάρι", "Γορίλας"],
-    "answersEN": ["Tiger", "Elephant", "Lion", "Gorilla"],
+    "answersEL": [
+      "Τίγρη",
+      "Ελέφαντας",
+      "Λιοντάρι",
+      "Γορίλας"
+    ],
+    "answersEN": [
+      "Tiger",
+      "Elephant",
+      "Lion",
+      "Gorilla"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -335,8 +698,19 @@
     "categoryEN": "Nature",
     "questionEL": "Από ποιο δέντρο προέρχονται τα βελανίδια;",
     "questionEN": "Acorns come from which type of tree?",
-    "answersEL": ["Πεύκο", "Βελανιδιά (Δρυς)", "Έλατο", "Ελιά"],
-    "answersEN": ["Pine", "Oak", "Fir", "Olive"],
+    "answersEL": [
+      "Πεύκο",
+      "Βελανιδιά (Δρυς)",
+      "Έλατο",
+      "Ελιά"
+    ],
+    "answersEN": [
+      "Pine",
+      "Oak",
+      "Fir",
+      "Olive"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -345,8 +719,19 @@
     "categoryEN": "Gastronomy",
     "questionEL": "Ποια χώρα εφηύρε τα ζυμαρικά (μακαρόνια);",
     "questionEN": "Which country invented pasta?",
-    "answersEL": ["Ιταλία", "Κίνα", "Ελλάδα", "Μεξικό"],
-    "answersEN": ["Italy", "China", "Greece", "Mexico"],
+    "answersEL": [
+      "Ιταλία",
+      "Κίνα",
+      "Ελλάδα",
+      "Μεξικό"
+    ],
+    "answersEN": [
+      "Italy",
+      "China",
+      "Greece",
+      "Mexico"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -355,8 +740,19 @@
     "categoryEN": "History",
     "questionEL": "Πόσα θαύματα είχε ο αρχαίος κόσμος;",
     "questionEN": "How many wonders of the ancient world were there?",
-    "answersEL": ["5", "7", "9", "12"],
-    "answersEN": ["5", "7", "9", "12"],
+    "answersEL": [
+      "5",
+      "7",
+      "9",
+      "12"
+    ],
+    "answersEN": [
+      "5",
+      "7",
+      "9",
+      "12"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -365,8 +761,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποιο είναι το μεγαλύτερο νησί του κόσμου;",
     "questionEN": "What is the largest island in the world?",
-    "answersEL": ["Μαδαγασκάρη", "Γροιλανδία", "Κρήτη", "Ισλανδία"],
-    "answersEN": ["Madagascar", "Greenland", "Crete", "Iceland"],
+    "answersEL": [
+      "Μαδαγασκάρη",
+      "Γροιλανδία",
+      "Κρήτη",
+      "Ισλανδία"
+    ],
+    "answersEN": [
+      "Madagascar",
+      "Greenland",
+      "Crete",
+      "Iceland"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -375,8 +782,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια είναι η πρωτεύουσα της Ιταλίας;",
     "questionEN": "What is the capital of Italy?",
-    "answersEL": ["Μιλάνο", "Βενετία", "Φλωρεντία", "Ρώμη"],
-    "answersEN": ["Milano", "Venice", "Florence", "Rome"],
+    "answersEL": [
+      "Μιλάνο",
+      "Βενετία",
+      "Φλωρεντία",
+      "Ρώμη"
+    ],
+    "answersEN": [
+      "Milano",
+      "Venice",
+      "Florence",
+      "Rome"
+    ],
+    "difficulty": 1,
     "correctIndex": 3
   },
   {
@@ -385,8 +803,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποιο είναι το πιο πυκνοκατοικημένο κράτος στον κόσμο;",
     "questionEN": "What is the most populous country in the world?",
-    "answersEL": ["Ινδία", "Κίνα", "ΗΠΑ", "Ρωσία"],
-    "answersEN": ["India", "China", "USA", "Russia"],
+    "answersEL": [
+      "Ινδία",
+      "Κίνα",
+      "ΗΠΑ",
+      "Ρωσία"
+    ],
+    "answersEN": [
+      "India",
+      "China",
+      "USA",
+      "Russia"
+    ],
+    "difficulty": 1,
     "correctIndex": 0
   },
   {
@@ -395,8 +824,19 @@
     "categoryEN": "Nature",
     "questionEL": "Πόσα χρώματα έχει το ουράνιο τόξο;",
     "questionEN": "How many colors are in a rainbow?",
-    "answersEL": ["5", "6", "7", "8"],
-    "answersEN": ["5", "6", "7", "8"],
+    "answersEL": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answersEN": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -405,8 +845,19 @@
     "categoryEN": "Zoology",
     "questionEL": "Ποιο όργανο χρησιμοποιούν τα ψάρια για να αναπνεύσουν;",
     "questionEN": "What organ do fish use to breathe?",
-    "answersEL": ["Πνεύμονες", "Βράγχια", "Λέπια", "Πτερύγια"],
-    "answersEN": ["Lungs", "Gills", "Scales", "Fins"],
+    "answersEL": [
+      "Πνεύμονες",
+      "Βράγχια",
+      "Λέπια",
+      "Πτερύγια"
+    ],
+    "answersEN": [
+      "Lungs",
+      "Gills",
+      "Scales",
+      "Fins"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -415,8 +866,19 @@
     "categoryEN": "Economics",
     "questionEL": "Ποιο είναι το νόμισμα της Μεγάλης Βρετανίας;",
     "questionEN": "What is the currency of Great Britain?",
-    "answersEL": ["Ευρώ", "Δολάριο", "Λίρα Στερλίνα", "Γιεν"],
-    "answersEN": ["Euro", "Dollar", "Pound Sterling", "Yen"],
+    "answersEL": [
+      "Ευρώ",
+      "Δολάριο",
+      "Λίρα Στερλίνα",
+      "Γιεν"
+    ],
+    "answersEN": [
+      "Euro",
+      "Dollar",
+      "Pound Sterling",
+      "Yen"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -425,8 +887,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποιο είναι το πιο κρύο μέρος στη Γη;",
     "questionEN": "Where is the coldest place on Earth?",
-    "answersEL": ["Σιβηρία", "Ανταρκτική", "Γροιλανδία", "Αλάσκα"],
-    "answersEN": ["Siberia", "Antarctica", "Greenland", "Alaska"],
+    "answersEL": [
+      "Σιβηρία",
+      "Ανταρκτική",
+      "Γροιλανδία",
+      "Αλάσκα"
+    ],
+    "answersEN": [
+      "Siberia",
+      "Antarctica",
+      "Greenland",
+      "Alaska"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -435,8 +908,19 @@
     "categoryEN": "Science",
     "questionEL": "Πόσα χρόνια κρατάει μια 'Δεκαετία';",
     "questionEN": "How many years are in a decade?",
-    "answersEL": ["5", "10", "50", "100"],
-    "answersEN": ["5", "10", "50", "100"],
+    "answersEL": [
+      "5",
+      "10",
+      "50",
+      "100"
+    ],
+    "answersEN": [
+      "5",
+      "10",
+      "50",
+      "100"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -445,8 +929,19 @@
     "categoryEN": "Zoology",
     "questionEL": "Ποιο είναι το μεγαλύτερο είδος καρχαρία;",
     "questionEN": "What is the largest species of shark?",
-    "answersEL": ["Λευκός Καρχαρίας", "Σφυροκέφαλος", "Φαλαινοκαρχαρίας", "Τίγρης Καρχαρίας"],
-    "answersEN": ["Great White Shark", "Hammerhead Shark", "Whale Shark", "Tiger Shark"],
+    "answersEL": [
+      "Λευκός Καρχαρίας",
+      "Σφυροκέφαλος",
+      "Φαλαινοκαρχαρίας",
+      "Τίγρης Καρχαρίας"
+    ],
+    "answersEN": [
+      "Great White Shark",
+      "Hammerhead Shark",
+      "Whale Shark",
+      "Tiger Shark"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -455,8 +950,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια είναι η πρωτεύουσα της Ισπανίας;",
     "questionEN": "What is the capital of Spain?",
-    "answersEL": ["Βαρκελώνη", "Μαδρίτη", "Σεβίλλη", "Βαλένθια"],
-    "answersEN": ["Barcelona", "Madrid", "Seville", "Valencia"],
+    "answersEL": [
+      "Βαρκελώνη",
+      "Μαδρίτη",
+      "Σεβίλλη",
+      "Βαλένθια"
+    ],
+    "answersEN": [
+      "Barcelona",
+      "Madrid",
+      "Seville",
+      "Valencia"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -465,8 +971,19 @@
     "categoryEN": "Chemistry",
     "questionEL": "Ποιο είναι το κύριο συστατικό του γυαλιού;",
     "questionEN": "What is the main ingredient in glass?",
-    "answersEL": ["Άμμος", "Πλαστικό", "Ξύλο", "Μέταλλο"],
-    "answersEN": ["Sand", "Plastic", "Wood", "Metal"],
+    "answersEL": [
+      "Άμμος",
+      "Πλαστικό",
+      "Ξύλο",
+      "Μέταλλο"
+    ],
+    "answersEN": [
+      "Sand",
+      "Plastic",
+      "Wood",
+      "Metal"
+    ],
+    "difficulty": 1,
     "correctIndex": 0
   },
   {
@@ -475,8 +992,19 @@
     "categoryEN": "Astronomy",
     "questionEL": "Ποιος πλανήτης είναι ο πιο κοντινός στον Ήλιο;",
     "questionEN": "Which planet is closest to the Sun?",
-    "answersEL": ["Αφροδίτη", "Ερμής", "Γη", "Άρης"],
-    "answersEN": ["Venus", "Mercury", "Earth", "Mars"],
+    "answersEL": [
+      "Αφροδίτη",
+      "Ερμής",
+      "Γη",
+      "Άρης"
+    ],
+    "answersEN": [
+      "Venus",
+      "Mercury",
+      "Earth",
+      "Mars"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -485,8 +1013,19 @@
     "categoryEN": "Mathematics",
     "questionEL": "Πόσες πλευρές έχει ένα τρίγωνο;",
     "questionEN": "How many sides does a triangle have?",
-    "answersEL": ["2", "3", "4", "5"],
-    "answersEN": ["2", "3", "4", "5"],
+    "answersEL": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answersEN": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -495,8 +1034,19 @@
     "categoryEN": "Sports",
     "questionEL": "Ποιο είναι το εθνικό άθλημα της Ιαπωνίας;",
     "questionEN": "What is the national sport of Japan?",
-    "answersEL": ["Καράτε", "Τζούντο", "Σούμο", "Κέντο"],
-    "answersEN": ["Karate", "Judo", "Sumo", "Kendo"],
+    "answersEL": [
+      "Καράτε",
+      "Τζούντο",
+      "Σούμο",
+      "Κέντο"
+    ],
+    "answersEN": [
+      "Karate",
+      "Judo",
+      "Sumo",
+      "Kendo"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -505,8 +1055,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια χώρα έχει το σχήμα μπότας;",
     "questionEN": "Which country is shaped like a boot?",
-    "answersEL": ["Ελλάδα", "Ισπανία", "Γαλλία", "Ιταλία"],
-    "answersEN": ["Greece", "Spain", "France", "Italy"],
+    "answersEL": [
+      "Ελλάδα",
+      "Ισπανία",
+      "Γαλλία",
+      "Ιταλία"
+    ],
+    "answersEN": [
+      "Greece",
+      "Spain",
+      "France",
+      "Italy"
+    ],
+    "difficulty": 1,
     "correctIndex": 3
   },
   {
@@ -515,8 +1076,19 @@
     "categoryEN": "Zoology",
     "questionEL": "Ποιο έντομο παράγει μέλι;",
     "questionEN": "Which insect produces honey?",
-    "answersEL": ["Σφήκα", "Μέλισσα", "Μυρμήγκι", "Πεταλούδα"],
-    "answersEN": ["Wasp", "Bee", "Ant", "Butterfly"],
+    "answersEL": [
+      "Σφήκα",
+      "Μέλισσα",
+      "Μυρμήγκι",
+      "Πεταλούδα"
+    ],
+    "answersEN": [
+      "Wasp",
+      "Bee",
+      "Ant",
+      "Butterfly"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -525,8 +1097,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποιο είναι το μεγαλύτερο σε έκταση νησί της Ελλάδας;",
     "questionEN": "Which is the largest island in Greece by area?",
-    "answersEL": ["Εύβοια", "Ρόδος", "Κέρκυρα", "Κρήτη"],
-    "answersEN": ["Evia", "Rhodes", "Corfu", "Crete"],
+    "answersEL": [
+      "Εύβοια",
+      "Ρόδος",
+      "Κέρκυρα",
+      "Κρήτη"
+    ],
+    "answersEN": [
+      "Evia",
+      "Rhodes",
+      "Corfu",
+      "Crete"
+    ],
+    "difficulty": 1,
     "correctIndex": 3
   },
   {
@@ -535,19 +1118,40 @@
     "categoryEN": "History",
     "questionEL": "Ποιος ήταν ο δάσκαλος του Μεγάλου Αλεξάνδρου;",
     "questionEN": "Who was the teacher of Alexander the Great?",
-    "answersEL": ["Σωκράτης", "Πλάτωνας", "Αριστοτέλης", "Πυθαγόρας"],
-    "answersEN": ["Socrates", "Plato", "Aristotle", "Pythagoras"],
+    "answersEL": [
+      "Σωκράτης",
+      "Πλάτωνας",
+      "Αριστοτέλης",
+      "Πυθαγόρας"
+    ],
+    "answersEN": [
+      "Socrates",
+      "Plato",
+      "Aristotle",
+      "Pythagoras"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
-
   {
     "id": 55,
     "categoryEL": "Γεωγραφία",
     "categoryEN": "Geography",
     "questionEL": "Ποιο είναι το βαθύτερο σημείο των ωκεανών παγκοσμίως;",
     "questionEN": "What is the deepest point in the world's oceans?",
-    "answersEL": ["Τάφρος του Πουέρτο Ρίκο", "Τάφρος των Μαριανών", "Τάφρος της Ιάβας", "Τάφρος του Περού"],
-    "answersEN": ["Puerto Rico Trench", "Mariana Trench", "Java Trench", "Peru Trench"],
+    "answersEL": [
+      "Τάφρος του Πουέρτο Ρίκο",
+      "Τάφρος των Μαριανών",
+      "Τάφρος της Ιάβας",
+      "Τάφρος του Περού"
+    ],
+    "answersEN": [
+      "Puerto Rico Trench",
+      "Mariana Trench",
+      "Java Trench",
+      "Peru Trench"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -556,8 +1160,19 @@
     "categoryEN": "Cinema",
     "questionEL": "Ποια ταινία έχει κερδίσει τα περισσότερα βραβεία Όσκαρ στην ιστορία;",
     "questionEN": "Which movie has won the most Oscar awards in history?",
-    "answersEL": ["Τιτανικός", "Avatar", "Ο Νονός", "Pulp Fiction"],
-    "answersEN": ["Titanic", "Avatar", "The Godfather", "Pulp Fiction"],
+    "answersEL": [
+      "Τιτανικός",
+      "Avatar",
+      "Ο Νονός",
+      "Pulp Fiction"
+    ],
+    "answersEN": [
+      "Titanic",
+      "Avatar",
+      "The Godfather",
+      "Pulp Fiction"
+    ],
+    "difficulty": 1,
     "correctIndex": 0
   },
   {
@@ -566,8 +1181,19 @@
     "categoryEN": "Mythology",
     "questionEL": "Ποιος ήταν ο θεός του κάτω κόσμου στην ελληνική μυθολογία;",
     "questionEN": "Who was the god of the underworld in Greek mythology?",
-    "answersEL": ["Δίας", "Ποσειδώνας", "Άδης", "Άρης"],
-    "answersEN": ["Zeus", "Poseidon", "Hades", "Ares"],
+    "answersEL": [
+      "Δίας",
+      "Ποσειδώνας",
+      "Άδης",
+      "Άρης"
+    ],
+    "answersEN": [
+      "Zeus",
+      "Poseidon",
+      "Hades",
+      "Ares"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -576,8 +1202,19 @@
     "categoryEN": "Science",
     "questionEL": "Ποια βιταμίνη συνθέτει ο ανθρώπινος οργανισμός μέσω του ήλιου;",
     "questionEN": "Which vitamin does the human body synthesize through sunlight?",
-    "answersEL": ["Βιταμίνη Α", "Βιταμίνη Β12", "Βιταμίνη C", "Βιταμίνη D"],
-    "answersEN": ["Vitamin A", "Vitamin B12", "Vitamin C", "Vitamin D"],
+    "answersEL": [
+      "Βιταμίνη Α",
+      "Βιταμίνη Β12",
+      "Βιταμίνη C",
+      "Βιταμίνη D"
+    ],
+    "answersEN": [
+      "Vitamin A",
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "difficulty": 1,
     "correctIndex": 3
   },
   {
@@ -586,8 +1223,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια χώρα έχει τις περισσότερες φυσικές λίμνες στον κόσμο;",
     "questionEN": "Which country has the most natural lakes in the world?",
-    "answersEL": ["Καναδάς", "Ρωσία", "ΗΠΑ", "Βραζιλία"],
-    "answersEN": ["Canada", "Russia", "USA", "Brazil"],
+    "answersEL": [
+      "Καναδάς",
+      "Ρωσία",
+      "ΗΠΑ",
+      "Βραζιλία"
+    ],
+    "answersEN": [
+      "Canada",
+      "Russia",
+      "USA",
+      "Brazil"
+    ],
+    "difficulty": 1,
     "correctIndex": 0
   },
   {
@@ -596,18 +1244,40 @@
     "categoryEN": "History",
     "questionEL": "Ποιος ήταν ο πρώτος κυβερνήτης της Ελλάδας;",
     "questionEN": "Who was the first governor of Greece?",
-    "answersEL": ["Θεόδωρος Κολοκοτρώνης", "Ιωάννης Καποδίστριας", "Όθωνας", "Ρήγας Φεραίος"],
-    "answersEN": ["Theodoros Kolokotronis", "Ioannis Kapodistrias", "Otto", "Rigas Feraios"],
+    "answersEL": [
+      "Θεόδωρος Κολοκοτρώνης",
+      "Ιωάννης Καποδίστριας",
+      "Όθωνας",
+      "Ρήγας Φεραίος"
+    ],
+    "answersEN": [
+      "Theodoros Kolokotronis",
+      "Ioannis Kapodistrias",
+      "Otto",
+      "Rigas Feraios"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
-  },  
+  },
   {
     "id": 61,
     "categoryEL": "Μουσική",
     "categoryEN": "Music",
     "questionEL": "Ποιο διάσημο συγκρότημα τραγούδησε το 'Bohemian Rhapsody';",
     "questionEN": "Which famous band sang 'Bohemian Rhapsody'?",
-    "answersEL": ["The Beatles", "Pink Floyd", "Queen", "Led Zeppelin"],
-    "answersEN": ["The Beatles", "Pink Floyd", "Queen", "Led Zeppelin"],
+    "answersEL": [
+      "The Beatles",
+      "Pink Floyd",
+      "Queen",
+      "Led Zeppelin"
+    ],
+    "answersEN": [
+      "The Beatles",
+      "Pink Floyd",
+      "Queen",
+      "Led Zeppelin"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -616,8 +1286,19 @@
     "categoryEN": "Anatomy",
     "questionEL": "Ποιο είναι το μεγαλύτερο όργανο του ανθρώπινου σώματος;",
     "questionEN": "What is the largest organ of the human body?",
-    "answersEL": ["Συκώτι", "Δέρμα", "Πνεύμονας", "Έντερο"],
-    "answersEN": ["Liver", "Skin", "Lung", "Intestine"],
+    "answersEL": [
+      "Συκώτι",
+      "Δέρμα",
+      "Πνεύμονας",
+      "Έντερο"
+    ],
+    "answersEN": [
+      "Liver",
+      "Skin",
+      "Lung",
+      "Intestine"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -626,8 +1307,19 @@
     "categoryEN": "Gaming",
     "questionEL": "Ποιο είναι το βιντεοπαιχνίδι με τις περισσότερες πωλήσεις όλων των εποχών;",
     "questionEN": "Which is the best-selling video game of all time?",
-    "answersEL": ["Minecraft", "GTA V", "Tetris", "Super Mario Bros"],
-    "answersEN": ["Minecraft", "GTA V", "Tetris", "Super Mario Bros"],
+    "answersEL": [
+      "Minecraft",
+      "GTA V",
+      "Tetris",
+      "Super Mario Bros"
+    ],
+    "answersEN": [
+      "Minecraft",
+      "GTA V",
+      "Tetris",
+      "Super Mario Bros"
+    ],
+    "difficulty": 1,
     "correctIndex": 0
   },
   {
@@ -636,8 +1328,19 @@
     "categoryEN": "Astronomy",
     "questionEL": "Ποιος γαλαξίας είναι ο πλησιέστερος στον δικό μας (Milky Way);",
     "questionEN": "Which galaxy is the closest to our own (Milky Way)?",
-    "answersEL": ["Ανδρομέδα", "Τριγώνου", "Μαγγελάνου", "Κενταύρου"],
-    "answersEN": ["Andromeda", "Triangulum", "Magellanic", "Centaurus"],
+    "answersEL": [
+      "Ανδρομέδα",
+      "Τριγώνου",
+      "Μαγγελάνου",
+      "Κενταύρου"
+    ],
+    "answersEN": [
+      "Andromeda",
+      "Triangulum",
+      "Magellanic",
+      "Centaurus"
+    ],
+    "difficulty": 1,
     "correctIndex": 0
   },
   {
@@ -646,8 +1349,19 @@
     "categoryEN": "Chemistry",
     "questionEL": "Ποιο είναι το πρώτο στοιχείο στον περιοδικό πίνακα;",
     "questionEN": "What is the first element on the periodic table?",
-    "answersEL": ["Ήλιο", "Οξυγόνο", "Υδρογόνο", "Άνθρακας"],
-    "answersEN": ["Helium", "Oxygen", "Hydrogen", "Carbon"],
+    "answersEL": [
+      "Ήλιο",
+      "Οξυγόνο",
+      "Υδρογόνο",
+      "Άνθρακας"
+    ],
+    "answersEN": [
+      "Helium",
+      "Oxygen",
+      "Hydrogen",
+      "Carbon"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -656,8 +1370,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια είναι η μεγαλύτερη έρημος στον κόσμο;",
     "questionEN": "What is the largest desert in the world?",
-    "answersEL": ["Σαχάρα", "Γκόμπι", "Ανταρκτική Έρημος", "Καλαχάρι"],
-    "answersEN": ["Sahara", "Gobi", "Antarctic Desert", "Kalahari"],
+    "answersEL": [
+      "Σαχάρα",
+      "Γκόμπι",
+      "Ανταρκτική Έρημος",
+      "Καλαχάρι"
+    ],
+    "answersEN": [
+      "Sahara",
+      "Gobi",
+      "Antarctic Desert",
+      "Kalahari"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -666,8 +1391,19 @@
     "categoryEN": "History",
     "questionEL": "Ποιος ήταν ο πρώτος άνθρωπος που πάτησε στο φεγγάρι;",
     "questionEN": "Who was the first human to walk on the moon?",
-    "answersEL": ["Γιούρι Γκαγκάριν", "Νιλ Άρμστρονγκ", "Μπαζ Όλντριν", "Μάικλ Κόλινς"],
-    "answersEN": ["Yuri Gagarin", "Neil Armstrong", "Buzz Aldrin", "Michael Collins"],
+    "answersEL": [
+      "Γιούρι Γκαγκάριν",
+      "Νιλ Άρμστρονγκ",
+      "Μπαζ Όλντριν",
+      "Μάικλ Κόλινς"
+    ],
+    "answersEN": [
+      "Yuri Gagarin",
+      "Neil Armstrong",
+      "Buzz Aldrin",
+      "Michael Collins"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -676,8 +1412,19 @@
     "categoryEN": "Zoology",
     "questionEL": "Ποιο ερπετό μπορεί να αλλάζει χρώμα για να καμουφλάρεται;",
     "questionEN": "Which reptile can change color to camouflage itself?",
-    "answersEL": ["Ιγκουάνα", "Χαμαιλέοντας", "Σαύρα", "Κροκόδειλος"],
-    "answersEN": ["Iguana", "Chameleon", "Lizard", "Crocodile"],
+    "answersEL": [
+      "Ιγκουάνα",
+      "Χαμαιλέοντας",
+      "Σαύρα",
+      "Κροκόδειλος"
+    ],
+    "answersEN": [
+      "Iguana",
+      "Chameleon",
+      "Lizard",
+      "Crocodile"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -686,8 +1433,19 @@
     "categoryEN": "Technology",
     "questionEL": "Τι σημαίνουν τα αρχικά WWW στο ίντερνετ;",
     "questionEN": "What do the initials WWW stand for on the internet?",
-    "answersEL": ["Web Wide Window", "World Wide Web", "World Wave Web", "Word Wide Web"],
-    "answersEN": ["Web Wide Window", "World Wide Web", "World Wave Web", "Word Wide Web"],
+    "answersEL": [
+      "Web Wide Window",
+      "World Wide Web",
+      "World Wave Web",
+      "Word Wide Web"
+    ],
+    "answersEN": [
+      "Web Wide Window",
+      "World Wide Web",
+      "World Wave Web",
+      "Word Wide Web"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -696,8 +1454,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια χώρα ονομαζόταν παλαιότερα 'Περσία';",
     "questionEN": "Which country was formerly known as 'Persia'?",
-    "answersEL": ["Ιράκ", "Τουρκία", "Ιράν", "Αίγυπτος"],
-    "answersEN": ["Iraq", "Turkey", "Iran", "Egypt"],
+    "answersEL": [
+      "Ιράκ",
+      "Τουρκία",
+      "Ιράν",
+      "Αίγυπτος"
+    ],
+    "answersEN": [
+      "Iraq",
+      "Turkey",
+      "Iran",
+      "Egypt"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -706,8 +1475,19 @@
     "categoryEN": "Sports",
     "questionEL": "Κάθε πόσα χρόνια διεξάγονται οι Παγκόσμιοι Αγώνες Ποδοσφαίρου (Μουντιάλ);",
     "questionEN": "Every how many years is the FIFA World Cup held?",
-    "answersEL": ["2", "3", "4", "5"],
-    "answersEN": ["2", "3", "4", "5"],
+    "answersEL": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answersEN": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -716,8 +1496,19 @@
     "categoryEN": "Literature",
     "questionEL": "Ποιος είναι ο δημιουργός του διάσημου ντετέκτιβ Σέρλοκ Χολμς;",
     "questionEN": "Who is the creator of the famous detective Sherlock Holmes?",
-    "answersEL": ["Αγκάθα Κρίστι", "Άρθουρ Κόναν Ντόιλ", "Έντγκαρ Άλαν Πόε", "Στίβεν Κινγκ"],
-    "answersEN": ["Agatha Christie", "Arthur Conan Doyle", "Edgar Allan Poe", "Stephen King"],
+    "answersEL": [
+      "Αγκάθα Κρίστι",
+      "Άρθουρ Κόναν Ντόιλ",
+      "Έντγκαρ Άλαν Πόε",
+      "Στίβεν Κινγκ"
+    ],
+    "answersEN": [
+      "Agatha Christie",
+      "Arthur Conan Doyle",
+      "Edgar Allan Poe",
+      "Stephen King"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -726,8 +1517,19 @@
     "categoryEN": "Nature",
     "questionEL": "Ποιο είναι το ψηλότερο είδος δέντρου στον κόσμο;",
     "questionEN": "What is the tallest tree species in the world?",
-    "answersEL": ["Σεκόγια (Redwood)", "Έλατο", "Ευκάλυπτος", "Μπαομπάμπ"],
-    "answersEN": ["Sequoia (Redwood)", "Fir", "Eucalyptus", "Baobab"],
+    "answersEL": [
+      "Σεκόγια (Redwood)",
+      "Έλατο",
+      "Ευκάλυπτος",
+      "Μπαομπάμπ"
+    ],
+    "answersEN": [
+      "Sequoia (Redwood)",
+      "Fir",
+      "Eucalyptus",
+      "Baobab"
+    ],
+    "difficulty": 1,
     "correctIndex": 0
   },
   {
@@ -736,8 +1538,19 @@
     "categoryEN": "Geography",
     "questionEL": "Σε ποια χώρα βρίσκονται οι περίφημες πέτρινες φιγούρες 'Νησί του Πάσχα';",
     "questionEN": "In which country is the famous Easter Island located?",
-    "answersEL": ["Περού", "Χιλή", "Αυστραλία", "Νέα Ζηλανδία"],
-    "answersEN": ["Peru", "Chile", "Australia", "New Zealand"],
+    "answersEL": [
+      "Περού",
+      "Χιλή",
+      "Αυστραλία",
+      "Νέα Ζηλανδία"
+    ],
+    "answersEN": [
+      "Peru",
+      "Chile",
+      "Australia",
+      "New Zealand"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -746,8 +1559,19 @@
     "categoryEN": "History",
     "questionEL": "Ποιος Γάλλος στρατηγός αυτοανακηρύχθηκε Αυτοκράτορας της Γαλλίας το 1804;",
     "questionEN": "Which French general proclaimed himself Emperor of France in 1804?",
-    "answersEL": ["Λουδοβίκος ΙΔ'", "Μέγας Ναπολέων", "Καρλομάγνος", "Ροβεσπιέρος"],
-    "answersEN": ["Louis XIV", "Napoleon Bonaparte", "Charlemagne", "Robespierre"],
+    "answersEL": [
+      "Λουδοβίκος ΙΔ'",
+      "Μέγας Ναπολέων",
+      "Καρλομάγνος",
+      "Ροβεσπιέρος"
+    ],
+    "answersEN": [
+      "Louis XIV",
+      "Napoleon Bonaparte",
+      "Charlemagne",
+      "Robespierre"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -756,8 +1580,19 @@
     "categoryEN": "Physics",
     "questionEL": "Ποιος διατύπωσε τη Θεωρία της Σχετικότητας;",
     "questionEN": "Who formulated the Theory of Relativity?",
-    "answersEL": ["Ισαάκ Νεύτων", "Νίκολα Τέσλα", "Άλμπερτ Αϊνστάιν", "Γαλιλαίος"],
-    "answersEN": ["Isaac Newton", "Nikola Tesla", "Albert Einstein", "Galileo"],
+    "answersEL": [
+      "Ισαάκ Νεύτων",
+      "Νίκολα Τέσλα",
+      "Άλμπερτ Αϊνστάιν",
+      "Γαλιλαίος"
+    ],
+    "answersEN": [
+      "Isaac Newton",
+      "Nikola Tesla",
+      "Albert Einstein",
+      "Galileo"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -766,8 +1601,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια είναι η πρωτεύουσα του Καναδά;",
     "questionEN": "What is the capital of Canada?",
-    "answersEL": ["Τορόντο", "Βανκούβερ", "Μόντρεαλ", "Οτάβα"],
-    "answersEN": ["Toronto", "Vancouver", "Montreal", "Ottawa"],
+    "answersEL": [
+      "Τορόντο",
+      "Βανκούβερ",
+      "Μόντρεαλ",
+      "Οτάβα"
+    ],
+    "answersEN": [
+      "Toronto",
+      "Vancouver",
+      "Montreal",
+      "Ottawa"
+    ],
+    "difficulty": 1,
     "correctIndex": 3
   },
   {
@@ -776,8 +1622,19 @@
     "categoryEN": "Mythology",
     "questionEL": "Ποιο μυθικό ον αναγεννάται από τις στάχτες του;",
     "questionEN": "Which mythical creature rises from its own ashes?",
-    "answersEL": ["Γρύπας", "Φοίνικας", "Πήγασος", "Μινώταυρος"],
-    "answersEN": ["Griffin", "Phoenix", "Pegasus", "Minotaur"],
+    "answersEL": [
+      "Γρύπας",
+      "Φοίνικας",
+      "Πήγασος",
+      "Μινώταυρος"
+    ],
+    "answersEN": [
+      "Griffin",
+      "Phoenix",
+      "Pegasus",
+      "Minotaur"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -786,8 +1643,19 @@
     "categoryEN": "Art",
     "questionEL": "Ποιος Ολλανδός ζωγράφος έκοψε το αριστερό του αυτί;",
     "questionEN": "Which Dutch painter cut off his own left ear?",
-    "answersEL": ["Ρέμπραντ", "Βίνσεντ βαν Γκογκ", "Γιοχάνες Βερμέερ", "Πιετ Μοντριάν"],
-    "answersEN": ["Rembrandt", "Vincent van Gogh", "Johannes Vermeer", "Piet Mondrian"],
+    "answersEL": [
+      "Ρέμπραντ",
+      "Βίνσεντ βαν Γκογκ",
+      "Γιοχάνες Βερμέερ",
+      "Πιετ Μοντριάν"
+    ],
+    "answersEN": [
+      "Rembrandt",
+      "Vincent van Gogh",
+      "Johannes Vermeer",
+      "Piet Mondrian"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -796,8 +1664,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια ευρωπαϊκή πόλη είναι χτισμένη πάνω σε 118 μικρά νησιά που χωρίζονται από κανάλια;",
     "questionEN": "Which European city is built on 118 small islands separated by canals?",
-    "answersEL": ["Άμστερνταμ", "Βενετία", "Μπριζ", "Κοπεγχάγη"],
-    "answersEN": ["Amsterdam", "Venice", "Bruges", "Copenhagen"],
+    "answersEL": [
+      "Άμστερνταμ",
+      "Βενετία",
+      "Μπριζ",
+      "Κοπεγχάγη"
+    ],
+    "answersEN": [
+      "Amsterdam",
+      "Venice",
+      "Bruges",
+      "Copenhagen"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -806,8 +1685,19 @@
     "categoryEN": "Biology",
     "questionEL": "Ποια είναι η βασική μονάδα της ζωής σε όλους τους ζωντανούς οργανισμούς;",
     "questionEN": "What is the basic unit of life in all living organisms?",
-    "answersEL": ["Ιστός", "Κύτταρο", "Όργανο", "DNA"],
-    "answersEN": ["Tissue", "Cell", "Organ", "DNA"],
+    "answersEL": [
+      "Ιστός",
+      "Κύτταρο",
+      "Όργανο",
+      "DNA"
+    ],
+    "answersEN": [
+      "Tissue",
+      "Cell",
+      "Organ",
+      "DNA"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -816,8 +1706,19 @@
     "categoryEN": "History",
     "questionEL": "Ποιος ήταν ο πρώτος πρόεδρος των Ηνωμένων Πολιτειών;",
     "questionEN": "Who was the first president of the United States?",
-    "answersEL": ["Αβραάμ Λίνκολν", "Τόμας Τζέφερσον", "Τζορτζ Ουάσινγκτον", "Μπέντζαμιν Φράνκλιν"],
-    "answersEN": ["Abraham Lincoln", "Thomas Jefferson", "George Washington", "Benjamin Franklin"],
+    "answersEL": [
+      "Αβραάμ Λίνκολν",
+      "Τόμας Τζέφερσον",
+      "Τζορτζ Ουάσινγκτον",
+      "Μπέντζαμιν Φράνκλιν"
+    ],
+    "answersEN": [
+      "Abraham Lincoln",
+      "Thomas Jefferson",
+      "George Washington",
+      "Benjamin Franklin"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -826,8 +1727,19 @@
     "categoryEN": "Zoology",
     "questionEL": "Ποιο είναι το μοναδικό θηλαστικό που μπορεί να πετάξει;",
     "questionEN": "What is the only mammal capable of true flight?",
-    "answersEL": ["Ιπτάμενο σκιουράκι", "Νυχτερίδα", "Κουκουβάγια", "Πιγκουίνος"],
-    "answersEN": ["Flying Squirrel", "Bat", "Owl", "Pigeon"],
+    "answersEL": [
+      "Ιπτάμενο σκιουράκι",
+      "Νυχτερίδα",
+      "Κουκουβάγια",
+      "Πιγκουίνος"
+    ],
+    "answersEN": [
+      "Flying Squirrel",
+      "Bat",
+      "Owl",
+      "Pigeon"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -836,8 +1748,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποιο είναι το μικρότερο σε έκταση νησί των Κυκλάδων;",
     "questionEN": "Which is the smallest island in the Cyclades?",
-    "answersEL": ["Δήλος", "Κουφονήσι", "Αμοργός", "Σίφνος"],
-    "answersEN": ["Delos", "Koufonisi", "Amorgos", "Sifnos"],
+    "answersEL": [
+      "Δήλος",
+      "Κουφονήσι",
+      "Αμοργός",
+      "Σίφνος"
+    ],
+    "answersEN": [
+      "Delos",
+      "Koufonisi",
+      "Amorgos",
+      "Sifnos"
+    ],
+    "difficulty": 1,
     "correctIndex": 0
   },
   {
@@ -846,8 +1769,19 @@
     "categoryEN": "Meteorology",
     "questionEL": "Με ποιο όργανο μετράμε την ατμοσφαιρική πίεση;",
     "questionEN": "Which instrument is used to measure atmospheric pressure?",
-    "answersEL": ["Θερμόμετρο", "Υγρόμετρο", "Βαρόμετρο", "Ανεμόμετρο"],
-    "answersEN": ["Thermometer", "Hygrometer", "Barometer", "Anemometer"],
+    "answersEL": [
+      "Θερμόμετρο",
+      "Υγρόμετρο",
+      "Βαρόμετρο",
+      "Ανεμόμετρο"
+    ],
+    "answersEN": [
+      "Thermometer",
+      "Hygrometer",
+      "Barometer",
+      "Anemometer"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -856,8 +1790,19 @@
     "categoryEN": "Cinema",
     "questionEL": "Ποιος ηθοποιός υποδύθηκε τον Jack Dawson στην ταινία 'Τιτανικός';",
     "questionEN": "Which actor played Jack Dawson in the movie 'Titanic'?",
-    "answersEL": ["Μπραντ Πιτ", "Λεονάρντο Ντι Κάπριο", "Τομ Κρουζ", "Ματ Ντέιμον"],
-    "answersEN": ["Brad Pitt", "Leonardo DiCaprio", "Tom Cruise", "Matt Damon"],
+    "answersEL": [
+      "Μπραντ Πιτ",
+      "Λεονάρντο Ντι Κάπριο",
+      "Τομ Κρουζ",
+      "Ματ Ντέιμον"
+    ],
+    "answersEN": [
+      "Brad Pitt",
+      "Leonardo DiCaprio",
+      "Tom Cruise",
+      "Matt Damon"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -866,8 +1811,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια χώρα έχει τη μεγαλύτερη ακτογραμμή στον κόσμο;",
     "questionEN": "Which country has the longest coastline in the world?",
-    "answersEL": ["Ελλάδα", "Αυστραλία", "Καναδάς", "Ρωσία"],
-    "answersEN": ["Greece", "Australia", "Canada", "Russia"],
+    "answersEL": [
+      "Ελλάδα",
+      "Αυστραλία",
+      "Καναδάς",
+      "Ρωσία"
+    ],
+    "answersEN": [
+      "Greece",
+      "Australia",
+      "Canada",
+      "Russia"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -876,8 +1832,19 @@
     "categoryEN": "Astronomy",
     "questionEL": "Ποιος είναι ο μεγαλύτερος πλανήτης στο ηλιακό μας σύστημα;",
     "questionEN": "Which is the largest planet in our solar system?",
-    "answersEL": ["Κρόνος", "Ποσειδώνας", "Δίας", "Ουρανός"],
-    "answersEN": ["Saturn", "Neptune", "Jupiter", "Uranus"],
+    "answersEL": [
+      "Κρόνος",
+      "Ποσειδώνας",
+      "Δίας",
+      "Ουρανός"
+    ],
+    "answersEN": [
+      "Saturn",
+      "Neptune",
+      "Jupiter",
+      "Uranus"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -886,8 +1853,19 @@
     "categoryEN": "Gastronomy",
     "questionEL": "Από ποια χώρα προέρχεται το παραδοσιακό σוּσι (Sushi);",
     "questionEN": "From which country does sushi traditionally originate?",
-    "answersEL": ["Κίνα", "Νότια Κορέα", "Ταϊλάνδη", "Ιαπωνία"],
-    "answersEN": ["China", "South Korea", "Thailand", "Japan"],
+    "answersEL": [
+      "Κίνα",
+      "Νότια Κορέα",
+      "Ταϊλάνδη",
+      "Ιαπωνία"
+    ],
+    "answersEN": [
+      "China",
+      "South Korea",
+      "Thailand",
+      "Japan"
+    ],
+    "difficulty": 1,
     "correctIndex": 3
   },
   {
@@ -896,8 +1874,19 @@
     "categoryEN": "History",
     "questionEL": "Ποιος πολιτισμός έχτισε το Μάτσου Πίτσου στο Περού;",
     "questionEN": "Which civilization built Machu Picchu in Peru?",
-    "answersEL": ["Αζτέκοι", "Μάγια", "Ίνκας", "Ολμέκοι"],
-    "answersEN": ["Aztecs", "Mayans", "Incas", "Olmecs"],
+    "answersEL": [
+      "Αζτέκοι",
+      "Μάγια",
+      "Ίνκας",
+      "Ολμέκοι"
+    ],
+    "answersEN": [
+      "Aztecs",
+      "Mayans",
+      "Incas",
+      "Olmecs"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -906,8 +1895,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια είναι η πρωτεύουσα της Βραζιλίας;",
     "questionEN": "What is the capital of America's country Brazil?",
-    "answersEL": ["Ρίο ντε Τζανέιρο", "Σάο Πάολο", "Μπραζίλια", "Μπουένος Άιρες"],
-    "answersEN": ["Rio de Janeiro", "Sao Paulo", "Brasilia", "Buenos Aires"],
+    "answersEL": [
+      "Ρίο ντε Τζανέιρο",
+      "Σάο Πάολο",
+      "Μπραζίλια",
+      "Μπουένος Άιρες"
+    ],
+    "answersEN": [
+      "Rio de Janeiro",
+      "Sao Paulo",
+      "Brasilia",
+      "Buenos Aires"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -916,8 +1916,19 @@
     "categoryEN": "Physics",
     "questionEL": "Τι είδους σωματίδια έχουν αρνητικό ηλεκτρικό φορτίο;",
     "questionEN": "What type of particles have a negative electric charge?",
-    "answersEL": ["Πρωτόνια", "Νετρόνια", "Ηλεκτρόνια", "Φωτόνια"],
-    "answersEN": ["Protons", "Neutrons", "Electrons", "Photons"],
+    "answersEL": [
+      "Πρωτόνια",
+      "Νετρόνια",
+      "Ηλεκτρόνια",
+      "Φωτόνια"
+    ],
+    "answersEN": [
+      "Protons",
+      "Neutrons",
+      "Electrons",
+      "Photons"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -926,8 +1937,19 @@
     "categoryEN": "Mythology",
     "questionEL": "Ποιος ήρωας της μυθολογίας εκτέλεσε τους 12 άθλους;",
     "questionEN": "Which mythological hero performed the 12 labors?",
-    "answersEL": ["Θησέας", "Ηρακλής", "Περσέας", "Αχιλλέας"],
-    "answersEN": ["Theseus", "Hercules", "Perseus", "Achilles"],
+    "answersEL": [
+      "Θησέας",
+      "Ηρακλής",
+      "Περσέας",
+      "Αχιλλέας"
+    ],
+    "answersEN": [
+      "Theseus",
+      "Hercules",
+      "Perseus",
+      "Achilles"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -936,8 +1958,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια θάλασσα χωρίζει την Ευρώπη από την Αφρική;",
     "questionEN": "Which sea separates Europe from Africa?",
-    "answersEL": ["Μαύρη Θάλασσα", "Κόκκινη Θάλασσα", "Μεσόγειος Θάλασσα", "Νεκρά Θάλασσα"],
-    "answersEN": ["Black Sea", "Red Sea", "Mediterranean Sea", "Dead Sea"],
+    "answersEL": [
+      "Μαύρη Θάλασσα",
+      "Κόκκινη Θάλασσα",
+      "Μεσόγειος Θάλασσα",
+      "Νεκρά Θάλασσα"
+    ],
+    "answersEN": [
+      "Black Sea",
+      "Red Sea",
+      "Mediterranean Sea",
+      "Dead Sea"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -946,8 +1979,19 @@
     "categoryEN": "Technology",
     "questionEL": "Ποιο έτος κυκλοφόρησε η πρώτη έκδοση των Windows από τη Microsoft;",
     "questionEN": "In which year was the first version of Windows released by Microsoft?",
-    "answersEL": ["1985", "1990", "1995", "2000"],
-    "answersEN": ["1985", "1990", "1995", "2000"],
+    "answersEL": [
+      "1985",
+      "1990",
+      "1995",
+      "2000"
+    ],
+    "answersEN": [
+      "1985",
+      "1990",
+      "1995",
+      "2000"
+    ],
+    "difficulty": 1,
     "correctIndex": 0
   },
   {
@@ -956,8 +2000,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποιο είναι το επίσημο όνομα της χώρας μας (Ελλάδα);",
     "questionEN": "What is the official name of Greece?",
-    "answersEL": ["Ελληνική Δημοκρατία", "Βασίλειο της Ελλάδος", "Ηνωμένη Ελλάδα", "Ελληνική Επικράτεια"],
-    "answersEN": ["Hellenic Republic", "Kingdom of Greece", "United Greece", "Hellenic Territory"],
+    "answersEL": [
+      "Ελληνική Δημοκρατία",
+      "Βασίλειο της Ελλάδος",
+      "Ηνωμένη Ελλάδα",
+      "Ελληνική Επικράτεια"
+    ],
+    "answersEN": [
+      "Hellenic Republic",
+      "Kingdom of Greece",
+      "United Greece",
+      "Hellenic Territory"
+    ],
+    "difficulty": 1,
     "correctIndex": 0
   },
   {
@@ -966,8 +2021,19 @@
     "categoryEN": "Zoology",
     "questionEL": "Πόσα πόδια έχει μια αράχνη;",
     "questionEN": "How many legs does a spider have?",
-    "answersEL": ["6", "8", "10", "12"],
-    "answersEN": ["6", "8", "10", "12"],
+    "answersEL": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "answersEN": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -976,8 +2042,19 @@
     "categoryEN": "History",
     "questionEL": "Σε ποια πόλη υπογράφηκε η Διακήρυξη της Ανεξαρτησίας των ΗΠΑ;",
     "questionEN": "In which city was the US Declaration of Independence signed?",
-    "answersEL": ["Νέα Υόρκη", "Ουάσινγκτον", "Φιλαδέλφεια", "Βοστώνη"],
-    "answersEN": ["New York", "Washington D.C.", "Philadelphia", "Boston"],
+    "answersEL": [
+      "Νέα Υόρκη",
+      "Ουάσινγκτον",
+      "Φιλαδέλφεια",
+      "Βοστώνη"
+    ],
+    "answersEN": [
+      "New York",
+      "Washington D.C.",
+      "Philadelphia",
+      "Boston"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -986,8 +2063,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποιο είναι το μεγαλύτερο σε έκταση κράτος της Αφρικής;",
     "questionEN": "Which is the largest country in Africa by land area?",
-    "answersEL": ["Σουδάν", "Αλγερία", "Λιβύη", "Νιγηρία"],
-    "answersEN": ["Sudan", "Algeria", "Libya", "Nigeria"],
+    "answersEL": [
+      "Σουδάν",
+      "Αλγερία",
+      "Λιβύη",
+      "Νιγηρία"
+    ],
+    "answersEN": [
+      "Sudan",
+      "Algeria",
+      "Libya",
+      "Nigeria"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -996,8 +2084,19 @@
     "categoryEN": "Science",
     "questionEL": "Ποιο όργανο του ανθρώπινου αυτιού είναι υπεύθυνο για την ισορροπία;",
     "questionEN": "Which part of the human ear is responsible for balance?",
-    "answersEL": ["Τύμπανο", "Ακουστικός πόρος", "Λαβύρινθος", "Σφύρα"],
-    "answersEN": ["Eardrum", "Ear canal", "Semicircular canals (Labyrinth)", "Malleus"],
+    "answersEL": [
+      "Τύμπανο",
+      "Ακουστικός πόρος",
+      "Λαβύρινθος",
+      "Σφύρα"
+    ],
+    "answersEN": [
+      "Eardrum",
+      "Ear canal",
+      "Semicircular canals (Labyrinth)",
+      "Malleus"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -1006,8 +2105,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποιο είναι το επίσημο νόμισμα της Ιαπωνίας;",
     "questionEN": "What is the official currency of Japan?",
-    "answersEL": ["Γουάν", "Γιέν", "Γουόν", "Ρουπία"],
-    "answersEN": ["Yuan", "Yen", "Won", "Rupee"],
+    "answersEL": [
+      "Γουάν",
+      "Γιέν",
+      "Γουόν",
+      "Ρουπία"
+    ],
+    "answersEN": [
+      "Yuan",
+      "Yen",
+      "Won",
+      "Rupee"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1016,8 +2126,19 @@
     "categoryEN": "Cinema",
     "questionEL": "Ποιος σκηνοθέτησε τις ταινίες 'Inception' και 'Interstellar';",
     "questionEN": "Who directed the movies 'Inception' and 'Interstellar'?",
-    "answersEL": ["Στίβεν Σπίλμπεργκ", "Κουέντιν Ταραντίνο", "Κρίστοφερ Νόλαν", "Μάρτιν Σκορσέζε"],
-    "answersEN": ["Steven Spielberg", "Quentin Tarantino", "Christopher Nolan", "Martin Scorsese"],
+    "answersEL": [
+      "Στίβεν Σπίλμπεργκ",
+      "Κουέντιν Ταραντίνο",
+      "Κρίστοφερ Νόλαν",
+      "Μάρτιν Σκορσέζε"
+    ],
+    "answersEN": [
+      "Steven Spielberg",
+      "Quentin Tarantino",
+      "Christopher Nolan",
+      "Martin Scorsese"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -1026,8 +2147,19 @@
     "categoryEN": "History",
     "questionEL": "Ποιο όνομα δόθηκε στην περίοδο της μεγάλης οικονομικής κρίσης των ΗΠΑ το 1929;",
     "questionEN": "What name was given to the severe economic downturn in the US in 1929?",
-    "answersEL": ["Οικονομικό Κραχ", "Μεγάλη Ύφεση", "Βιομηχανική Κρίση", "Μαύρη Παρασκευή"],
-    "answersEN": ["Economic Crash", "The Great Depression", "Industrial Crisis", "Black Friday"],
+    "answersEL": [
+      "Οικονομικό Κραχ",
+      "Μεγάλη Ύφεση",
+      "Βιομηχανική Κρίση",
+      "Μαύρη Παρασκευή"
+    ],
+    "answersEN": [
+      "Economic Crash",
+      "The Great Depression",
+      "Industrial Crisis",
+      "Black Friday"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1036,8 +2168,19 @@
     "categoryEN": "Biology",
     "questionEL": "Ποιο είδος κυττάρων του αίματος είναι υπεύθυνο για την καταπολέμηση των λοιμώξεων;",
     "questionEN": "Which type of blood cells is responsible for fighting infections?",
-    "answersEL": ["Ερυθρά αιμοσφαίρια", "Λευκά αιμοσφαίρια", "Αιμοπετάλια", "Πλάσμα"],
-    "answersEN": ["Red blood cells", "White blood cells", "Platelets", "Plasma"],
+    "answersEL": [
+      "Ερυθρά αιμοσφαίρια",
+      "Λευκά αιμοσφαίρια",
+      "Αιμοπετάλια",
+      "Πλάσμα"
+    ],
+    "answersEN": [
+      "Red blood cells",
+      "White blood cells",
+      "Platelets",
+      "Plasma"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1046,8 +2189,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια είναι η μεγαλύτερη σε πληθυσμό πόλη της Ευρώπης (εκτός Ρωσίας);",
     "questionEN": "What is the most populous city in Europe (excluding Russia)?",
-    "answersEL": ["Λονδίνο", "Παρίσι", "Βερολίνο", "Κωνσταντινούπολη"],
-    "answersEN": ["London", "Paris", "Berlin", "Istanbul"],
+    "answersEL": [
+      "Λονδίνο",
+      "Παρίσι",
+      "Βερολίνο",
+      "Κωνσταντινούπολη"
+    ],
+    "answersEN": [
+      "London",
+      "Paris",
+      "Berlin",
+      "Istanbul"
+    ],
+    "difficulty": 1,
     "correctIndex": 3
   },
   {
@@ -1056,8 +2210,19 @@
     "categoryEN": "Mythology",
     "questionEL": "Ποιο ον είχε σώμα λιονταριού, κεφάλι γυναίκας και φτερά πτηνού στη Θήβα;",
     "questionEN": "Which creature had a lion's body, a woman's head, and wings in Thebes?",
-    "answersEL": ["Χίμαιρα", "Σφίγγα", "Μέδουσα", "Έχιδνα"],
-    "answersEN": ["Chimera", "Sphinx", "Medusa", "Echidna"],
+    "answersEL": [
+      "Χίμαιρα",
+      "Σφίγγα",
+      "Μέδουσα",
+      "Έχιδνα"
+    ],
+    "answersEN": [
+      "Chimera",
+      "Sphinx",
+      "Medusa",
+      "Echidna"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1066,8 +2231,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποιο είναι το μακρύτερο ποτάμι της Ευρώπης;",
     "questionEN": "Which is the longest river in Europe?",
-    "answersEL": ["Δούναβης", "Ρήνος", "Βόλγας", "Σηκουάνας"],
-    "answersEN": ["Danube", "Rhine", "Volga", "Seine"],
+    "answersEL": [
+      "Δούναβης",
+      "Ρήνος",
+      "Βόλγας",
+      "Σηκουάνας"
+    ],
+    "answersEN": [
+      "Danube",
+      "Rhine",
+      "Volga",
+      "Seine"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -1076,8 +2252,19 @@
     "categoryEN": "Technology",
     "questionEL": "Σε ποια γλώσσα προγραμματισμού βασίζεται κυρίως το framework Flutter;",
     "questionEN": "Which programming language is the Flutter framework primarily based on?",
-    "answersEL": ["Java", "JavaScript", "Dart", "Python"],
-    "answersEN": ["Java", "JavaScript", "Dart", "Python"],
+    "answersEL": [
+      "Java",
+      "JavaScript",
+      "Dart",
+      "Python"
+    ],
+    "answersEN": [
+      "Java",
+      "JavaScript",
+      "Dart",
+      "Python"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -1086,8 +2273,19 @@
     "categoryEN": "Chemistry",
     "questionEL": "Ποιο είναι το χημικό σύμβολο για τον Χρυσό;",
     "questionEN": "What is the chemical symbol for Gold?",
-    "answersEL": ["Ag", "Fe", "Au", "Cu"],
-    "answersEN": ["Ag", "Fe", "Au", "Cu"],
+    "answersEL": [
+      "Ag",
+      "Fe",
+      "Au",
+      "Cu"
+    ],
+    "answersEN": [
+      "Ag",
+      "Fe",
+      "Au",
+      "Cu"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -1096,8 +2294,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια σκανδιναβική χώρα είναι γνωστή ως η 'Χώρα των Χιλίων Λιμνών';",
     "questionEN": "Which Scandinavian country is known as the 'Land of a Thousand Lakes'?",
-    "answersEL": ["Νορβηγία", "Σουηδία", "Φινλανδία", "Δανία"],
-    "answersEN": ["Norway", "Sweden", "Finland", "Denmark"],
+    "answersEL": [
+      "Νορβηγία",
+      "Σουηδία",
+      "Φινλανδία",
+      "Δανία"
+    ],
+    "answersEN": [
+      "Norway",
+      "Sweden",
+      "Finland",
+      "Denmark"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -1106,8 +2315,19 @@
     "categoryEN": "History",
     "questionEL": "Ποια αυτοκρατορία κατέλυσε την Κωνσταντινούπολη το 1453;",
     "questionEN": "Which empire conquered Constantinople in 1453?",
-    "answersEL": ["Ρωμαϊκή", "Οθωμανική", "Περσική", "Φραγκική"],
-    "answersEN": ["Roman", "Ottoman", "Persian", "Frankish"],
+    "answersEL": [
+      "Ρωμαϊκή",
+      "Οθωμανική",
+      "Περσική",
+      "Φραγκική"
+    ],
+    "answersEN": [
+      "Roman",
+      "Ottoman",
+      "Persian",
+      "Frankish"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1116,8 +2336,19 @@
     "categoryEN": "Astronomy",
     "questionEL": "Πόσο χρόνο χρειάζεται το φως του Ήλιου για να φτάσει στη Γη;",
     "questionEN": "How long does it take for sunlight to reach Earth?",
-    "answersEL": ["8 δευτερόλεπτα", "8 λεπτά", "1 ώρα", "1 ημέρα"],
-    "answersEN": ["8 seconds", "8 minutes", "1 hour", "1 day"],
+    "answersEL": [
+      "8 δευτερόλεπτα",
+      "8 λεπτά",
+      "1 ώρα",
+      "1 ημέρα"
+    ],
+    "answersEN": [
+      "8 seconds",
+      "8 minutes",
+      "1 hour",
+      "1 day"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1126,8 +2357,19 @@
     "categoryEN": "Literature",
     "questionEL": "Ποιος έγραψε το επικό έργο 'Οδύσσεια';",
     "questionEN": "Who wrote the epic work 'Odyssey'?",
-    "answersEL": ["Ησίοδος", "Σοφοκλής", "Όμηρος", "Ευριπίδης"],
-    "answersEN": ["Hesiod", "Sophocles", "Homer", "Euripides"],
+    "answersEL": [
+      "Ησίοδος",
+      "Σοφοκλής",
+      "Όμηρος",
+      "Ευριπίδης"
+    ],
+    "answersEN": [
+      "Hesiod",
+      "Sophocles",
+      "Homer",
+      "Euripides"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -1136,8 +2378,19 @@
     "categoryEN": "Zoology",
     "questionEL": "Ποιο είναι το μεγαλύτερο πτηνό στον κόσμο που δεν μπορεί να πετάξει;",
     "questionEN": "What is the largest bird in the world that cannot fly?",
-    "answersEL": ["Πιγκουίνος", "Στρουθοκάμηλος", "Εμού", "Άλμπατρος"],
-    "answersEN": ["Penguin", "Ostrich", "Emu", "Albatross"],
+    "answersEL": [
+      "Πιγκουίνος",
+      "Στρουθοκάμηλος",
+      "Εμού",
+      "Άλμπατρος"
+    ],
+    "answersEN": [
+      "Penguin",
+      "Ostrich",
+      "Emu",
+      "Albatross"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1146,8 +2399,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποιο είναι το ψηλότερο ενεργό ηφαίστειο της Ευρώπης;",
     "questionEN": "What is the highest active volcano in Europe?",
-    "answersEL": ["Βεζούβιος", "Σαντορίνη", "Αίτνα", "Στρόμπολι"],
-    "answersEN": ["Vesuvius", "Santorini", "Etna", "Stromboli"],
+    "answersEL": [
+      "Βεζούβιος",
+      "Σαντορίνη",
+      "Αίτνα",
+      "Στρόμπολι"
+    ],
+    "answersEN": [
+      "Vesuvius",
+      "Santorini",
+      "Etna",
+      "Stromboli"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -1156,8 +2420,19 @@
     "categoryEN": "Music",
     "questionEL": "Σε ποια πόλη γεννήθηκε ο διάσημος συνθέτης Βόλφγκανγκ Αμαντέους Μότσαρτ;",
     "questionEN": "In which city was the famous composer Wolfgang Amadeus Mozart born?",
-    "answersEL": ["Βιέννη", "Σάλτσμπουργκ", "Βερολίνο", "Μόναχο"],
-    "answersEN": ["Vienna", "Salzburg", "Berlin", "Munich"],
+    "answersEL": [
+      "Βιέννη",
+      "Σάλτσμπουργκ",
+      "Βερολίνο",
+      "Μόναχο"
+    ],
+    "answersEN": [
+      "Vienna",
+      "Salzburg",
+      "Berlin",
+      "Munich"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1166,8 +2441,19 @@
     "categoryEN": "Sports",
     "questionEL": "Ποιο είναι το μοναδικό άθλημα που έχει παιχτεί στην επιφάνεια της Σελήνης;",
     "questionEN": "What is the only sport that has been played on the Moon?",
-    "answersEL": ["Γκολφ", "Τένις", "Μπέιζμπολ", "Ποδόσφαιρο"],
-    "answersEN": ["Golf", "Tennis", "Baseball", "Football"],
+    "answersEL": [
+      "Γκολφ",
+      "Τένις",
+      "Μπέιζμπολ",
+      "Ποδόσφαιρο"
+    ],
+    "answersEN": [
+      "Golf",
+      "Tennis",
+      "Baseball",
+      "Football"
+    ],
+    "difficulty": 1,
     "correctIndex": 0
   },
   {
@@ -1176,8 +2462,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια είναι η πρωτεύουσα της Αιγύπτου;",
     "questionEN": "What is the capital of Egypt?",
-    "answersEL": ["Αλεξάνδρεια", "Κάιρο", "Λούξορ", "Γκίζα"],
-    "answersEN": ["Alexandria", "Cairo", "Luxor", "Giza"],
+    "answersEL": [
+      "Αλεξάνδρεια",
+      "Κάιρο",
+      "Λούξορ",
+      "Γκίζα"
+    ],
+    "answersEN": [
+      "Alexandria",
+      "Cairo",
+      "Luxor",
+      "Giza"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1186,8 +2483,19 @@
     "categoryEN": "History",
     "questionEL": "Ποιο έτος έγινε η πτώση του Τείχους του Βερολίνου;",
     "questionEN": "In which year did the fall of the Berlin Wall occur?",
-    "answersEL": ["1985", "1989", "1991", "1993"],
-    "answersEN": ["1985", "1989", "1991", "1993"],
+    "answersEL": [
+      "1985",
+      "1989",
+      "1991",
+      "1993"
+    ],
+    "answersEN": [
+      "1985",
+      "1989",
+      "1991",
+      "1993"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1196,8 +2504,19 @@
     "categoryEN": "Physics",
     "questionEL": "Ποια είναι η ταχύτητα του φωτός στο κενό (περίπου);",
     "questionEN": "What is the speed of light in a vacuum (approximately)?",
-    "answersEL": ["150.000 χλμ/δευτ", "300.000 χλμ/δευτ", "500.000 χλμ/δευτ", "1.000.000 χλμ/δευτ"],
-    "answersEN": ["150,000 km/s", "300,000 km/s", "500,000 km/s", "1,000,000 km/s"],
+    "answersEL": [
+      "150.000 χλμ/δευτ",
+      "300.000 χλμ/δευτ",
+      "500.000 χλμ/δευτ",
+      "1.000.000 χλμ/δευτ"
+    ],
+    "answersEN": [
+      "150,000 km/s",
+      "300,000 km/s",
+      "500,000 km/s",
+      "1,000,000 km/s"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1206,8 +2525,19 @@
     "categoryEN": "Geography",
     "questionEL": "Σε ποια χώρα ανήκει το τουριστικό νησί Μπαλί;",
     "questionEN": "To which country does the tourist island of Bali belong?",
-    "answersEL": ["Ταϊλάνδη", "Φιλιππίνες", "Ινδονησία", "Μαλαισία"],
-    "answersEN": ["Thailand", "Philippines", "Indonesia", "Malaysia"],
+    "answersEL": [
+      "Ταϊλάνδη",
+      "Φιλιππίνες",
+      "Ινδονησία",
+      "Μαλαισία"
+    ],
+    "answersEN": [
+      "Thailand",
+      "Philippines",
+      "Indonesia",
+      "Malaysia"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -1216,8 +2546,19 @@
     "categoryEN": "Anatomy",
     "questionEL": "Πού βρίσκεται το μικρότερο οστό του ανθρώπινου σώματος;",
     "questionEN": "Where is the smallest bone in the human body located?",
-    "answersEL": ["Στο αυτί", "Στη μύτη", "Στο δάχτυλο", "Στο πόδι"],
-    "answersEN": ["In the ear", "In the nose", "In the finger", "In the foot"],
+    "answersEL": [
+      "Στο αυτί",
+      "Στη μύτη",
+      "Στο δάχτυλο",
+      "Στο πόδι"
+    ],
+    "answersEN": [
+      "In the ear",
+      "In the nose",
+      "In the finger",
+      "In the foot"
+    ],
+    "difficulty": 1,
     "correctIndex": 0
   },
   {
@@ -1226,8 +2567,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποιο είναι το μεγαλύτερο λιμάνι της Ελλάδας;",
     "questionEN": "Which is the largest port in Greece?",
-    "answersEL": ["Θεσσαλονίκη", "Πάτρα", "Πειραιάς", "Ηράκλειο"],
-    "answersEN": ["Thessaloniki", "Patras", "Piraeus", "Heraklion"],
+    "answersEL": [
+      "Θεσσαλονίκη",
+      "Πάτρα",
+      "Πειραιάς",
+      "Ηράκλειο"
+    ],
+    "answersEN": [
+      "Thessaloniki",
+      "Patras",
+      "Piraeus",
+      "Heraklion"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -1236,8 +2588,19 @@
     "categoryEN": "Mythology",
     "questionEL": "Ποια ήταν η θεά της σοφίας στην αρχαία ελληνική μυθολογία;",
     "questionEN": "Who was the goddess of wisdom in ancient Greek mythology?",
-    "answersEL": ["Ήρα", "Αφροδίτη", "Αθηνά", "Άρτεμις"],
-    "answersEN": ["Hera", "Afrodite", "Athena", "Artemis"],
+    "answersEL": [
+      "Ήρα",
+      "Αφροδίτη",
+      "Αθηνά",
+      "Άρτεμις"
+    ],
+    "answersEN": [
+      "Hera",
+      "Afrodite",
+      "Athena",
+      "Artemis"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -1246,8 +2609,19 @@
     "categoryEN": "Technology",
     "questionEL": "Ποιο λειτουργικό σύστημα για κινητά τηλέφωνα αναπτύσσει η Google;",
     "questionEN": "Which mobile operating system is developed by Google?",
-    "answersEL": ["iOS", "Windows Phone", "Android", "Symbian"],
-    "answersEN": ["iOS", "Windows Phone", "Android", "Symbian"],
+    "answersEL": [
+      "iOS",
+      "Windows Phone",
+      "Android",
+      "Symbian"
+    ],
+    "answersEN": [
+      "iOS",
+      "Windows Phone",
+      "Android",
+      "Symbian"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -1256,8 +2630,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια είναι η πρωτεύουσα της Πορτογαλίας;",
     "questionEN": "What is the capital of Portugal?",
-    "answersEL": ["Πόρτο", "Λισαβόνα", "Μαδρίτη", "Βαρκελώνη"],
-    "answersEN": ["Porto", "Lisbon", "Madrid", "Barcelona"],
+    "answersEL": [
+      "Πόρτο",
+      "Λισαβόνα",
+      "Μαδρίτη",
+      "Βαρκελώνη"
+    ],
+    "answersEN": [
+      "Porto",
+      "Lisbon",
+      "Madrid",
+      "Barcelona"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1266,8 +2651,19 @@
     "categoryEN": "Cinema",
     "questionEL": "Ποιος υποδύθηκε τον Iron Man/Tony Stark στο Κινηματογραφικό Σύμπαν της Marvel (MCU);",
     "questionEN": "Who played Iron Man/Tony Stark in the Marvel Cinematic Universe (MCU)?",
-    "answersEL": ["Κρις Έβανς", "Ρόμπερτ Ντάουνι Τζούνιορ", "Κρις Χέμσγουορθ", "Τομ Χόλαντ"],
-    "answersEN": ["Chris Evans", "Robert Downey Jr.", "Chris Hemsworth", "Tom Holland"],
+    "answersEL": [
+      "Κρις Έβανς",
+      "Ρόμπερτ Ντάουνι Τζούνιορ",
+      "Κρις Χέμσγουορθ",
+      "Τομ Χόλαντ"
+    ],
+    "answersEN": [
+      "Chris Evans",
+      "Robert Downey Jr.",
+      "Chris Hemsworth",
+      "Tom Holland"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1276,8 +2672,19 @@
     "categoryEN": "Gastronomy",
     "questionEL": "Ποιο είναι το βασικό συστατικό της παραδοσιακής ελληνικής φάβας;",
     "questionEN": "What is the main ingredient of traditional Greek fava?",
-    "answersEL": ["Ρεβίθια", "Λαθούρι (ή σπασμένο μπιζέλι)", "Φασόλια", "Φακές"],
-    "answersEN": ["Chickpeas", "Yellow split peas", "Beans", "Lentils"],
+    "answersEL": [
+      "Ρεβίθια",
+      "Λαθούρι (ή σπασμένο μπιζέλι)",
+      "Φασόλια",
+      "Φακές"
+    ],
+    "answersEN": [
+      "Chickpeas",
+      "Yellow split peas",
+      "Beans",
+      "Lentils"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1286,8 +2693,19 @@
     "categoryEN": "History",
     "questionEL": "Ποια βασίλισσα κυβερνούσε την Αίγυπτο κατά την περίοδο της συμμαχίας της με τον Μάρκο Αντώνιο;",
     "questionEN": "Which queen ruled Egypt during her alliance with Mark Antony?",
-    "answersEL": ["Νεφερτίτη", "Κλεοπάτρα", "Χατσεψούτ", "Αρσινόη"],
-    "answersEN": ["Nefertiti", "Cleopatra", "Hatshepsut", "Arsinoe"],
+    "answersEL": [
+      "Νεφερτίτη",
+      "Κλεοπάτρα",
+      "Χατσεψούτ",
+      "Αρσινόη"
+    ],
+    "answersEN": [
+      "Nefertiti",
+      "Cleopatra",
+      "Hatshepsut",
+      "Arsinoe"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1296,8 +2714,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποιο είναι το ψηλότερο βουνό της Ελλάδας;",
     "questionEN": "What is the highest mountain in Greece?",
-    "answersEL": ["Ψηλορείτης", "Όλυμπος", "Παρνασσός", "Ταΰγετος"],
-    "answersEN": ["Psiloritis", "Olympus", "Parnassus", "Taygetos"],
+    "answersEL": [
+      "Ψηλορείτης",
+      "Όλυμπος",
+      "Παρνασσός",
+      "Ταΰγετος"
+    ],
+    "answersEN": [
+      "Psiloritis",
+      "Olympus",
+      "Parnassus",
+      "Taygetos"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1306,8 +2735,19 @@
     "categoryEN": "Chemistry",
     "questionEL": "Ποιο αέριο απελευθερώνουν τα φυτά κατά τη διάρκεια της φωτοσύνθεσης;",
     "questionEN": "Which gas do plants release during photosynthesis?",
-    "answersEL": ["Διοξείδιο του άνθρακα", "Άζωτο", "Οξυγόνο", "Υδρογόνο"],
-    "answersEN": ["Carbon dioxide", "Nitrogen", "Oxygen", "Hydrogen"],
+    "answersEL": [
+      "Διοξείδιο του άνθρακα",
+      "Άζωτο",
+      "Οξυγόνο",
+      "Υδρογόνο"
+    ],
+    "answersEN": [
+      "Carbon dioxide",
+      "Nitrogen",
+      "Oxygen",
+      "Hydrogen"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -1316,8 +2756,19 @@
     "categoryEN": "Gaming",
     "questionEL": "Ποια εταιρεία δημιούργησε την πασίγνωστη κονσόλα PlayStation;",
     "questionEN": "Which company created the famous PlayStation console?",
-    "answersEL": ["Nintendo", "Microsoft", "Sega", "Sony"],
-    "answersEN": ["Nintendo", "Microsoft", "Sega", "Sony"],
+    "answersEL": [
+      "Nintendo",
+      "Microsoft",
+      "Sega",
+      "Sony"
+    ],
+    "answersEN": [
+      "Nintendo",
+      "Microsoft",
+      "Sega",
+      "Sony"
+    ],
+    "difficulty": 1,
     "correctIndex": 3
   },
   {
@@ -1326,8 +2777,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια χώρα έχει τη μεγαλύτερη έκταση στη Νότια Αμερική;",
     "questionEN": "Which country has the largest area in South America?",
-    "answersEL": ["Αργεντινή", "Κολομβία", "Βραζιλία", "Περού"],
-    "answersEN": ["Argentina", "Colombia", "Brazil", "Peru"],
+    "answersEL": [
+      "Αργεντινή",
+      "Κολομβία",
+      "Βραζιλία",
+      "Περού"
+    ],
+    "answersEN": [
+      "Argentina",
+      "Colombia",
+      "Brazil",
+      "Peru"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -1336,8 +2798,19 @@
     "categoryEN": "Art",
     "questionEL": "Ποιο διάσημο γλυπτό της ελληνικής αρχαιότητας βρέθηκε στη Μήλο και βρίσκεται στο Μουσείο του Λούβρου;",
     "questionEN": "Which famous ancient Greek sculpture was found in Milos and is located in the Louvre Museum?",
-    "answersEL": ["Νίκη της Σαμοθράκης", "Αφροδίτη της Μήλου", "Ερμής του Πραξιτέλη", "Ηνίοχος των Δελφών"],
-    "answersEN": ["Winged Victory of Samothrace", "Venus de Milo", "Hermes of Praxiteles", "Charioteer of Delphi"],
+    "answersEL": [
+      "Νίκη της Σαμοθράκης",
+      "Αφροδίτη της Μήλου",
+      "Ερμής του Πραξιτέλη",
+      "Ηνίοχος των Δελφών"
+    ],
+    "answersEN": [
+      "Winged Victory of Samothrace",
+      "Venus de Milo",
+      "Hermes of Praxiteles",
+      "Charioteer of Delphi"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1346,8 +2819,19 @@
     "categoryEN": "Mathematics",
     "questionEL": "Ποιος είναι ο επόμενος αριθμός στη σειρά: 2, 4, 8, 16...;",
     "questionEN": "What is the next number in the sequence: 2, 4, 8, 16...?",
-    "answersEL": ["20", "24", "32", "64"],
-    "answersEN": ["20", "24", "32", "64"],
+    "answersEL": [
+      "20",
+      "24",
+      "32",
+      "64"
+    ],
+    "answersEN": [
+      "20",
+      "24",
+      "32",
+      "64"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -1356,8 +2840,19 @@
     "categoryEN": "Geography",
     "questionEL": "Σε ποια πόλη βρίσκεται η διάσημη Όπερα με το σχήμα που θυμίζει πανιά πλοίου;",
     "questionEN": "In which city is the famous Opera House shaped like ship sails located?",
-    "answersEL": ["Μελβούρνη", "Σίδνεϊ", "Λονδίνο", "Όκλαντ"],
-    "answersEN": ["Melbourne", "Sydney", "London", "Auckland"],
+    "answersEL": [
+      "Μελβούρνη",
+      "Σίδνεϊ",
+      "Λονδίνο",
+      "Όκλαντ"
+    ],
+    "answersEN": [
+      "Melbourne",
+      "Sydney",
+      "London",
+      "Auckland"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1366,8 +2861,19 @@
     "categoryEN": "Zoology",
     "questionEL": "Ποιο ζωικό είδος είναι γνωστό ότι πεθαίνει αφού κεντρίσει τον άνθρωπο;",
     "questionEN": "Which animal species is known to die after stinging a human?",
-    "answersEL": ["Σφήκα", "Μέλισσα", "Κουνούπι", "Σκορπιός"],
-    "answersEN": ["Wasp", "Honeybee", "Mosquito", "Scorpion"],
+    "answersEL": [
+      "Σφήκα",
+      "Μέλισσα",
+      "Κουνούπι",
+      "Σκορπιός"
+    ],
+    "answersEN": [
+      "Wasp",
+      "Honeybee",
+      "Mosquito",
+      "Scorpion"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1376,8 +2882,19 @@
     "categoryEN": "History",
     "questionEL": "Ποιο ιστορικό γεγονός πυροδότησε την έναρξη της Ελληνικής Επανάστασης το 1821;",
     "questionEN": "Which historical year marks the beginning of the Greek War of Independence?",
-    "answersEL": ["1453", "1821", "1912", "1940"],
-    "answersEN": ["1453", "1821", "1912", "1940"],
+    "answersEL": [
+      "1453",
+      "1821",
+      "1912",
+      "1940"
+    ],
+    "answersEN": [
+      "1453",
+      "1821",
+      "1912",
+      "1940"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1386,8 +2903,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια είναι η πρωτεύουσα της Κίνας;",
     "questionEN": "What is the capital of China?",
-    "answersEL": ["Σαγκάη", "Χονγκ Κονγκ", "Πεκίνο", "Γκουανγκζού"],
-    "answersEN": ["Shanghai", "Hong Kong", "Beijing", "Guangzhou"],
+    "answersEL": [
+      "Σαγκάη",
+      "Χονγκ Κονγκ",
+      "Πεκίνο",
+      "Γκουανγκζού"
+    ],
+    "answersEN": [
+      "Shanghai",
+      "Hong Kong",
+      "Beijing",
+      "Guangzhou"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -1396,8 +2924,19 @@
     "categoryEN": "Nature",
     "questionEL": "Ποιο φαινόμενο προκαλείται από την ξαφνική απελευθέρωση ενέργειας στον φλοιό της Γης;",
     "questionEN": "What phenomenon is caused by the sudden release of energy in the Earth's crust?",
-    "answersEL": ["Έκρηξη ηφαιστείου", "Σεισμός", "Τσουνάμι", "Ανεμοστρόβιλος"],
-    "answersEN": ["Volcanic eruption", "Earthquake", "Tsunami", "Tornado"],
+    "answersEL": [
+      "Έκρηξη ηφαιστείου",
+      "Σεισμός",
+      "Τσουνάμι",
+      "Ανεμοστρόβιλος"
+    ],
+    "answersEN": [
+      "Volcanic eruption",
+      "Earthquake",
+      "Tsunami",
+      "Tornado"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1406,8 +2945,19 @@
     "categoryEN": "Cinema",
     "questionEL": "Πόσες ταινίες περιλαμβάνει η αρχική (original) τριλογία του 'Star Wars';",
     "questionEN": "How many movies are included in the original 'Star Wars' trilogy?",
-    "answersEL": ["2", "3", "6", "9"],
-    "answersEN": ["2", "3", "6", "9"],
+    "answersEL": [
+      "2",
+      "3",
+      "6",
+      "9"
+    ],
+    "answersEN": [
+      "2",
+      "3",
+      "6",
+      "9"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1416,8 +2966,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποιο είναι το μεγαλύτερο σε έκταση νησί της Μεσογείου;",
     "questionEN": "Which is the largest island in the Mediterranean Sea by area?",
-    "answersEL": ["Κρήτη", "Κύπρος", "Σαρδηνία", "Σικελία"],
-    "answersEN": ["Crete", "Cyprus", "Sardinia", "Sicily"],
+    "answersEL": [
+      "Κρήτη",
+      "Κύπρος",
+      "Σαρδηνία",
+      "Σικελία"
+    ],
+    "answersEN": [
+      "Crete",
+      "Cyprus",
+      "Sardinia",
+      "Sicily"
+    ],
+    "difficulty": 1,
     "correctIndex": 3
   },
   {
@@ -1426,8 +2987,19 @@
     "categoryEN": "Astronomy",
     "questionEL": "Ποιο ουράνιο σώμα υποβαθμίστηκε από 'πλανήτης' σε 'νάνος πλανήτης' το 2006;",
     "questionEN": "Which celestial body was downgraded from 'planet' to 'dwarf planet' in 2006?",
-    "answersEL": ["Ερμής", "Πλούτωνας", "Ποσειδώνας", "Δήμητρα"],
-    "answersEN": ["Mercury", "Pluto", "Neptune", "Ceres"],
+    "answersEL": [
+      "Ερμής",
+      "Πλούτωνας",
+      "Ποσειδώνας",
+      "Δήμητρα"
+    ],
+    "answersEN": [
+      "Mercury",
+      "Pluto",
+      "Neptune",
+      "Ceres"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1436,8 +3008,19 @@
     "categoryEN": "History",
     "questionEL": "Ποια χώρα υπέστη την πρώτη επίθεση με ατομική βόμβα στην ιστορία (Χιροσίμα);",
     "questionEN": "Which country suffered the first atomic bomb attack in history (Hiroshima)?",
-    "answersEL": ["Γερμανία", "Ρωσία", "Ιαπωνία", "Κίνα"],
-    "answersEN": ["Germany", "Russia", "Japan", "China"],
+    "answersEL": [
+      "Γερμανία",
+      "Ρωσία",
+      "Ιαπωνία",
+      "Κίνα"
+    ],
+    "answersEN": [
+      "Germany",
+      "Russia",
+      "Japan",
+      "China"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -1446,8 +3029,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποιο είναι το επίσημο νόμισμα της Αυστραλίας;",
     "questionEN": "What is the official currency of Australia?",
-    "answersEL": ["Αυστραλιανή Λίρα", "Δολάριο Αυστραλίας", "Αυστραλιανό Ευρώ", "Δολάριο ΗΠΑ"],
-    "answersEN": ["Australian Pound", "Australian Dollar", "Australian Euro", "US Dollar"],
+    "answersEL": [
+      "Αυστραλιανή Λίρα",
+      "Δολάριο Αυστραλίας",
+      "Αυστραλιανό Ευρώ",
+      "Δολάριο ΗΠΑ"
+    ],
+    "answersEN": [
+      "Australian Pound",
+      "Australian Dollar",
+      "Australian Euro",
+      "US Dollar"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1456,8 +3050,19 @@
     "categoryEN": "Literature",
     "questionEL": "Ποιος φανταστικός χαρακτήρας μεγαλώνει η μύτη του κάθε φορά που λέει ψέματα;",
     "questionEN": "Which fictional character's nose grows every time he tells a lie?",
-    "answersEL": ["Πίτερ Παν", "Πινόκιο", "Μόγλης", "Αλαντίν"],
-    "answersEN": ["Peter Pan", "Pinocchio", "Mowgli", "Aladdin"],
+    "answersEL": [
+      "Πίτερ Παν",
+      "Πινόκιο",
+      "Μόγλης",
+      "Αλαντίν"
+    ],
+    "answersEN": [
+      "Peter Pan",
+      "Pinocchio",
+      "Mowgli",
+      "Aladdin"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1466,8 +3071,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια είναι η πρωτεύουσα της Αργεντινής;",
     "questionEN": "What is the capital of Argentina?",
-    "answersEL": ["Σαντιάγο", "Μπογκοτά", "Μπουένος Άιρες", "Λίμα"],
-    "answersEN": ["Santiago", "Bogota", "Buenos Aires", "Lima"],
+    "answersEL": [
+      "Σαντιάγο",
+      "Μπογκοτά",
+      "Μπουένος Άιρες",
+      "Λίμα"
+    ],
+    "answersEN": [
+      "Santiago",
+      "Bogota",
+      "Buenos Aires",
+      "Lima"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -1476,8 +3092,19 @@
     "categoryEN": "Zoology",
     "questionEL": "Ποιο θηλαστικό της θάλασσας είναι γνωστό για την εξαιρετική του ευφυΐα και το μόνιμο 'χαμόγελο' στο πρόσωπό του;",
     "questionEN": "Which marine mammal is known for its high intelligence and permanent 'smile'?",
-    "answersEL": ["Φώκια", "Δελφίνι", "Όρκα", "Θαλάσσιος ίππος"],
-    "answersEN": ["Seal", "Dolphin", "Orca", "Walrus"],
+    "answersEL": [
+      "Φώκια",
+      "Δελφίνι",
+      "Όρκα",
+      "Θαλάσσιος ίππος"
+    ],
+    "answersEN": [
+      "Seal",
+      "Dolphin",
+      "Orca",
+      "Walrus"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1486,8 +3113,19 @@
     "categoryEN": "Music",
     "questionEL": "Πόσες νότες υπάρχουν στη βασική μουσική κλίμακα (Ντο, Ρε, Μι...);",
     "questionEN": "How many notes are there in the basic musical scale (Do, Re, Mi...)?",
-    "answersEL": ["5", "7", "8", "12"],
-    "answersEN": ["5", "7", "8", "12"],
+    "answersEL": [
+      "5",
+      "7",
+      "8",
+      "12"
+    ],
+    "answersEN": [
+      "5",
+      "7",
+      "8",
+      "12"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1496,19 +3134,40 @@
     "categoryEN": "Geography",
     "questionEL": "Σε ποια ήπειρο βρίσκεται το τροπικό δάσος του Αμαζονίου;",
     "questionEN": "On which continent is the Amazon rainforest located?",
-    "answersEL": ["Αφρική", "Ασία", "Βόρεια Αμερική", "Νότια Αμερική"],
-    "answersEN": ["Africa", "Asia", "North America", "South America"],
+    "answersEL": [
+      "Αφρική",
+      "Ασία",
+      "Βόρεια Αμερική",
+      "Νότια Αμερική"
+    ],
+    "answersEN": [
+      "Africa",
+      "Asia",
+      "North America",
+      "South America"
+    ],
+    "difficulty": 1,
     "correctIndex": 3
   },
-
   {
     "id": 151,
     "categoryEL": "Γεωγραφία",
     "categoryEN": "Geography",
     "questionEL": "Ποια είναι η πρωτεύουσα της Νορβηγίας;",
     "questionEN": "What is the capital of Norway?",
-    "answersEL": ["Στοκχόλμη", "Ελσίνκι", "Όσλο", "Κοπεγχάγη"],
-    "answersEN": ["Stockholm", "Helsinki", "Oslo", "Copenhagen"],
+    "answersEL": [
+      "Στοκχόλμη",
+      "Ελσίνκι",
+      "Όσλο",
+      "Κοπεγχάγη"
+    ],
+    "answersEN": [
+      "Stockholm",
+      "Helsinki",
+      "Oslo",
+      "Copenhagen"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -1517,8 +3176,19 @@
     "categoryEN": "History",
     "questionEL": "Ποιος Ρωμαίος αυτοκράτορας μετέφερε την πρωτεύουσα της αυτοκρατορίας στο Βυζάντιο;",
     "questionEN": "Which Roman emperor moved the empire's capital to Byzantium?",
-    "answersEL": ["Ιούλιος Καίσαρας", "Μέγας Κωνσταντίνος", "Αύγουστος", "Νέρωνας"],
-    "answersEN": ["Julius Caesar", "Constantine the Great", "Augustus", "Nero"],
+    "answersEL": [
+      "Ιούλιος Καίσαρας",
+      "Μέγας Κωνσταντίνος",
+      "Αύγουστος",
+      "Νέρωνας"
+    ],
+    "answersEN": [
+      "Julius Caesar",
+      "Constantine the Great",
+      "Augustus",
+      "Nero"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1527,8 +3197,19 @@
     "categoryEN": "Biology",
     "questionEL": "Ποια ουσία δίνει στα φυτά το πράσινο χρώμα τους και απορροφά το φως;",
     "questionEN": "Which substance gives plants their green color and absorbs light?",
-    "answersEL": ["Αιμοσφαιρίνη", "Χλωροφύλλη", "Καροτίνη", "Μελανίνη"],
-    "answersEN": ["Hemoglobin", "Chlorophyll", "Carotene", "Melanin"],
+    "answersEL": [
+      "Αιμοσφαιρίνη",
+      "Χλωροφύλλη",
+      "Καροτίνη",
+      "Μελανίνη"
+    ],
+    "answersEN": [
+      "Hemoglobin",
+      "Chlorophyll",
+      "Carotene",
+      "Melanin"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1537,8 +3218,19 @@
     "categoryEN": "Cinema",
     "questionEL": "Ποια ταινία κινουμένων σχεδίων της Disney διαδραματίζεται στην Αφρική και έχει ήρωα τον Simba;",
     "questionEN": "Which Disney animated movie is set in Africa and features Simba?",
-    "answersEL": ["Ταρζάν", "Ο Βασιλιάς των Λιονταριών", "Αλαντίν", "Μανταγασκάρη"],
-    "answersEN": ["Tarzan", "The Lion King", "Aladdin", "Madagascar"],
+    "answersEL": [
+      "Ταρζάν",
+      "Ο Βασιλιάς των Λιονταριών",
+      "Αλαντίν",
+      "Μανταγασκάρη"
+    ],
+    "answersEN": [
+      "Tarzan",
+      "The Lion King",
+      "Aladdin",
+      "Madagascar"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1547,8 +3239,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποιο είναι το επίσημο νόμισμα της Νότιας Αφρικής;",
     "questionEN": "What is the official currency of South Africa?",
-    "answersEL": ["Ράντ", "Δολάριο", "Σελίνι", "Λίρα"],
-    "answersEN": ["Rand", "Dollar", "Shilling", "Pound"],
+    "answersEL": [
+      "Ράντ",
+      "Δολάριο",
+      "Σελίνι",
+      "Λίρα"
+    ],
+    "answersEN": [
+      "Rand",
+      "Dollar",
+      "Shilling",
+      "Pound"
+    ],
+    "difficulty": 1,
     "correctIndex": 0
   },
   {
@@ -1557,8 +3260,19 @@
     "categoryEN": "Mythology",
     "questionEL": "Ποιος μυθικός ήρωας πέταξε πολύ κοντά στον ήλιο με κέρινα φτερά και έπεσε στη θάλασσα;",
     "questionEN": "Which mythical hero flew too close to the sun with wax wings and fell into the sea?",
-    "answersEL": ["Δαίδαλος", "Ίκαρος", "Φαέθων", "Βελλεροφόντης"],
-    "answersEN": ["Daedalus", "Icarus", "Phaethon", "Bellerophon"],
+    "answersEL": [
+      "Δαίδαλος",
+      "Ίκαρος",
+      "Φαέθων",
+      "Βελλεροφόντης"
+    ],
+    "answersEN": [
+      "Daedalus",
+      "Icarus",
+      "Phaethon",
+      "Bellerophon"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1567,8 +3281,19 @@
     "categoryEN": "Science",
     "questionEL": "Ποια είναι η πλησιέστερη στον άνθρωπο ομάδα πρωτευόντων θηλαστικών (γενετικά);",
     "questionEN": "Which group of primates is genetically closest to humans?",
-    "answersEL": ["Γορίλας", "Χιμπατζής", "Ουρανκοτάγκος", "Λεμούριος"],
-    "answersEN": ["Gorilla", "Chimpanzee", "Orangutan", "Lemur"],
+    "answersEL": [
+      "Γορίλας",
+      "Χιμπατζής",
+      "Ουρανκοτάγκος",
+      "Λεμούριος"
+    ],
+    "answersEN": [
+      "Gorilla",
+      "Chimpanzee",
+      "Orangutan",
+      "Lemur"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1577,8 +3302,19 @@
     "categoryEN": "Geography",
     "questionEL": "Σε ποια χώρα βρίσκεται το περίφημο μνημείο Ταζ Μαχάλ;",
     "questionEN": "In which country is the famous Taj Mahal monument located?",
-    "answersEL": ["Πακιστάν", "Ινδία", "Νεπάλ", "Ταϊλάνδη"],
-    "answersEN": ["Pakistan", "India", "Nepal", "Thailand"],
+    "answersEL": [
+      "Πακιστάν",
+      "Ινδία",
+      "Νεπάλ",
+      "Ταϊλάνδη"
+    ],
+    "answersEN": [
+      "Pakistan",
+      "India",
+      "Nepal",
+      "Thailand"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1587,8 +3323,19 @@
     "categoryEN": "Technology",
     "questionEL": "Τι σημαίνουν τα αρχικά του όρου 'USB' στις ηλεκτρονικές συσκευές;",
     "questionEN": "What do the initials 'USB' stand for in electronic devices?",
-    "answersEL": ["Universal Serial Bus", "United Software Base", "Universal System Board", "Unique Serial Boot"],
-    "answersEN": ["Universal Serial Bus", "United Software Base", "Universal System Board", "Unique Serial Boot"],
+    "answersEL": [
+      "Universal Serial Bus",
+      "United Software Base",
+      "Universal System Board",
+      "Unique Serial Boot"
+    ],
+    "answersEN": [
+      "Universal Serial Bus",
+      "United Software Base",
+      "Universal System Board",
+      "Unique Serial Boot"
+    ],
+    "difficulty": 1,
     "correctIndex": 0
   },
   {
@@ -1597,8 +3344,19 @@
     "categoryEN": "Chemistry",
     "questionEL": "Ποιο είναι το κοινό όνομα της χημικής ένωσης 'Χλωριούχο Νάτριο' (NaCl);",
     "questionEN": "What is the common name for the chemical compound 'Sodium Chloride' (NaCl)?",
-    "answersEL": ["Ζάχαρη", "Αλάτι", "Σόδα", "Ξύδι"],
-    "answersEN": ["Sugar", "Salt", "Baking Soda", "Vinegar"],
+    "answersEL": [
+      "Ζάχαρη",
+      "Αλάτι",
+      "Σόδα",
+      "Ξύδι"
+    ],
+    "answersEN": [
+      "Sugar",
+      "Salt",
+      "Baking Soda",
+      "Vinegar"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1607,8 +3365,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια είναι η πρωτεύουσα της Ελβετίας;",
     "questionEN": "What is the capital of Switzerland?",
-    "answersEL": ["Ζυρίχη", "Γενεύη", "Βέρνη", "Λουκέρνη"],
-    "answersEN": ["Zurich", "Geneva", "Bern", "Lucerne"],
+    "answersEL": [
+      "Ζυρίχη",
+      "Γενεύη",
+      "Βέρνη",
+      "Λουκέρνη"
+    ],
+    "answersEN": [
+      "Zurich",
+      "Geneva",
+      "Bern",
+      "Lucerne"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -1617,8 +3386,19 @@
     "categoryEN": "Sports",
     "questionEL": "Πόσοι παίκτες μιας ομάδας μπάσκετ βρίσκονται ταυτόχρονα μέσα στο παρκέ κατά τη διάρκεια του αγώνα;",
     "questionEN": "How many players of a basketball team are on the court at the same time during a game?",
-    "answersEL": ["4", "5", "6", "11"],
-    "answersEN": ["4", "5", "6", "11"],
+    "answersEL": [
+      "4",
+      "5",
+      "6",
+      "11"
+    ],
+    "answersEN": [
+      "4",
+      "5",
+      "6",
+      "11"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1627,8 +3407,19 @@
     "categoryEN": "Literature",
     "questionEL": "Ποιο διάσημο βιβλίο φαντασίας του J.R.R. Tolkien διαδραματίζεται στη 'Μέση Γη';",
     "questionEN": "Which famous fantasy book by J.R.R. Tolkien is set in 'Middle-earth'?",
-    "answersEL": ["Ο Χάρι Πότερ", "Ο Άρχοντας των Δαχτυλιδιών", "Τα Χρονικά της Νάρνια", "Game of Thrones"],
-    "answersEN": ["Harry Potter", "The Lord of the Rings", "The Chronicles of Narnia", "Game of Thrones"],
+    "answersEL": [
+      "Ο Χάρι Πότερ",
+      "Ο Άρχοντας των Δαχτυλιδιών",
+      "Τα Χρονικά της Νάρνια",
+      "Game of Thrones"
+    ],
+    "answersEN": [
+      "Harry Potter",
+      "The Lord of the Rings",
+      "The Chronicles of Narnia",
+      "Game of Thrones"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1637,8 +3428,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποιο είναι το μικρότερο σε έκταση νησί του Ιονίου Πελάγους (από τα Επτάνησα);",
     "questionEN": "Which is the smallest island in the Ionian Sea (among the Heptanese)?",
-    "answersEL": ["Ιθάκη", "Παξοί", "Κύθηρα", "Λευκάδα"],
-    "answersEN": ["Ithaca", "Paxos", "Kythira", "Lefkada"],
+    "answersEL": [
+      "Ιθάκη",
+      "Παξοί",
+      "Κύθηρα",
+      "Λευκάδα"
+    ],
+    "answersEN": [
+      "Ithaca",
+      "Paxos",
+      "Kythira",
+      "Lefkada"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1647,8 +3449,19 @@
     "categoryEN": "History",
     "questionEL": "Ποιος ήταν ο ηγέτης της Ναζιστικής Γερμανίας κατά τον Δεύτερο Παγκόσμιο Πόλεμο;",
     "questionEN": "Who was the leader of Nazi Germany during World War II?",
-    "answersEL": ["Μπενίτο Μουσολίνι", "Αδόλφος Χίτλερ", "Ιωσήφ Στάλιν", "Ουίνστον Τσώρτσιλ"],
-    "answersEN": ["Benito Mussolini", "Adolf Hitler", "Joseph Stalin", "Winston Churchill"],
+    "answersEL": [
+      "Μπενίτο Μουσολίνι",
+      "Αδόλφος Χίτλερ",
+      "Ιωσήφ Στάλιν",
+      "Ουίνστον Τσώρτσιλ"
+    ],
+    "answersEN": [
+      "Benito Mussolini",
+      "Adolf Hitler",
+      "Joseph Stalin",
+      "Winston Churchill"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1657,8 +3470,19 @@
     "categoryEN": "Astronomy",
     "questionEL": "Ποιο είναι το δεύτερο πλησιέστερο αστέρι στη Γη μετά τον Ήλιο;",
     "questionEN": "What is the second closest star to Earth after the Sun?",
-    "answersEL": ["Σείριος", "Εγγύτατος Κενταύρου", "Βέγας", "Πολικός Αστέρας"],
-    "answersEN": ["Sirius", "Proxima Centauri", "Vega", "North Star"],
+    "answersEL": [
+      "Σείριος",
+      "Εγγύτατος Κενταύρου",
+      "Βέγας",
+      "Πολικός Αστέρας"
+    ],
+    "answersEN": [
+      "Sirius",
+      "Proxima Centauri",
+      "Vega",
+      "North Star"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1667,8 +3491,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποιο κράτος είναι το μοναδικό που καταλαμβάνει μια ολόκληρη ήπειρο;",
     "questionEN": "Which country is the only one that occupies an entire continent?",
-    "answersEL": ["Ρωσία", "Καναδάς", "Αυστραλία", "Βραζιλία"],
-    "answersEN": ["Russia", "Canada", "Australia", "Brazil"],
+    "answersEL": [
+      "Ρωσία",
+      "Καναδάς",
+      "Αυστραλία",
+      "Βραζιλία"
+    ],
+    "answersEN": [
+      "Russia",
+      "Canada",
+      "Australia",
+      "Brazil"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -1677,8 +3512,19 @@
     "categoryEN": "Art",
     "questionEL": "Ποιος Ισπανός ζωγράφος είναι ο πιο διάσημος εκπρόσωπος του Κυβισμού;",
     "questionEN": "Which Spanish painter is the most famous representative of Cubism?",
-    "answersEL": ["Σαλβαδόρ Νταλί", "Πάμπλο Πικάσο", "Φρανθίσκο Γκόγια", "Ντιέγκο Βελάθκεθ"],
-    "answersEN": ["Salvador Dali", "Pablo Picasso", "Francisco Goya", "Diego Velazquez"],
+    "answersEL": [
+      "Σαλβαδόρ Νταλί",
+      "Πάμπλο Πικάσο",
+      "Φρανθίσκο Γκόγια",
+      "Ντιέγκο Βελάθκεθ"
+    ],
+    "answersEN": [
+      "Salvador Dali",
+      "Pablo Picasso",
+      "Francisco Goya",
+      "Diego Velazquez"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1687,8 +3533,19 @@
     "categoryEN": "Zoology",
     "questionEL": "Ποιο ζώο έχει τη μεγαλύτερη διάρκεια εγκυμοσύνης (περίπου 22 μήνες);",
     "questionEN": "Which animal has the longest gestation period (about 22 months)?",
-    "answersEL": ["Γαλάζια Φάλαινα", "Ασιατικός Ελέφαντας", "Καμηλοπάρδαλη", "Ρινόκερος"],
-    "answersEN": ["Blue Whale", "Asian Elephant", "Giraffe", "Rhinoceros"],
+    "answersEL": [
+      "Γαλάζια Φάλαινα",
+      "Ασιατικός Ελέφαντας",
+      "Καμηλοπάρδαλη",
+      "Ρινόκερος"
+    ],
+    "answersEN": [
+      "Blue Whale",
+      "Asian Elephant",
+      "Giraffe",
+      "Rhinoceros"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1697,8 +3554,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια είναι η πρωτεύουσα της Κούβας;",
     "questionEN": "What is the capital of Cuba?",
-    "answersEL": ["Αβάνα", "Σαντιάγο", "Κίνγκστον", "Σάντο Ντομίνγκο"],
-    "answersEN": ["Havana", "Santiago", "Kingston", "Santo Domingo"],
+    "answersEL": [
+      "Αβάνα",
+      "Σαντιάγο",
+      "Κίνγκστον",
+      "Σάντο Ντομίνγκο"
+    ],
+    "answersEN": [
+      "Havana",
+      "Santiago",
+      "Kingston",
+      "Santo Domingo"
+    ],
+    "difficulty": 1,
     "correctIndex": 0
   },
   {
@@ -1707,8 +3575,19 @@
     "categoryEN": "Physics",
     "questionEL": "Ποιο όργανο χρησιμοποιείται για τη μέτρηση του ηλεκτρικού ρεύματος;",
     "questionEN": "Which instrument is used to measure electric current?",
-    "answersEL": ["Βολτόμετρο", "Αμπερόμετρο", "Ωμόμετρο", "Γαλβανόμετρο"],
-    "answersEN": ["Voltmeter", "Ammeter", "Ohmmeter", "Galvanometer"],
+    "answersEL": [
+      "Βολτόμετρο",
+      "Αμπερόμετρο",
+      "Ωμόμετρο",
+      "Γαλβανόμετρο"
+    ],
+    "answersEN": [
+      "Voltmeter",
+      "Ammeter",
+      "Ohmmeter",
+      "Galvanometer"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1717,8 +3596,19 @@
     "categoryEN": "Mythology",
     "questionEL": "Ποιος ήταν ο φύλακας-σκύλος με τα τρία κεφάλια που προστάτευε την έξοδο από τον Άδη;",
     "questionEN": "Who was the three-headed hound that guarded the exit of Hades?",
-    "answersEL": ["Κέρβερος", "Όρθρος", "Χίμαιρα", "Μινώταυρος"],
-    "answersEN": ["Cerberus", "Orthrus", "Chimera", "Minotaur"],
+    "answersEL": [
+      "Κέρβερος",
+      "Όρθρος",
+      "Χίμαιρα",
+      "Μινώταυρος"
+    ],
+    "answersEN": [
+      "Cerberus",
+      "Orthrus",
+      "Chimera",
+      "Minotaur"
+    ],
+    "difficulty": 1,
     "correctIndex": 0
   },
   {
@@ -1727,8 +3617,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποιο είναι το μεγαλύτερο σε μήκος σινικό τείχος (Μεγάλο Τείχος) στον κόσμο;",
     "questionEN": "Which country built the Great Wall, the longest wall in the world?",
-    "answersEL": ["Μογγολία", "Ιαπωνία", "Κίνα", "Κορέα"],
-    "answersEN": ["Mongolia", "Japan", "China", "Korea"],
+    "answersEL": [
+      "Μογγολία",
+      "Ιαπωνία",
+      "Κίνα",
+      "Κορέα"
+    ],
+    "answersEN": [
+      "Mongolia",
+      "Japan",
+      "China",
+      "Korea"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -1737,8 +3638,19 @@
     "categoryEN": "Gastronomy",
     "questionEL": "Ποιο είναι το κύριο αλκοολούχο ποτό που χρησιμοποιείται για την παρασκευή ενός Mojito;",
     "questionEN": "What is the primary alcoholic spirit used in a Mojito?",
-    "answersEL": ["Βότκα", "Τζιν", "Ρούμι", "Τεκίλα"],
-    "answersEN": ["Vodka", "Gin", "Rum", "Tequila"],
+    "answersEL": [
+      "Βότκα",
+      "Τζιν",
+      "Ρούμι",
+      "Τεκίλα"
+    ],
+    "answersEN": [
+      "Vodka",
+      "Gin",
+      "Rum",
+      "Tequila"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -1747,8 +3659,19 @@
     "categoryEN": "Gaming",
     "questionEL": "Ποιο είναι το όνομα του πράσινου δεινόσαυρου που συνοδεύει τον Mario στα παιχνίδια της Nintendo;",
     "questionEN": "What is the name of the green dinosaur that accompanies Mario in Nintendo games?",
-    "answersEL": ["Luigi", "Yoshi", "Bowser", "Toad"],
-    "answersEN": ["Luigi", "Yoshi", "Bowser", "Toad"],
+    "answersEL": [
+      "Luigi",
+      "Yoshi",
+      "Bowser",
+      "Toad"
+    ],
+    "answersEN": [
+      "Luigi",
+      "Yoshi",
+      "Bowser",
+      "Toad"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1757,8 +3680,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια είναι η πρωτεύουσα του Μεξικού;",
     "questionEN": "What is the capital of Mexico?",
-    "answersEL": ["Γουαδαλαχάρα", "Κανκούν", "Πόλη του Μεξικού", "Μοντερέι"],
-    "answersEN": ["Guadalajara", "Cancun", "Mexico City", "Monterrey"],
+    "answersEL": [
+      "Γουαδαλαχάρα",
+      "Κανκούν",
+      "Πόλη του Μεξικού",
+      "Μοντερέι"
+    ],
+    "answersEN": [
+      "Guadalajara",
+      "Cancun",
+      "Mexico City",
+      "Monterrey"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -1767,8 +3701,19 @@
     "categoryEN": "Anatomy",
     "questionEL": "Ποιο είναι το κύριο αέριο που αποβάλλει ο άνθρωπος κατά την εκπνοή;",
     "questionEN": "What is the main gas released by humans during exhalation?",
-    "answersEL": ["Οξυγόνο", "Διοξείδιο του Άνθρακα", "Άζωτο", "Μονοξείδιο του Άνθρακα"],
-    "answersEN": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Carbon Monoxide"],
+    "answersEL": [
+      "Οξυγόνο",
+      "Διοξείδιο του Άνθρακα",
+      "Άζωτο",
+      "Μονοξείδιο του Άνθρακα"
+    ],
+    "answersEN": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Carbon Monoxide"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1777,8 +3722,19 @@
     "categoryEN": "History",
     "questionEL": "Ποιο έτος έγινε η Ελληνική Επανάσταση κατά του Οθωμανικού ζυγού;",
     "questionEN": "In which historical year did the Greek Revolution against the Ottoman rule begin?",
-    "answersEL": ["1721", "1821", "1921", "1453"],
-    "answersEN": ["1721", "1821", "1921", "1453"],
+    "answersEL": [
+      "1721",
+      "1821",
+      "1921",
+      "1453"
+    ],
+    "answersEN": [
+      "1721",
+      "1821",
+      "1921",
+      "1453"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1787,8 +3743,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποιο είναι το ψηλότερο κτίριο στον κόσμο (Burj Khalifa);",
     "questionEN": "In which city is the Burj Khalifa, the tallest building in the world, located?",
-    "answersEL": ["Νέα Υόρκη", "Ντουμπάι", "Τόκιο", "Σαγκάη"],
-    "answersEN": ["New York", "Dubai", "Tokyo", "Shanghai"],
+    "answersEL": [
+      "Νέα Υόρκη",
+      "Ντουμπάι",
+      "Τόκιο",
+      "Σαγκάη"
+    ],
+    "answersEN": [
+      "New York",
+      "Dubai",
+      "Tokyo",
+      "Shanghai"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1797,8 +3764,19 @@
     "categoryEN": "Nature",
     "questionEL": "Ποια είναι η κύρια πηγή ενέργειας για τον πλανήτη Γη;",
     "questionEN": "What is the primary source of energy for planet Earth?",
-    "answersEL": ["Ωκεανοί", "Ήλιος", "Άνεμος", "Ηφαίστεια"],
-    "answersEN": ["Oceans", "Sun", "Wind", "Volcanoes"],
+    "answersEL": [
+      "Ωκεανοί",
+      "Ήλιος",
+      "Άνεμος",
+      "Ηφαίστεια"
+    ],
+    "answersEN": [
+      "Oceans",
+      "Sun",
+      "Wind",
+      "Volcanoes"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1807,8 +3785,19 @@
     "categoryEN": "Cinema",
     "questionEL": "Ποιος ηθοποιός υποδύθηκε τον Wolverine στην κινηματογραφική σειρά X-Men;",
     "questionEN": "Which actor played Wolverine in the X-Men film series?",
-    "answersEL": ["Χιου Τζάκμαν", "Ρόμπερτ Ντάουνι Τζούνιορ", "Μπράντ Πιτ", "Τομ Κρουζ"],
-    "answersEN": ["Hugh Jackman", "Robert Downey Jr.", "Brad Pitt", "Tom Cruise"],
+    "answersEL": [
+      "Χιου Τζάκμαν",
+      "Ρόμπερτ Ντάουνι Τζούνιορ",
+      "Μπράντ Πιτ",
+      "Τομ Κρουζ"
+    ],
+    "answersEN": [
+      "Hugh Jackman",
+      "Robert Downey Jr.",
+      "Brad Pitt",
+      "Tom Cruise"
+    ],
+    "difficulty": 1,
     "correctIndex": 0
   },
   {
@@ -1817,8 +3806,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποιο είναι το όνομα του πελαγικού συμπλέγματος που περιλαμβάνει τη Μύκονο και τη Σαντορίνη;",
     "questionEN": "What is the name of the island group that includes Mykonos and Santorini?",
-    "answersEL": ["Επτάνησα", "Σποράδες", "Κυκλάδες", "Δωδεκάνησα"],
-    "answersEN": ["Heptanese", "Sporades", "Cyclades", "Dodecanese"],
+    "answersEL": [
+      "Επτάνησα",
+      "Σποράδες",
+      "Κυκλάδες",
+      "Δωδεκάνησα"
+    ],
+    "answersEN": [
+      "Heptanese",
+      "Sporades",
+      "Cyclades",
+      "Dodecanese"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -1827,8 +3827,19 @@
     "categoryEN": "Music",
     "questionEL": "Ποιο όργανο είναι γνωστό ως ο 'βασιλιάς των οργάνων' λόγω του μεγέθους και του εύρους του στις εκκλησίες;",
     "questionEN": "Which instrument is known as the 'king of instruments' due to its size and range in churches?",
-    "answersEL": ["Πιάνο", "Εκκλησιαστικό Όργανο", "Άρπα", "Βιολί"],
-    "answersEN": ["Piano", "Pipe Organ", "Harp", "Violin"],
+    "answersEL": [
+      "Πιάνο",
+      "Εκκλησιαστικό Όργανο",
+      "Άρπα",
+      "Βιολί"
+    ],
+    "answersEN": [
+      "Piano",
+      "Pipe Organ",
+      "Harp",
+      "Violin"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1837,8 +3848,19 @@
     "categoryEN": "History",
     "questionEL": "Ποιος ήταν ο διάσημος βασιλιάς της Σπάρτης που πολέμησε στις Θερμοπύλες με τους 300;",
     "questionEN": "Who was the famous king of Sparta who fought at Thermopylae with the 300?",
-    "answersEL": ["Λεωνίδας", "Παυσανίας", "Αγησίλαος", "Κλεομένης"],
-    "answersEN": ["Leonidas", "Pausanias", "Agesilaus", "Cleomenes"],
+    "answersEL": [
+      "Λεωνίδας",
+      "Παυσανίας",
+      "Αγησίλαος",
+      "Κλεομένης"
+    ],
+    "answersEN": [
+      "Leonidas",
+      "Pausanias",
+      "Agesilaus",
+      "Cleomenes"
+    ],
+    "difficulty": 1,
     "correctIndex": 0
   },
   {
@@ -1847,8 +3869,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια είναι η πρωτεύουσα της Τουρκίας;",
     "questionEN": "What is the capital of Turkey?",
-    "answersEL": ["Κωνσταντινούπολη", "Άγκυρα", "Σμύρνη", "Αττάλεια"],
-    "answersEN": ["Istanbul", "Ankara", "Izmir", "Antalya"],
+    "answersEL": [
+      "Κωνσταντινούπολη",
+      "Άγκυρα",
+      "Σμύρνη",
+      "Αττάλεια"
+    ],
+    "answersEN": [
+      "Istanbul",
+      "Ankara",
+      "Izmir",
+      "Antalya"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1857,8 +3890,19 @@
     "categoryEN": "Science",
     "questionEL": "Πόσες καταστάσεις της ύλης μελετώνται βασικά στη σχολική φυσική (Στερεή, Υγρή, Αέρια);",
     "questionEN": "How many basic states of matter are commonly studied (Solid, Liquid, Gas)?",
-    "answersEL": ["2", "3", "4", "5"],
-    "answersEN": ["2", "3", "4", "5"],
+    "answersEL": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answersEN": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1867,8 +3911,19 @@
     "categoryEN": "Zoology",
     "questionEL": "Ποιο είναι το μοναδικό πουλί που μπορεί να πετάξει προς τα πίσω;",
     "questionEN": "What is the only bird that can fly backwards?",
-    "answersEL": ["Κολίμπρι", "Χελιδόνι", "Αετός", "Περιστέρι"],
-    "answersEN": ["Hummingbird", "Swallow", "Eagle", "Pigeon"],
+    "answersEL": [
+      "Κολίμπρι",
+      "Χελιδόνι",
+      "Αετός",
+      "Περιστέρι"
+    ],
+    "answersEN": [
+      "Hummingbird",
+      "Swallow",
+      "Eagle",
+      "Pigeon"
+    ],
+    "difficulty": 1,
     "correctIndex": 0
   },
   {
@@ -1877,8 +3932,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποιο κανάλι (διώρυγα) συνδέει τον Ατλαντικό με τον Ειρηνικό Ωκεανό;",
     "questionEN": "Which canal connects the Atlantic Ocean with the Pacific Ocean?",
-    "answersEL": ["Διώρυγα του Σουέζ", "Διώρυγα του Παναμά", "Διώρυγα της Κορίνθου", "Διώρυγα του Κιέλου"],
-    "answersEN": ["Suez Canal", "Panama Canal", "Corinth Canal", "Kiel Canal"],
+    "answersEL": [
+      "Διώρυγα του Σουέζ",
+      "Διώρυγα του Παναμά",
+      "Διώρυγα της Κορίνθου",
+      "Διώρυγα του Κιέλου"
+    ],
+    "answersEN": [
+      "Suez Canal",
+      "Panama Canal",
+      "Corinth Canal",
+      "Kiel Canal"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1887,8 +3953,19 @@
     "categoryEN": "Technology",
     "questionEL": "Ποιο είναι το κοινωνικό δίκτυο με σήμα ένα μπλε πουλί (που μετονομάστηκε σε X);",
     "questionEN": "Which social network featured a blue bird icon before being renamed to X?",
-    "answersEL": ["Facebook", "Twitter", "Instagram", "TikTok"],
-    "answersEN": ["Facebook", "Twitter", "Instagram", "TikTok"],
+    "answersEL": [
+      "Facebook",
+      "Twitter",
+      "Instagram",
+      "TikTok"
+    ],
+    "answersEN": [
+      "Facebook",
+      "Twitter",
+      "Instagram",
+      "TikTok"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1897,8 +3974,19 @@
     "categoryEN": "Mathematics",
     "questionEL": "Πόσες μοίρες έχει μια ορθή γωνία;",
     "questionEN": "How many degrees are in a right angle?",
-    "answersEL": ["45°", "90°", "180°", "360°"],
-    "answersEN": ["45°", "90°", "180°", "360°"],
+    "answersEL": [
+      "45°",
+      "90°",
+      "180°",
+      "360°"
+    ],
+    "answersEN": [
+      "45°",
+      "90°",
+      "180°",
+      "360°"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1907,8 +3995,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια είναι η πρωτεύουσα της Νέας Ζηλανδίας;",
     "questionEN": "What is the capital of New Zealand?",
-    "answersEL": ["Όκλαντ", "Ουέλινγκτον", "Κράισττσερτς", "Σίδνεϊ"],
-    "answersEN": ["Auckland", "Wellington", "Christchurch", "Sydney"],
+    "answersEL": [
+      "Όκλαντ",
+      "Ουέλινγκτον",
+      "Κράισττσερτς",
+      "Σίδνεϊ"
+    ],
+    "answersEN": [
+      "Auckland",
+      "Wellington",
+      "Christchurch",
+      "Sydney"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1917,8 +4016,19 @@
     "categoryEN": "History",
     "questionEL": "Ποιος ήταν ο πρόεδρος της Νότιας Αφρικής που αγωνίστηκε κατά του Απαρτχάιντ και κέρδισε Νόμπελ Ειρήνης;",
     "questionEN": "Who was the South African president who fought against Apartheid and won a Nobel Peace Prize?",
-    "answersEL": ["Νέλσον Μαντέλα", "Ντέσμοντ Τούτου", "Κόφι Ανάν", "Μάρτιν Λούθερ Κινγκ"],
-    "answersEN": ["Nelson Mandela", "Desmond Tutu", "Kofi Annan", "Martin Luther King"],
+    "answersEL": [
+      "Νέλσον Μαντέλα",
+      "Ντέσμοντ Τούτου",
+      "Κόφι Ανάν",
+      "Μάρτιν Λούθερ Κινγκ"
+    ],
+    "answersEN": [
+      "Nelson Mandela",
+      "Desmond Tutu",
+      "Kofi Annan",
+      "Martin Luther King"
+    ],
+    "difficulty": 1,
     "correctIndex": 0
   },
   {
@@ -1927,8 +4037,19 @@
     "categoryEN": "Literature",
     "questionEL": "Ποιος έγραψε το πασίγνωστο παραμύθι 'Η Χιονάτη και οι Επτά Νάνοι';",
     "questionEN": "Who wrote the famous fairy tale 'Snow White and the Seven Dwarfs'?",
-    "answersEL": ["Αδελφοί Γκριμ", "Χανς Κρίστιαν Άντερσεν", "Σαρλ Περώ", "Αίσωπος"],
-    "answersEN": ["Brothers Grimm", "Hans Christian Andersen", "Charles Perrault", "Aesop"],
+    "answersEL": [
+      "Αδελφοί Γκριμ",
+      "Χανς Κρίστιαν Άντερσεν",
+      "Σαρλ Περώ",
+      "Αίσωπος"
+    ],
+    "answersEN": [
+      "Brothers Grimm",
+      "Hans Christian Andersen",
+      "Charles Perrault",
+      "Aesop"
+    ],
+    "difficulty": 1,
     "correctIndex": 0
   },
   {
@@ -1937,8 +4058,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποιο είναι το μεγαλύτερο σε πληθυσμό κράτος της Ευρωπαϊκής Ένωσης;",
     "questionEN": "Which is the most populous country in the European Union?",
-    "answersEL": ["Γαλλία", "Γερμανία", "Ιταλία", "Ισπανία"],
-    "answersEN": ["France", "Germany", "Italy", "Spain"],
+    "answersEL": [
+      "Γαλλία",
+      "Γερμανία",
+      "Ιταλία",
+      "Ισπανία"
+    ],
+    "answersEN": [
+      "France",
+      "Germany",
+      "Italy",
+      "Spain"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1947,8 +4079,19 @@
     "categoryEN": "Chemistry",
     "questionEL": "Ποιο είναι το χημικό σύμβολο για τον Σίδηρο;",
     "questionEN": "What is the chemical symbol for Iron?",
-    "answersEL": ["I", "Ir", "Fe", "Zn"],
-    "answersEN": ["I", "Ir", "Fe", "Zn"],
+    "answersEL": [
+      "I",
+      "Ir",
+      "Fe",
+      "Zn"
+    ],
+    "answersEN": [
+      "I",
+      "Ir",
+      "Fe",
+      "Zn"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -1957,8 +4100,19 @@
     "categoryEN": "Mythology",
     "questionEL": "Ποιος θεός της ελληνικής μυθολογίας ήταν ο κατασκευαστής των όπλων των θεών και θεός της φωτιάς;",
     "questionEN": "Which Greek god was the blacksmith of the gods and god of fire?",
-    "answersEL": ["Άρης", "Ήφαιστος", "Ερμής", "Απόλλωνας"],
-    "answersEN": ["Ares", "Hephaestus", "Hermes", "Apollo"],
+    "answersEL": [
+      "Άρης",
+      "Ήφαιστος",
+      "Ερμής",
+      "Απόλλωνας"
+    ],
+    "answersEN": [
+      "Ares",
+      "Hephaestus",
+      "Hermes",
+      "Apollo"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1967,8 +4121,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια είναι η πρωτεύουσα της Σουηδίας;",
     "questionEN": "What is the capital of Sweden?",
-    "answersEL": ["Όσλο", "Κοπεγχάγη", "Στοκχόλμη", "Ελσίνκι"],
-    "answersEN": ["Oslo", "Copenhagen", "Stockholm", "Helsinki"],
+    "answersEL": [
+      "Όσλο",
+      "Κοπεγχάγη",
+      "Στοκχόλμη",
+      "Ελσίνκι"
+    ],
+    "answersEN": [
+      "Oslo",
+      "Copenhagen",
+      "Stockholm",
+      "Helsinki"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -1977,8 +4142,19 @@
     "categoryEN": "Cinema",
     "questionEL": "Ποιος σκηνοθέτησε την ταινία 'Τιτανικός' (1997) και το 'Avatar';",
     "questionEN": "Who directed the movies 'Titanic' (1997) and 'Avatar'?",
-    "answersEL": ["Στίβεν Σπίλμπεργκ", "Τζέιμς Κάμερον", "Κρίστοφερ Νόλαν", "Ρίντλεϊ Σκοτ"],
-    "answersEN": ["Steven Spielberg", "James Cameron", "Christopher Nolan", "Ridley Scott"],
+    "answersEL": [
+      "Στίβεν Σπίλμπεργκ",
+      "Τζέιμς Κάμερον",
+      "Κρίστοφερ Νόλαν",
+      "Ρίντλεϊ Σκοτ"
+    ],
+    "answersEN": [
+      "Steven Spielberg",
+      "James Cameron",
+      "Christopher Nolan",
+      "Ridley Scott"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -1987,8 +4163,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια είναι η μεγαλύτερη σε έκταση λίμνη της Ελλάδας;",
     "questionEN": "Which is the largest lake in Greece by surface area?",
-    "answersEL": ["Βόλβη", "Βεγορίτιδα", "Τριχωνίδα", "Πρέσπα"],
-    "answersEN": ["Volvi", "Vegoritida", "Trichonida", "Prespa"],
+    "answersEL": [
+      "Βόλβη",
+      "Βεγορίτιδα",
+      "Τριχωνίδα",
+      "Πρέσπα"
+    ],
+    "answersEN": [
+      "Volvi",
+      "Vegoritida",
+      "Trichonida",
+      "Prespa"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -1997,19 +4184,40 @@
     "categoryEN": "Science",
     "questionEL": "Ποιος επιστήμονας διατύπωσε τον νόμο της παγκόσμιας έλξης (βαρύτητα) μετά από την πτώση ενός μήλου;",
     "questionEN": "Which scientist formulated the law of universal gravitation after observing a falling apple?",
-    "answersEL": ["Άλμπερτ Αϊνστάιν", "Γαλιλαίος", "Ισαάκ Νεύτων", "Νίκολα Τέσλα"],
-    "answersEN": ["Albert Einstein", "Galileo", "Isaac Newton", "Nikola Tesla"],
+    "answersEL": [
+      "Άλμπερτ Αϊνστάιν",
+      "Γαλιλαίος",
+      "Ισαάκ Νεύτων",
+      "Νίκολα Τέσλα"
+    ],
+    "answersEN": [
+      "Albert Einstein",
+      "Galileo",
+      "Isaac Newton",
+      "Nikola Tesla"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
-
   {
     "id": 201,
     "categoryEL": "Γεωγραφία",
     "categoryEN": "Geography",
     "questionEL": "Ποιο είναι το μακρύτερο ποτάμι αποκλειστικά εντός της Ευρώπης;",
     "questionEN": "Which is the longest river entirely within Europe?",
-    "answersEL": ["Δούναβης", "Βόλγας", "Ρήνος", "Σέκουνας"],
-    "answersEN": ["Danube", "Volga", "Rhine", "Seine"],
+    "answersEL": [
+      "Δούναβης",
+      "Βόλγας",
+      "Ρήνος",
+      "Σέκουνας"
+    ],
+    "answersEN": [
+      "Danube",
+      "Volga",
+      "Rhine",
+      "Seine"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -2018,8 +4226,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποιο ενεργό ηφαίστειο είναι το υψηλότερο στην ευρωπαϊκή ήπειρο;",
     "questionEN": "Which active volcano is the highest in the European continent?",
-    "answersEL": ["Βεζούβιος", "Στρόμπολι", "Αίτνα", "Σαντορίνη"],
-    "answersEN": ["Vesuvius", "Stromboli", "Etna", "Santorini"],
+    "answersEL": [
+      "Βεζούβιος",
+      "Στρόμπολι",
+      "Αίτνα",
+      "Σαντορίνη"
+    ],
+    "answersEN": [
+      "Vesuvius",
+      "Stromboli",
+      "Etna",
+      "Santorini"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -2028,8 +4247,19 @@
     "categoryEN": "History",
     "questionEL": "Σε ποια σημερινή χώρα υπογράφηκε η Magna Carta το 1215;",
     "questionEN": "In which modern country was the Magna Carta signed in 1215?",
-    "answersEL": ["Γαλλία", "Αγγλία", "Γερμανία", "Ιταλία"],
-    "answersEN": ["France", "England", "Germany", "Italy"],
+    "answersEL": [
+      "Γαλλία",
+      "Αγγλία",
+      "Γερμανία",
+      "Ιταλία"
+    ],
+    "answersEN": [
+      "France",
+      "England",
+      "Germany",
+      "Italy"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -2038,8 +4268,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια είναι η πρωτεύουσα της Ισλανδίας;",
     "questionEN": "What is the capital of Iceland?",
-    "answersEL": ["Ρέικιαβικ", "Όσλο", "Ελσίνκι", "Κοπεγχάγη"],
-    "answersEN": ["Reykjavik", "Oslo", "Helsinki", "Copenhagen"],
+    "answersEL": [
+      "Ρέικιαβικ",
+      "Όσλο",
+      "Ελσίνκι",
+      "Κοπεγχάγη"
+    ],
+    "answersEN": [
+      "Reykjavik",
+      "Oslo",
+      "Helsinki",
+      "Copenhagen"
+    ],
+    "difficulty": 1,
     "correctIndex": 0
   },
   {
@@ -2048,8 +4289,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια χώρα της Ευρώπης έχει τις περισσότερες λίμνες στην επικράτειά της;",
     "questionEN": "Which European country has the most lakes within its territory?",
-    "answersEL": ["Σουηδία", "Νορβηγία", "Φινλανδία", "Ελβετία"],
-    "answersEN": ["Sweden", "Norway", "Finland", "Switzerland"],
+    "answersEL": [
+      "Σουηδία",
+      "Νορβηγία",
+      "Φινλανδία",
+      "Ελβετία"
+    ],
+    "answersEN": [
+      "Sweden",
+      "Norway",
+      "Finland",
+      "Switzerland"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -2058,8 +4310,19 @@
     "categoryEN": "Politics",
     "questionEL": "Πού βρίσκεται η επίσημη έδρα του Ευρωπαϊκού Κοινοβουλίου;",
     "questionEN": "Where is the official seat of the European Parliament?",
-    "answersEL": ["Βρυξέλλες", "Στρασβούργο", "Λουξεμβούργο", "Φρανκφούρτη"],
-    "answersEN": ["Brussels", "Strasbourg", "Luxembourg", "Frankfurt"],
+    "answersEL": [
+      "Βρυξέλλες",
+      "Στρασβούργο",
+      "Λουξεμβούργο",
+      "Φρανκφούρτη"
+    ],
+    "answersEN": [
+      "Brussels",
+      "Strasbourg",
+      "Luxembourg",
+      "Frankfurt"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -2068,8 +4331,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποιο στενό χωρίζει την Ισπανία από το Μαρόκο;",
     "questionEN": "Which strait separates Spain from Morocco?",
-    "answersEL": ["Στενό του Βοσπόρου", "Στενό του Γιβραλτάρ", "Στενό των Δαρδανελίων", "Στενό της Μεσσήνης"],
-    "answersEN": ["Bosphorus Strait", "Strait of Gibraltar", "Dardanelles Strait", "Strait of Messina"],
+    "answersEL": [
+      "Στενό του Βοσπόρου",
+      "Στενό του Γιβραλτάρ",
+      "Στενό των Δαρδανελίων",
+      "Στενό της Μεσσήνης"
+    ],
+    "answersEN": [
+      "Bosphorus Strait",
+      "Strait of Gibraltar",
+      "Dardanelles Strait",
+      "Strait of Messina"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -2078,8 +4352,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια είναι η πρωτεύουσα της Ελβετίας;",
     "questionEN": "What is the capital of Switzerland?",
-    "answersEL": ["Ζυρίχη", "Γενεύη", "Βέρνη", "Λουκέρνη"],
-    "answersEN": ["Zurich", "Geneva", "Bern", "Lucerne"],
+    "answersEL": [
+      "Ζυρίχη",
+      "Γενεύη",
+      "Βέρνη",
+      "Λουκέρνη"
+    ],
+    "answersEN": [
+      "Zurich",
+      "Geneva",
+      "Bern",
+      "Lucerne"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -2088,8 +4373,19 @@
     "categoryEN": "Geography",
     "questionEL": "Σε ποια ευρωπαϊκή πόλη έπεσε το περίφημο 'Τείχος' το 1989;",
     "questionEN": "In which European city did the famous 'Wall' fall in 1989?",
-    "answersEL": ["Βιέννη", "Βερολίνο", "Πράγα", "Βουδαπέστη"],
-    "answersEN": ["Vienna", "Berlin", "Prague", "Budapest"],
+    "answersEL": [
+      "Βιέννη",
+      "Βερολίνο",
+      "Πράγα",
+      "Βουδαπέστη"
+    ],
+    "answersEN": [
+      "Vienna",
+      "Berlin",
+      "Prague",
+      "Budapest"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -2098,8 +4394,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια είναι η μεγαλύτερη σε έκταση λίμνη της κεντρικής Ευρώπης;",
     "questionEN": "What is the largest lake in Central Europe by surface area?",
-    "answersEL": ["Λίμνη Μπάλατον", "Λίμνη της Γενεύης", "Λίμνη Κωνσταντίας", "Λίμνη Γκάρντα"],
-    "answersEN": ["Lake Balaton", "Lake Geneva", "Lake Constance", "Lake Garda"],
+    "answersEL": [
+      "Λίμνη Μπάλατον",
+      "Λίμνη της Γενεύης",
+      "Λίμνη Κωνσταντίας",
+      "Λίμνη Γκάρντα"
+    ],
+    "answersEN": [
+      "Lake Balaton",
+      "Lake Geneva",
+      "Lake Constance",
+      "Lake Garda"
+    ],
+    "difficulty": 1,
     "correctIndex": 0
   },
   {
@@ -2108,8 +4415,19 @@
     "categoryEN": "Art",
     "questionEL": "Ποιος διάσημος αρχιτέκτονας σχεδίασε τη Sagrada Familia στη Βαρκελώνη;",
     "questionEN": "Which famous architect designed the Sagrada Familia in Barcelona?",
-    "answersEL": ["Πάμπλο Πικάσο", "Αντόνι Γκαουντί", "Λε Κορμπιζιέ", "Μιχαήλ Άγγελος"],
-    "answersEN": ["Pablo Picasso", "Antoni Gaudi", "Le Corbusier", "Michelangelo"],
+    "answersEL": [
+      "Πάμπλο Πικάσο",
+      "Αντόνι Γκαουντί",
+      "Λε Κορμπιζιέ",
+      "Μιχαήλ Άγγελος"
+    ],
+    "answersEN": [
+      "Pablo Picasso",
+      "Antoni Gaudi",
+      "Le Corbusier",
+      "Michelangelo"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -2118,8 +4436,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια σκανδιναβική χώρα είναι γνωστή για τα εντυπωσιακά φιόρδ της;",
     "questionEN": "Which Scandinavian country is famous for its stunning fjords?",
-    "answersEL": ["Δανία", "Σουηδία", "Νορβηγία", "Φινλανδία"],
-    "answersEN": ["Denmark", "Sweden", "Norway", "Finland"],
+    "answersEL": [
+      "Δανία",
+      "Σουηδία",
+      "Νορβηγία",
+      "Φινλανδία"
+    ],
+    "answersEN": [
+      "Denmark",
+      "Sweden",
+      "Norway",
+      "Finland"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -2128,8 +4457,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποιο πέλαγος βρίσκεται ανάμεσα στην Ιταλία και την Κροατία;",
     "questionEN": "Which sea is located between Italy and Croatia?",
-    "answersEL": ["Τυρρηνικό Πέλαγος", "Αδριατική Θάλασσα", "Ιόνιο Πέλαγος", "Αιγαίο Πέλαγος"],
-    "answersEN": ["Tyrrhenian Sea", "Adriatic Sea", "Ionian Sea", "Aegean Sea"],
+    "answersEL": [
+      "Τυρρηνικό Πέλαγος",
+      "Αδριατική Θάλασσα",
+      "Ιόνιο Πέλαγος",
+      "Αιγαίο Πέλαγος"
+    ],
+    "answersEN": [
+      "Tyrrhenian Sea",
+      "Adriatic Sea",
+      "Ionian Sea",
+      "Aegean Sea"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -2138,8 +4478,19 @@
     "categoryEN": "History",
     "questionEL": "Ποιος πολιτισμός έχτισε το Κολοσσαίο;",
     "questionEN": "Which civilization built the Colosseum?",
-    "answersEL": ["Αρχαίοι Έλληνες", "Ρωμαίοι", "Ετρούσκοι", "Βυζαντινοί"],
-    "answersEN": ["Ancient Greeks", "Romans", "Etruscans", "Byzantines"],
+    "answersEL": [
+      "Αρχαίοι Έλληνες",
+      "Ρωμαίοι",
+      "Ετρούσκοι",
+      "Βυζαντινοί"
+    ],
+    "answersEN": [
+      "Ancient Greeks",
+      "Romans",
+      "Etruscans",
+      "Byzantines"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -2148,8 +4499,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια είναι η πρωτεύουσα της Πορτογαλίας;",
     "questionEN": "What is the capital of Portugal?",
-    "answersEL": ["Μαδρίτη", "Λισαβόνα", "Πόρτο", "Βαρκελώνη"],
-    "answersEN": ["Madrid", "Lisbon", "Porto", "Barcelona"],
+    "answersEL": [
+      "Μαδρίτη",
+      "Λισαβόνα",
+      "Πόρτο",
+      "Βαρκελώνη"
+    ],
+    "answersEN": [
+      "Madrid",
+      "Lisbon",
+      "Porto",
+      "Barcelona"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -2158,8 +4520,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια οροσειρά αποτελεί το φυσικό σύνορο μεταξύ Γαλλίας και Ισπανίας;",
     "questionEN": "Which mountain range forms the natural border between France and Spain?",
-    "answersEL": ["Άλπεις", "Πυρηναία", "Απέννινα", "Καρπάθια"],
-    "answersEN": ["Alps", "Pyrenees", "Apennines", "Carpathians"],
+    "answersEL": [
+      "Άλπεις",
+      "Πυρηναία",
+      "Απέννινα",
+      "Καρπάθια"
+    ],
+    "answersEN": [
+      "Alps",
+      "Pyrenees",
+      "Apennines",
+      "Carpathians"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -2168,8 +4541,19 @@
     "categoryEN": "Music",
     "questionEL": "Σε ποια ευρωπαϊκή πόλη γεννήθηκε ο Βόλφγκανγκ Αμαντέους Μότσαρτ;",
     "questionEN": "In which European city was Wolfgang Amadeus Mozart born?",
-    "answersEL": ["Βιέννη", "Σάλτσμπουργκ", "Βερολίνο", "Μόναχο"],
-    "answersEN": ["Vienna", "Salzburg", "Berlin", "Munich"],
+    "answersEL": [
+      "Βιέννη",
+      "Σάλτσμπουργκ",
+      "Βερολίνο",
+      "Μόναχο"
+    ],
+    "answersEN": [
+      "Vienna",
+      "Salzburg",
+      "Berlin",
+      "Munich"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -2178,8 +4562,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποιο είναι το δεύτερο μικρότερο ανεξάρτητο κράτος στην Ευρώπη μετά το Βατικανό;",
     "questionEN": "What is the second smallest independent state in Europe after the Vatican?",
-    "answersEL": ["Μονακό", "Άγιος Μαρίνος", "Λίχτενσταϊν", "Ανδόρα"],
-    "answersEN": ["Monaco", "San Marino", "Liechtenstein", "Andorra"],
+    "answersEL": [
+      "Μονακό",
+      "Άγιος Μαρίνος",
+      "Λίχτενσταϊν",
+      "Ανδόρα"
+    ],
+    "answersEN": [
+      "Monaco",
+      "San Marino",
+      "Liechtenstein",
+      "Andorra"
+    ],
+    "difficulty": 1,
     "correctIndex": 0
   },
   {
@@ -2188,8 +4583,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια χώρα της Ευρώπης είναι γνωστή και ως 'Κάτω Χώρες';",
     "questionEN": "Which European country is also known as the 'Low Countries'?",
-    "answersEL": ["Βέλγιο", "Ολλανδία", "Λουξεμβούργο", "Δανία"],
-    "answersEN": ["Belgium", "Netherlands", "Luxembourg", "Denmark"],
+    "answersEL": [
+      "Βέλγιο",
+      "Ολλανδία",
+      "Λουξεμβούργο",
+      "Δανία"
+    ],
+    "answersEN": [
+      "Belgium",
+      "Netherlands",
+      "Luxembourg",
+      "Denmark"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -2198,8 +4604,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια είναι η πρωτεύουσα της Πολωνίας;",
     "questionEN": "What is the capital of Poland?",
-    "answersEL": ["Κρακοβία", "Βαρσοβία", "Πράγα", "Βουδαπέστη"],
-    "answersEN": ["Krakow", "Warsaw", "Prague", "Budapest"],
+    "answersEL": [
+      "Κρακοβία",
+      "Βαρσοβία",
+      "Πράγα",
+      "Βουδαπέστη"
+    ],
+    "answersEN": [
+      "Krakow",
+      "Warsaw",
+      "Prague",
+      "Budapest"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -2208,8 +4625,19 @@
     "categoryEN": "History",
     "questionEL": "Ποια ευρωπαϊκή χώρα υπέφερε από έναν μεγάλο λιμό πατάτας τη δεκαετία του 1840;",
     "questionEN": "Which European country suffered from a great potato famine in the 1840s?",
-    "answersEL": ["Σκωτία", "Ιρλανδία", "Γαλλία", "Πολωνία"],
-    "answersEN": ["Scotland", "Ireland", "France", "Poland"],
+    "answersEL": [
+      "Σκωτία",
+      "Ιρλανδία",
+      "Γαλλία",
+      "Πολωνία"
+    ],
+    "answersEN": [
+      "Scotland",
+      "Ireland",
+      "France",
+      "Poland"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -2218,8 +4646,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποιο μεγάλο νησί της Μεσογείου ανήκει στη Γαλλία;",
     "questionEN": "Which large Mediterranean island belongs to France?",
-    "answersEL": ["Σαρδηνία", "Σικελία", "Κορσική", "Κρήτη"],
-    "answersEN": ["Sardinia", "Sicily", "Corsica", "Crete"],
+    "answersEL": [
+      "Σαρδηνία",
+      "Σικελία",
+      "Κορσική",
+      "Κρήτη"
+    ],
+    "answersEN": [
+      "Sardinia",
+      "Sicily",
+      "Corsica",
+      "Crete"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -2228,8 +4667,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια είναι η πρωτεύουσα της Αυστρίας;",
     "questionEN": "What is the capital of Austria?",
-    "answersEL": ["Μόναχο", "Βιέννη", "Ζυρίχη", "Μπρατισλάβα"],
-    "answersEN": ["Munich", "Vienna", "Zurich", "Bratislava"],
+    "answersEL": [
+      "Μόναχο",
+      "Βιέννη",
+      "Ζυρίχη",
+      "Μπρατισλάβα"
+    ],
+    "answersEN": [
+      "Munich",
+      "Vienna",
+      "Zurich",
+      "Bratislava"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -2238,8 +4688,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποιο ποτάμι περνάει μέσα από το Λονδίνο;",
     "questionEN": "Which river flows through London?",
-    "answersEL": ["Σέκουνας", "Τάμεσης", "Ρήνος", "Δούναβης"],
-    "answersEN": ["Seine", "Thames", "Rhine", "Danube"],
+    "answersEL": [
+      "Σέκουνας",
+      "Τάμεσης",
+      "Ρήνος",
+      "Δούναβης"
+    ],
+    "answersEN": [
+      "Seine",
+      "Thames",
+      "Rhine",
+      "Danube"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -2248,8 +4709,19 @@
     "categoryEN": "Geography",
     "questionEL": "Σε ποια χώρα βρίσκεται το Κάστρο του Νόισβανσταϊν, που ενέπνευσε τη Disney;",
     "questionEN": "In which country is Neuschwanstein Castle, which inspired Disney?",
-    "answersEL": ["Αυστρία", "Γαλλία", "Γερμανία", "Ελβετία"],
-    "answersEN": ["Austria", "France", "Germany", "Switzerland"],
+    "answersEL": [
+      "Αυστρία",
+      "Γαλλία",
+      "Γερμανία",
+      "Ελβετία"
+    ],
+    "answersEN": [
+      "Austria",
+      "France",
+      "Germany",
+      "Switzerland"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -2258,8 +4730,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποιο είναι το επίσημο νόμισμα της Σουηδίας;",
     "questionEN": "What is the official currency of Sweden?",
-    "answersEL": ["Ευρώ", "Σουηδική Κορstatus", "Λίρα", "Φράγκο"],
-    "answersEN": ["Euro", "Swedish Krona", "Pound", "Franc"],
+    "answersEL": [
+      "Ευρώ",
+      "Σουηδική Κορstatus",
+      "Λίρα",
+      "Φράγκο"
+    ],
+    "answersEN": [
+      "Euro",
+      "Swedish Krona",
+      "Pound",
+      "Franc"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -2268,8 +4751,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια είναι η πρωτεύουσα της Δημοκρατίας της Ιρλανδίας;",
     "questionEN": "What is the capital of the Republic of Ireland?",
-    "answersEL": ["Μπέλφαστ", "Δουβλίνο", "Εδιμβούργο", "Λονδίνο"],
-    "answersEN": ["Belfast", "Dublin", "Edinburgh", "London"],
+    "answersEL": [
+      "Μπέλφαστ",
+      "Δουβλίνο",
+      "Εδιμβούργο",
+      "Λονδίνο"
+    ],
+    "answersEN": [
+      "Belfast",
+      "Dublin",
+      "Edinburgh",
+      "London"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -2278,8 +4772,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποιο είναι το ψηλότερο βουνό των Άλπεων;",
     "questionEN": "What is the highest mountain in the Alps?",
-    "answersEL": ["Μάτερχορν", "Λευκό Όρος (Mont Blanc)", "Όλυμπος", "Βενstatus"],
-    "answersEN": ["Matterhorn", "Mont Blanc", "Olympus", "Ben Nevis"],
+    "answersEL": [
+      "Μάτερχορν",
+      "Λευκό Όρος (Mont Blanc)",
+      "Όλυμπος",
+      "Βενstatus"
+    ],
+    "answersEN": [
+      "Matterhorn",
+      "Mont Blanc",
+      "Olympus",
+      "Ben Nevis"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -2288,8 +4793,19 @@
     "categoryEN": "History",
     "questionEL": "Ποια σκανδιναβική ναυτική φυλή κυριάρχησε στην Ευρώπη από τον 8ο έως τον 11ο αιώνα;",
     "questionEN": "Which Scandinavian seafaring warrior tribe dominated Europe from the 8th to the 11th century?",
-    "answersEL": ["Κέλτες", "Βάνδαλοι", "Βίκινγκς", "Γότθοι"],
-    "answersEN": ["Celts", "Vandals", "Vikings", "Goths"],
+    "answersEL": [
+      "Κέλτες",
+      "Βάνδαλοι",
+      "Βίκινγκς",
+      "Γότθοι"
+    ],
+    "answersEN": [
+      "Celts",
+      "Vandals",
+      "Vikings",
+      "Goths"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -2298,8 +4814,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια είναι η πρωτεύουσα της Ουγγαρίας;",
     "questionEN": "What is the capital of Hungary?",
-    "answersEL": ["Βουκουρέστι", "Βουδαπέστη", "Βιέννη", "Βελιγράδι"],
-    "answersEN": ["Bucharest", "Budapest", "Vienna", "Belgrade"],
+    "answersEL": [
+      "Βουκουρέστι",
+      "Βουδαπέστη",
+      "Βιέννη",
+      "Βελιγράδι"
+    ],
+    "answersEN": [
+      "Bucharest",
+      "Budapest",
+      "Vienna",
+      "Belgrade"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -2308,8 +4835,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποιο κανάλι χωρίζει τη νότια Αγγλία από τη βόρεια Γαλλία;",
     "questionEN": "Which channel separates southern England from northern France?",
-    "answersEL": ["Κανάλι της Κορίνθου", "Κανάλι της Μάνχης", "Κανάλι του Σουέζ", "Κανάλι του Παναμά"],
-    "answersEN": ["Corinth Canal", "English Channel", "Suez Canal", "Panama Canal"],
+    "answersEL": [
+      "Κανάλι της Κορίνθου",
+      "Κανάλι της Μάνχης",
+      "Κανάλι του Σουέζ",
+      "Κανάλι του Παναμά"
+    ],
+    "answersEN": [
+      "Corinth Canal",
+      "English Channel",
+      "Suez Canal",
+      "Panama Canal"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -2318,8 +4856,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια είναι η πρωτεύουσα της Τσεχίας;",
     "questionEN": "What is the capital of the Czech Republic?",
-    "answersEL": ["Μπρατισλάβα", "Πράγα", "Λουμπλιάνα", "Ζάγκρεμπ"],
-    "answersEN": ["Bratislava", "Prague", "Ljubljana", "Zagreb"],
+    "answersEL": [
+      "Μπρατισλάβα",
+      "Πράγα",
+      "Λουμπλιάνα",
+      "Ζάγκρεμπ"
+    ],
+    "answersEN": [
+      "Bratislava",
+      "Prague",
+      "Ljubljana",
+      "Zagreb"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -2328,8 +4877,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποιο μικρό περίκλειστο κράτος βρίσκεται εξολοκλήρου μέσα στην πόλη της Ρώμης;",
     "questionEN": "Which tiny landlocked state is located entirely within the city of Rome?",
-    "answersEL": ["Μονακό", "Άγιος Μαρίνος", "Βατικανό", "Μάλτα"],
-    "answersEN": ["Monaco", "San Marino", "Vatican City", "Malta"],
+    "answersEL": [
+      "Μονακό",
+      "Άγιος Μαρίνος",
+      "Βατικανό",
+      "Μάλτα"
+    ],
+    "answersEN": [
+      "Monaco",
+      "San Marino",
+      "Vatican City",
+      "Malta"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -2338,8 +4898,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποιο είναι το κύριο ποτάμι που διασχίζει το Παρίσι;",
     "questionEN": "What is the main river that flows through Paris?",
-    "answersEL": ["Ροδανός", "Λίγηρας", "Σέκουνας", "Γαρούνας"],
-    "answersEN": ["Rhone", "Loire", "Seine", "Garonne"],
+    "answersEL": [
+      "Ροδανός",
+      "Λίγηρας",
+      "Σέκουνας",
+      "Γαρούνας"
+    ],
+    "answersEN": [
+      "Rhone",
+      "Loire",
+      "Seine",
+      "Garonne"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -2348,8 +4919,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια είναι η πρωτεύουσα της Ρουμανίας;",
     "questionEN": "What is the capital of Romania?",
-    "answersEL": ["Βουδαπέστη", "Βελιγράδι", "Βουκουρέστι", "Σόφια"],
-    "answersEN": ["Budapest", "Belgrade", "Bucharest", "Sofia"],
+    "answersEL": [
+      "Βουδαπέστη",
+      "Βελιγράδι",
+      "Βουκουρέστι",
+      "Σόφια"
+    ],
+    "answersEN": [
+      "Budapest",
+      "Belgrade",
+      "Bucharest",
+      "Sofia"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -2358,8 +4940,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια χώρα κατέχει το μεγαλύτερο μέρος της Ιβηρικής Χερσονήσου;",
     "questionEN": "Which country occupies most of the Iberian Peninsula?",
-    "answersEL": ["Πορτογαλία", "Γαλλία", "Ισπανία", "Ιταλία"],
-    "answersEN": ["Portugal", "France", "Spain", "Italy"],
+    "answersEL": [
+      "Πορτογαλία",
+      "Γαλλία",
+      "Ισπανία",
+      "Ιταλία"
+    ],
+    "answersEN": [
+      "Portugal",
+      "France",
+      "Spain",
+      "Italy"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -2368,8 +4961,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια είναι η πρωτεύουσα του Βελγίου;",
     "questionEN": "What is the capital of Belgium?",
-    "answersEL": ["Αμβέρσα", "Μπριζ", "Βρυξέλλες", "Γάνδη"],
-    "answersEN": ["Antwerp", "Bruges", "Brussels", "Ghent"],
+    "answersEL": [
+      "Αμβέρσα",
+      "Μπριζ",
+      "Βρυξέλλες",
+      "Γάνδη"
+    ],
+    "answersEN": [
+      "Antwerp",
+      "Bruges",
+      "Brussels",
+      "Ghent"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -2378,8 +4982,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποιο νησιωτικό κράτος της Μεσογείου βρίσκεται νότια της Σικελίας;",
     "questionEN": "Which Mediterranean island nation is located south of Sicily?",
-    "answersEL": ["Κύπρος", "Μάλτα", "Κρήτη", "Ρόδος"],
-    "answersEN": ["Cyprus", "Malta", "Crete", "Rhodes"],
+    "answersEL": [
+      "Κύπρος",
+      "Μάλτα",
+      "Κρήτη",
+      "Ρόδος"
+    ],
+    "answersEN": [
+      "Cyprus",
+      "Malta",
+      "Crete",
+      "Rhodes"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -2388,8 +5003,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια είναι η πρωτεύουσα της Ουκρανίας;",
     "questionEN": "What is the capital of Ukraine?",
-    "answersEL": ["Οδησσός", "Λβιβ", "Κίεβο", "Χάρκοβο"],
-    "answersEN": ["Odesa", "Lviv", "Kyiv", "Kharkiv"],
+    "answersEL": [
+      "Οδησσός",
+      "Λβιβ",
+      "Κίεβο",
+      "Χάρκοβο"
+    ],
+    "answersEN": [
+      "Odesa",
+      "Lviv",
+      "Kyiv",
+      "Kharkiv"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -2398,8 +5024,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποιο είναι το μεγαλύτερο σε έκταση κράτος που ανήκει εξολοκλήρου στην Ευρώπη;",
     "questionEN": "Which is the largest country by area located entirely within Europe?",
-    "answersEL": ["Γαλλία", "Γερμανία", "Ουκρανία", "Ισπανία"],
-    "answersEN": ["France", "Germany", "Ukraine", "Spain"],
+    "answersEL": [
+      "Γαλλία",
+      "Γερμανία",
+      "Ουκρανία",
+      "Ισπανία"
+    ],
+    "answersEN": [
+      "France",
+      "Germany",
+      "Ukraine",
+      "Spain"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -2408,8 +5045,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια είναι η πρωτεύουσα της Νορβηγίας;",
     "questionEN": "What is the capital of Norway?",
-    "answersEL": ["Μπέργκεν", "Όσλο", "Στοκχόλμη", "Κοπεγχάγη"],
-    "answersEN": ["Bergen", "Oslo", "Stockholm", "Copenhagen"],
+    "answersEL": [
+      "Μπέργκεν",
+      "Όσλο",
+      "Στοκχόλμη",
+      "Κοπεγχάγη"
+    ],
+    "answersEN": [
+      "Bergen",
+      "Oslo",
+      "Stockholm",
+      "Copenhagen"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -2418,8 +5066,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποιο ποτάμι διασχίζει τις περισσότερες πρωτεύουσες του κόσμου (στην Ευρώπη);",
     "questionEN": "Which river flows through the most capital cities in the world (in Europe)?",
-    "answersEL": ["Ρήνος", "Βόλγας", "Δούναβης", "Έλβας"],
-    "answersEN": ["Rhine", "Volga", "Danube", "Elbe"],
+    "answersEL": [
+      "Ρήνος",
+      "Βόλγας",
+      "Δούναβης",
+      "Έλβας"
+    ],
+    "answersEN": [
+      "Rhine",
+      "Volga",
+      "Danube",
+      "Elbe"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -2428,8 +5087,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια είναι η πρωτεύουσα της Φινλανδίας;",
     "questionEN": "What is the capital of Finland?",
-    "answersEL": ["Τούρκου", "Ελσίνκι", "Τάμπερε", "Ροβανιέμι"],
-    "answersEN": ["Turku", "Helsinki", "Tampere", "Rovaniemi"],
+    "answersEL": [
+      "Τούρκου",
+      "Ελσίνκι",
+      "Τάμπερε",
+      "Ροβανιέμι"
+    ],
+    "answersEN": [
+      "Turku",
+      "Helsinki",
+      "Tampere",
+      "Rovaniemi"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -2438,8 +5108,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποιο μικρό πριγκιπάτο βρίσκεται στα Πυρηναία μεταξύ Γαλλίας και Ισπανίας;",
     "questionEN": "Which tiny principality is located in the Pyrenees between France and Spain?",
-    "answersEL": ["Λίχτενσταϊν", "Λουξεμβούργο", "Ανδόρα", "Μονακό"],
-    "answersEN": ["Liechtenstein", "Luxembourg", "Andorra", "Monaco"],
+    "answersEL": [
+      "Λίχτενσταϊν",
+      "Λουξεμβούργο",
+      "Ανδόρα",
+      "Μονακό"
+    ],
+    "answersEN": [
+      "Liechtenstein",
+      "Luxembourg",
+      "Andorra",
+      "Monaco"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -2448,8 +5129,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια είναι η πρωτεύουσα της Κροατίας;",
     "questionEN": "What is the capital of Croatia?",
-    "answersEL": ["Σπλιτ", "Ντουμπρόβνικ", "Ζάγκρεμπ", "Ριέκα"],
-    "answersEN": ["Split", "Dubrovnik", "Zagreb", "Rijeka"],
+    "answersEL": [
+      "Σπλιτ",
+      "Ντουμπρόβνικ",
+      "Ζάγκρεμπ",
+      "Ριέκα"
+    ],
+    "answersEN": [
+      "Split",
+      "Dubrovnik",
+      "Zagreb",
+      "Rijeka"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -2458,8 +5150,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια χώρα της Ευρώπης είναι διάσημη για τους ανεμόμυλους και τις τουλίπες της;",
     "questionEN": "Which European country is famous for its windmills and tulips?",
-    "answersEL": ["Βέλγιο", "Δανία", "Ολλανδία", "Αυστρία"],
-    "answersEN": ["Belgium", "Denmark", "Netherlands", "Austria"],
+    "answersEL": [
+      "Βέλγιο",
+      "Δανία",
+      "Ολλανδία",
+      "Αυστρία"
+    ],
+    "answersEN": [
+      "Belgium",
+      "Denmark",
+      "Netherlands",
+      "Austria"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -2468,8 +5171,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια είναι η πρωτεύουσα της Βουλγαρίας;",
     "questionEN": "What is the capital of Bulgaria?",
-    "answersEL": ["Φιλιππούπολη", "Βάρνα", "Σόφια", "Μπουργκάς"],
-    "answersEN": ["Plovdiv", "Varna", "Sofia", "Burgas"],
+    "answersEL": [
+      "Φιλιππούπολη",
+      "Βάρνα",
+      "Σόφια",
+      "Μπουργκάς"
+    ],
+    "answersEN": [
+      "Plovdiv",
+      "Varna",
+      "Sofia",
+      "Burgas"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -2478,8 +5192,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποιο μεγάλο νησί του Ατλαντικού ανήκει γεωγραφικά στην Ευρώπη και είναι γνωστό για τους θερμοπίδακες (geysers);",
     "questionEN": "Which large Atlantic island belongs geographically to Europe and is known for its geysers?",
-    "answersEL": ["Γροιλανδία", "Ιρλανδία", "Ισλανδία", "Μεγάλη Βρετανία"],
-    "answersEN": ["Greenland", "Ireland", "Iceland", "Great Britain"],
+    "answersEL": [
+      "Γροιλανδία",
+      "Ιρλανδία",
+      "Ισλανδία",
+      "Μεγάλη Βρετανία"
+    ],
+    "answersEN": [
+      "Greenland",
+      "Ireland",
+      "Iceland",
+      "Great Britain"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -2488,8 +5213,19 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια είναι η πρωτεύουσα της Δανίας;",
     "questionEN": "What is the capital of Denmark?",
-    "answersEL": ["Άαρχους", "Όντενσε", "Κοπεγχάγη", "Αλμπόργκ"],
-    "answersEN": ["Aarhus", "Odense", "Copenhagen", "Aalborg"],
+    "answersEL": [
+      "Άαρχους",
+      "Όντενσε",
+      "Κοπεγχάγη",
+      "Αλμπόργκ"
+    ],
+    "answersEN": [
+      "Aarhus",
+      "Odense",
+      "Copenhagen",
+      "Aalborg"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
   {
@@ -2498,528 +5234,1111 @@
     "categoryEN": "Geography",
     "questionEL": "Ποια οροσειρά θεωρείται το παραδοσιακό ανατολικό σύνορο της Ευρώπης με την Ασία;",
     "questionEN": "Which mountain range is considered the traditional eastern border of Europe with Asia?",
-    "answersEL": ["Άλπεις", "Καυκάσιος", "Ουράλια Όρη", "Καρπάθια"],
-    "answersEN": ["Alps", "Caucasus", "Ural Mountains", "Carpathians"],
+    "answersEL": [
+      "Άλπεις",
+      "Καυκάσιος",
+      "Ουράλια Όρη",
+      "Καρπάθια"
+    ],
+    "answersEN": [
+      "Alps",
+      "Caucasus",
+      "Ural Mountains",
+      "Carpathians"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
   },
-{
-  "id": 251,
-  "categoryEL": "Ιχθυολογία",
-  "categoryEN": "Ichthyology",
-  "questionEL": "Ποιο είναι το μεγαλύτερο ψάρι στον κόσμο;",
-  "questionEN": "What is the largest fish in the world?",
-  "answersEL": ["Καρχαρίας-Φάλαινα", "Τόνος", "Ξιφίας", "Μπακαλιάρος"],
-  "answersEN": ["Whale Shark", "Tuna", "Swordfish", "Cod"],
-  "correctIndex": 0
-},
-{
-"id": 252,
-"categoryEL": "Αστρονομία",
-"categoryEN": "Astronomy",
-"questionEL": "Ποιος πλανήτης έχει τη μεγαλύτερη περίοδο περιφοράς γύρω από τον Ήλιο;",
-"questionEN": "Which planet has the longest orbital period around the Sun?",
-"answersEL": ["Κρόνος", "Ποσειδώνας", "Ουρανός", "Δίας"],
-"answersEN": ["Saturn", "Neptune", "Uranus", "Jupiter"],
-"correctIndex": 1
-},
-{
-"id": 253,
-"categoryEL": "Φυσική",
-"categoryEN": "Physics",
-"questionEL": "Ποια μονάδα μετρά την ηλεκτρική αντίσταση;",
-"questionEN": "Which unit measures electrical resistance?",
-"answersEL": ["Βολτ", "Αμπέρ", "Ωμ", "Τέσλα"],
-"answersEN": ["Volt", "Ampere", "Ohm", "Tesla"],
-"correctIndex": 2
-},
-{
-"id": 254,
-"categoryEL": "Ιστορία",
-"categoryEN": "History",
-"questionEL": "Ποια μάχη το 1815 σήμανε το τέλος της εξουσίας του Ναπολέοντα;",
-"questionEN": "Which battle in 1815 marked the end of Napoleon's rule?",
-"answersEL": ["Βατερλώ", "Αούστερλιτς", "Λειψία", "Τραφάλγκαρ"],
-"answersEN": ["Waterloo", "Austerlitz", "Leipzig", "Trafalgar"],
-"correctIndex": 0
-},
-{
-"id": 255,
-"categoryEL": "Γεωγραφία",
-"categoryEN": "Geography",
-"questionEL": "Ποιο είναι το μεγαλύτερο αρχιπέλαγος στον κόσμο;",
-"questionEN": "What is the largest archipelago in the world?",
-"answersEL": ["Ινδονησία", "Φιλιππίνες", "Ιαπωνία", "Ελλάδα"],
-"answersEN": ["Indonesia", "Philippines", "Japan", "Greece"],
-"correctIndex": 0
-},
-{
-"id": 256,
-"categoryEL": "Βιολογία",
-"categoryEN": "Biology",
-"questionEL": "Ποιο οργανίδιο είναι υπεύθυνο για την παραγωγή ενέργειας στο κύτταρο;",
-"questionEN": "Which organelle is responsible for energy production in the cell?",
-"answersEL": ["Πυρήνας", "Μιτοχόνδριο", "Ριβόσωμα", "Χλωροπλάστης"],
-"answersEN": ["Nucleus", "Mitochondrion", "Ribosome", "Chloroplast"],
-"correctIndex": 1
-},
-{
-"id": 257,
-"categoryEL": "Χημεία",
-"categoryEN": "Chemistry",
-"questionEL": "Ποιο pH θεωρείται ουδέτερο;",
-"questionEN": "Which pH value is considered neutral?",
-"answersEL": ["0", "7", "10", "14"],
-"answersEN": ["0", "7", "10", "14"],
-"correctIndex": 1
-},
-{
-"id": 258,
-"categoryEL": "Γεωγραφία",
-"categoryEN": "Geography",
-"questionEL": "Ποια χώρα έχει τη μεγαλύτερη παραγωγή καφέ παγκοσμίως;",
-"questionEN": "Which country is the largest coffee producer in the world?",
-"answersEL": ["Βραζιλία", "Κολομβία", "Βιετνάμ", "Ινδία"],
-"answersEN": ["Brazil", "Colombia", "Vietnam", "India"],
-"correctIndex": 0
-},
-{
-"id": 259,
-"categoryEL": "Ιστορία",
-"categoryEN": "History",
-"questionEL": "Ποια αρχαία πόλη καταστράφηκε από την έκρηξη του Βεζούβιου το 79 μ.Χ.;",
-"questionEN": "Which ancient city was destroyed by the eruption of Mount Vesuvius in 79 AD?",
-"answersEL": ["Πομπηία", "Αθήνα", "Σπάρτη", "Καρχηδόνα"],
-"answersEN": ["Pompeii", "Athens", "Sparta", "Carthage"],
-"correctIndex": 0
-},
-{
-"id": 260,
-"categoryEL": "Μαθηματικά",
-"categoryEN": "Mathematics",
-"questionEL": "Ποιος είναι ο τετραγωνικός ρίζας του 144;",
-"questionEN": "What is the square root of 144?",
-"answersEL": ["10", "11", "12", "13"],
-"answersEN": ["10", "11", "12", "13"],
-"correctIndex": 2
-},
-{
-"id": 261,
-"categoryEL": "Τεχνολογία",
-"categoryEN": "Technology",
-"questionEL": "Τι σημαίνει το HTML;",
-"questionEN": "What does HTML stand for?",
-"answersEL": ["Hyper Trainer Marking Language", "HyperText Markup Language", "HighText Markdown Language", "Hyper Tool Multi Language"],
-"answersEN": ["Hyper Trainer Marking Language", "HyperText Markup Language", "HighText Markdown Language", "Hyper Tool Multi Language"],
-"correctIndex": 1
-},
-{
-"id": 262,
-"categoryEL": "Ανατομία",
-"categoryEN": "Anatomy",
-"questionEL": "Ποιο όργανο φιλτράρει το αίμα και παράγει ούρα;",
-"questionEN": "Which organ filters blood and produces urine?",
-"answersEL": ["Συκώτι", "Νεφρό", "Σπλήνας", "Πάγκρεας"],
-"answersEN": ["Liver", "Kidney", "Spleen", "Pancreas"],
-"correctIndex": 1
-},
-{
-"id": 263,
-"categoryEL": "Μουσική",
-"categoryEN": "Music",
-"questionEL": "Ποιος συνθέτης έγραψε την '9η Συμφωνία';",
-"questionEN": "Which composer wrote the '9th Symphony'?",
-"answersEL": ["Μπετόβεν", "Μότσαρτ", "Μπαχ", "Σοπέν"],
-"answersEN": ["Beethoven", "Mozart", "Bach", "Chopin"],
-"correctIndex": 0
-},
-{
-"id": 264,
-"categoryEL": "Γεωγραφία",
-"categoryEN": "Geography",
-"questionEL": "Ποια είναι η πρωτεύουσα της Νότιας Κορέας;",
-"questionEN": "What is the capital of South Korea?",
-"answersEL": ["Σεούλ", "Πεκίνο", "Τόκιο", "Μανίλα"],
-"answersEN": ["Seoul", "Beijing", "Tokyo", "Manila"],
-"correctIndex": 0
-},
-{
-"id": 265,
-"categoryEL": "Φυσική",
-"categoryEN": "Physics",
-"questionEL": "Ποια δύναμη κρατά τα αντικείμενα προσκολλημένα στη Γη;",
-"questionEN": "Which force keeps objects attached to Earth?",
-"answersEL": ["Μαγνητισμός", "Βαρύτητα", "Τριβή", "Ηλεκτρισμός"],
-"answersEN": ["Magnetism", "Gravity", "Friction", "Electricity"],
-"correctIndex": 1
-},
-{
-"id": 266,
-"categoryEL": "Γεωγραφία",
-"categoryEN": "Geography",
-"questionEL": "Ποια είναι η μεγαλύτερη πόλη της Καναδά;",
-"questionEN": "What is the largest city in Canada?",
-"answersEL": ["Οτάβα", "Τορόντο", "Βανκούβερ", "Μόντρεαλ"],
-"answersEN": ["Ottawa", "Toronto", "Vancouver", "Montreal"],
-"correctIndex": 1
-},
-{
-"id": 267,
-"categoryEL": "Ιστορία",
-"categoryEN": "History",
-"questionEL": "Ποιο έτος ξεκίνησε ο Δεύτερος Παγκόσμιος Πόλεμος;",
-"questionEN": "In which year did World War II begin?",
-"answersEL": ["1935", "1939", "1941", "1945"],
-"answersEN": ["1935", "1939", "1941", "1945"],
-"correctIndex": 1
-},
-{
-"id": 268,
-"categoryEL": "Βιολογία",
-"categoryEN": "Biology",
-"questionEL": "Ποιο μόριο μεταφέρει γενετικές πληροφορίες;",
-"questionEN": "Which molecule carries genetic information?",
-"answersEL": ["RNA", "DNA", "ATP", "Πρωτεΐνη"],
-"answersEN": ["RNA", "DNA", "ATP", "Protein"],
-"correctIndex": 1
-},
-{
-"id": 269,
-"categoryEL": "Γεωγραφία",
-"categoryEN": "Geography",
-"questionEL": "Ποιο είναι το μεγαλύτερο νησί της Ιαπωνίας;",
-"questionEN": "What is the largest island of Japan?",
-"answersEL": ["Χοκάιντο", "Χονσού", "Κιουσού", "Σικόκου"],
-"answersEN": ["Hokkaido", "Honshu", "Kyushu", "Shikoku"],
-"correctIndex": 1
-},
-{
-"id": 270,
-"categoryEL": "Τεχνολογία",
-"categoryEN": "Technology",
-"questionEL": "Ποια εταιρεία ανέπτυξε το λειτουργικό σύστημα Windows;",
-"questionEN": "Which company developed the Windows operating system?",
-"answersEL": ["Apple", "Google", "Microsoft", "IBM"],
-"answersEN": ["Apple", "Google", "Microsoft", "IBM"],
-"correctIndex": 2
-},
-{
-"id": 271,
-"categoryEL": "Γεωγραφία",
-"categoryEN": "Geography",
-"questionEL": "Ποια είναι η πρωτεύουσα της Χιλής;",
-"questionEN": "What is the capital of Chile?",
-"answersEL": ["Λίμα", "Σαντιάγο", "Μπουένος Άιρες", "Καράκας"],
-"answersEN": ["Lima", "Santiago", "Buenos Aires", "Caracas"],
-"correctIndex": 1
-},
-{
-"id": 272,
-"categoryEL": "Μυθολογία",
-"categoryEN": "Mythology",
-"questionEL": "Ποιος ήταν ο θεός της θάλασσας στην ελληνική μυθολογία;",
-"questionEN": "Who was the god of the sea in Greek mythology?",
-"answersEL": ["Δίας", "Άρης", "Ποσειδώνας", "Ερμής"],
-"answersEN": ["Zeus", "Ares", "Poseidon", "Hermes"],
-"correctIndex": 2
-},
-{
-"id": 273,
-"categoryEL": "Χημεία",
-"categoryEN": "Chemistry",
-"questionEL": "Ποιο στοιχείο έχει ατομικό αριθμό 6;",
-"questionEN": "Which element has atomic number 6?",
-"answersEL": ["Άνθρακας", "Οξυγόνο", "Άζωτο", "Ήλιο"],
-"answersEN": ["Carbon", "Oxygen", "Nitrogen", "Helium"],
-"correctIndex": 0
-},
-{
-"id": 274,
-"categoryEL": "Σπορ",
-"categoryEN": "Sports",
-"questionEL": "Πόσα λεπτά διαρκεί ένας αγώνας ποδοσφαίρου (χωρίς καθυστερήσεις);",
-"questionEN": "How many minutes does a football match last (without extra time)?",
-"answersEL": ["60", "80", "90", "120"],
-"answersEN": ["60", "80", "90", "120"],
-"correctIndex": 2
-},
-{
-"id": 275,
-"categoryEL": "Γεωγραφία",
-"categoryEN": "Geography",
-"questionEL": "Ποια είναι η πρωτεύουσα της Ταϊλάνδης;",
-"questionEN": "What is the capital of Thailand?",
-"answersEL": ["Μπανγκόκ", "Χανόι", "Κουάλα Λουμπούρ", "Γιακάρτα"],
-"answersEN": ["Bangkok", "Hanoi", "Kuala Lumpur", "Jakarta"],
-"correctIndex": 0
-},
-{
-"id": 276,
-"categoryEL": "Ιστορία",
-"categoryEN": "History",
-"questionEL": "Ποια αυτοκρατορία είχε πρωτεύουσα την Κωνσταντινούπολη πριν το 1453;",
-"questionEN": "Which empire had Constantinople as its capital before 1453?",
-"answersEL": ["Ρωμαϊκή", "Βυζαντινή", "Οθωμανική", "Περσική"],
-"answersEN": ["Roman", "Byzantine", "Ottoman", "Persian"],
-"correctIndex": 1
-},
-{
-"id": 277,
-"categoryEL": "Φυσική",
-"categoryEN": "Physics",
-"questionEL": "Ποια είναι η μονάδα μέτρησης της δύναμης;",
-"questionEN": "What is the unit of force?",
-"answersEL": ["Joule", "Watt", "Newton", "Pascal"],
-"answersEN": ["Joule", "Watt", "Newton", "Pascal"],
-"correctIndex": 2
-},
-{
-"id": 278,
-"categoryEL": "Βιολογία",
-"categoryEN": "Biology",
-"questionEL": "Ποια ομάδα οργανισμών κάνει φωτοσύνθεση;",
-"questionEN": "Which group of organisms performs photosynthesis?",
-"answersEL": ["Ζώα", "Μύκητες", "Φυτά", "Βακτήρια"],
-"answersEN": ["Animals", "Fungi", "Plants", "Bacteria"],
-"correctIndex": 2
-},
-{
-"id": 279,
-"categoryEL": "Γεωγραφία",
-"categoryEN": "Geography",
-"questionEL": "Ποια είναι η πρωτεύουσα της Ινδίας;",
-"questionEN": "What is the capital of India?",
-"answersEL": ["Μουμπάι", "Νέο Δελχί", "Καλκούτα", "Τσενάι"],
-"answersEN": ["Mumbai", "New Delhi", "Kolkata", "Chennai"],
-"correctIndex": 1
-},
-{
-"id": 280,
-"categoryEL": "Τεχνολογία",
-"categoryEN": "Technology",
-"questionEL": "Ποιο είναι το κύριο πρωτόκολλο μεταφοράς δεδομένων στο web;",
-"questionEN": "What is the main protocol used for data transfer on the web?",
-"answersEL": ["FTP", "HTTP", "SMTP", "SSH"],
-"answersEN": ["FTP", "HTTP", "SMTP", "SSH"],
-"correctIndex": 1
-},
-{
-"id": 281,
-"categoryEL": "Γεωγραφία",
-"categoryEN": "Geography",
-"questionEL": "Ποια είναι η πρωτεύουσα της Ινδονησίας;",
-"questionEN": "What is the capital of Indonesia?",
-"answersEL": ["Μπανγκόκ", "Γιακάρτα", "Μανίλα", "Κουάλα Λουμπούρ"],
-"answersEN": ["Bangkok", "Jakarta", "Manila", "Kuala Lumpur"],
-"correctIndex": 1
-},
-{
-"id": 282,
-"categoryEL": "Χημεία",
-"categoryEN": "Chemistry",
-"questionEL": "Ποιο αέριο είναι απαραίτητο για την καύση;",
-"questionEN": "Which gas is necessary for combustion?",
-"answersEL": ["Άζωτο", "Οξυγόνο", "Υδρογόνο", "Ήλιο"],
-"answersEN": ["Nitrogen", "Oxygen", "Hydrogen", "Helium"],
-"correctIndex": 1
-},
-{
-"id": 283,
-"categoryEL": "Μαθηματικά",
-"categoryEN": "Mathematics",
-"questionEL": "Πόσες μοίρες έχει ένα πλήρες κύκλος;",
-"questionEN": "How many degrees are in a full circle?",
-"answersEL": ["180", "270", "360", "720"],
-"answersEN": ["180", "270", "360", "720"],
-"correctIndex": 2
-},
-{
-"id": 284,
-"categoryEL": "Ιστορία",
-"categoryEN": "History",
-"questionEL": "Ποιος ήταν ο πρώτος άνθρωπος στο διάστημα;",
-"questionEN": "Who was the first human in space?",
-"answersEL": ["Νιλ Άρμστρονγκ", "Γιούρι Γκαγκάριν", "Τζον Γκλεν", "Μπαζ Όλντριν"],
-"answersEN": ["Neil Armstrong", "Yuri Gagarin", "John Glenn", "Buzz Aldrin"],
-"correctIndex": 1
-},
-{
-"id": 285,
-"categoryEL": "Γεωγραφία",
-"categoryEN": "Geography",
-"questionEL": "Ποια είναι η πρωτεύουσα της Σαουδικής Αραβίας;",
-"questionEN": "What is the capital of Saudi Arabia?",
-"answersEL": ["Ντόχα", "Ριάντ", "Ντουμπάι", "Άμπου Ντάμπι"],
-"answersEN": ["Doha", "Riyadh", "Dubai", "Abu Dhabi"],
-"correctIndex": 1
-},
-{
-"id": 286,
-"categoryEL": "Φύση",
-"categoryEN": "Nature",
-"questionEL": "Ποια μορφή νερού έχει τη μεγαλύτερη πυκνότητα;",
-"questionEN": "Which state of water has the highest density?",
-"answersEL": ["Πάγος", "Υγρό νερό", "Υδρατμός", "Όλα ίδια"],
-"answersEN": ["Ice", "Liquid water", "Water vapor", "All equal"],
-"correctIndex": 1
-},
-{
-"id": 287,
-"categoryEL": "Ζωολογία",
-"categoryEN": "Zoology",
-"questionEL": "Ποιο ζώο έχει την πιο δυνατή δαγκωματιά σε σχέση με το μέγεθός του;",
-"questionEN": "Which animal has the strongest bite relative to its size?",
-"answersEL": ["Καρχαρίας", "Κροκόδειλος", "Ιπποπόταμος", "Σκαθάρι"],
-"answersEN": ["Shark", "Crocodile", "Hippopotamus", "Beetle"],
-"correctIndex": 1
-},
-{
-"id": 288,
-"categoryEL": "Γεωγραφία",
-"categoryEN": "Geography",
-"questionEL": "Ποια είναι η πρωτεύουσα της Κολομβίας;",
-"questionEN": "What is the capital of Colombia?",
-"answersEL": ["Λίμα", "Μπογκοτά", "Καράκας", "Λα Πας"],
-"answersEN": ["Lima", "Bogota", "Caracas", "La Paz"],
-"correctIndex": 1
-},
-{
-"id": 289,
-"categoryEL": "Τεχνολογία",
-"categoryEN": "Technology",
-"questionEL": "Ποια εταιρεία αναπτύσσει την πλατφόρμα Android;",
-"questionEN": "Which company develops the Android platform?",
-"answersEL": ["Microsoft", "Google", "Apple", "Samsung"],
-"answersEN": ["Microsoft", "Google", "Apple", "Samsung"],
-"correctIndex": 1
-},
-{
-"id": 290,
-"categoryEL": "Ιστορία",
-"categoryEN": "History",
-"questionEL": "Ποια πόλη ήταν η πρωτεύουσα της αρχαίας Αιγύπτου στο Νέο Βασίλειο;",
-"questionEN": "Which city was the capital of ancient Egypt in the New Kingdom?",
-"answersEL": ["Μέμφις", "Θήβα", "Αλεξάνδρεια", "Γκίζα"],
-"answersEN": ["Memphis", "Thebes", "Alexandria", "Giza"],
-"correctIndex": 1
-},
-{
-"id": 291,
-"categoryEL": "Φυσική",
-"categoryEN": "Physics",
-"questionEL": "Ποιο είναι το σύμβολο της ταχύτητας στο SI;",
-"questionEN": "What is the SI symbol for velocity?",
-"answersEL": ["v", "t", "s", "a"],
-"answersEN": ["v", "t", "s", "a"],
-"correctIndex": 0
-},
-{
-"id": 292,
-"categoryEL": "Γεωγραφία",
-"categoryEN": "Geography",
-"questionEL": "Ποια είναι η πρωτεύουσα της Αιθιοπίας;",
-"questionEN": "What is the capital of Ethiopia?",
-"answersEL": ["Ναϊρόμπι", "Αντίς Αμπέμπα", "Χαρτούμ", "Ντακάρ"],
-"answersEN": ["Nairobi", "Addis Ababa", "Khartoum", "Dakar"],
-"correctIndex": 1
-},
-{
-"id": 293,
-"categoryEL": "Μαθηματικά",
-"categoryEN": "Mathematics",
-"questionEL": "Πόσο ισούται το 2^5;",
-"questionEN": "What is 2^5 equal to?",
-"answersEL": ["16", "32", "64", "128"],
-"answersEN": ["16", "32", "64", "128"],
-"correctIndex": 1
-},
-{
-"id": 294,
-"categoryEL": "Χημεία",
-"categoryEN": "Chemistry",
-"questionEL": "Ποιο στοιχείο έχει το σύμβολο Na;",
-"questionEN": "Which element has the symbol Na?",
-"answersEL": ["Άζωτο", "Νάτριο", "Νικέλιο", "Νεόν"],
-"answersEN": ["Nitrogen", "Sodium", "Nickel", "Neon"],
-"correctIndex": 1
-},
-{
-"id": 295,
-"categoryEL": "Γεωγραφία",
-"categoryEN": "Geography",
-"questionEL": "Ποια είναι η πρωτεύουσα της Νιγηρίας;",
-"questionEN": "What is the capital of Nigeria?",
-"answersEL": ["Λάγος", "Αμπούτζα", "Κάιρο", "Άκρα"],
-"answersEN": ["Lagos", "Abuja", "Cairo", "Accra"],
-"correctIndex": 1
-},
-{
-"id": 296,
-"categoryEL": "Βιολογία",
-"categoryEN": "Biology",
-"questionEL": "Ποιο είναι το βασικό καύσιμο των κυττάρων;",
-"questionEN": "What is the primary fuel of cells?",
-"answersEL": ["Πρωτεΐνη", "Λιπίδια", "Γλυκόζη", "DNA"],
-"answersEN": ["Protein", "Lipids", "Glucose", "DNA"],
-"correctIndex": 2
-},
-{
-"id": 297,
-"categoryEL": "Γεωγραφία",
-"categoryEN": "Geography",
-"questionEL": "Ποια είναι η πρωτεύουσα της Περού;",
-"questionEN": "What is the capital of Peru?",
-"answersEL": ["Λα Πας", "Λίμα", "Σαντιάγο", "Κίτο"],
-"answersEN": ["La Paz", "Lima", "Santiago", "Quito"],
-"correctIndex": 1
-},
-{
-"id": 298,
-"categoryEL": "Σπορ",
-"categoryEN": "Sports",
-"questionEL": "Σε ποιο άθλημα χρησιμοποιείται ο όρος 'ace';",
-"questionEN": "In which sport is the term 'ace' used?",
-"answersEL": ["Ποδόσφαιρο", "Τένις", "Μπάσκετ", "Ράγκμπι"],
-"answersEN": ["Football", "Tennis", "Basketball", "Rugby"],
-"correctIndex": 1
-},
-{
-"id": 299,
-"categoryEL": "Γεωγραφία",
-"categoryEN": "Geography",
-"questionEL": "Ποια είναι η πρωτεύουσα της Μαλαισίας;",
-"questionEN": "What is the capital of Malaysia?",
-"answersEL": ["Κουάλα Λουμπούρ", "Σιγκαπούρη", "Μπανγκόκ", "Μανίλα"],
-"answersEN": ["Kuala Lumpur", "Singapore", "Bangkok", "Manila"],
-"correctIndex": 0
-},
-{
-"id": 300,
-"categoryEL": "Ιστορία",
-"categoryEN": "History",
-"questionEL": "Ποια αρχαία ελληνική πόλη ήταν γνωστή για τη δημοκρατία της;",
-"questionEN": "Which ancient Greek city was known for its democracy?",
-"answersEL": ["Σπάρτη", "Κόρινθος", "Αθήνα", "Θήβα"],
-"answersEN": ["Sparta", "Corinth", "Athens", "Thebes"],
-"correctIndex": 2
-},
-{
-"id": 301,
-"categoryEL": "Φυσική",
-"categoryEN": "Physics",
-"questionEL": "Ποια είναι η μονάδα μέτρησης της ισχύος;",
-"questionEN": "What is the unit of power?",
-"answersEL": ["Joule", "Watt", "Newton", "Volt"],
-"answersEN": ["Joule", "Watt", "Newton", "Volt"],
-"correctIndex": 1
-},
+  {
+    "id": 251,
+    "categoryEL": "Ιχθυολογία",
+    "categoryEN": "Ichthyology",
+    "questionEL": "Ποιο είναι το μεγαλύτερο ψάρι στον κόσμο;",
+    "questionEN": "What is the largest fish in the world?",
+    "answersEL": [
+      "Καρχαρίας-Φάλαινα",
+      "Τόνος",
+      "Ξιφίας",
+      "Μπακαλιάρος"
+    ],
+    "answersEN": [
+      "Whale Shark",
+      "Tuna",
+      "Swordfish",
+      "Cod"
+    ],
+    "difficulty": 1,
+    "correctIndex": 0
+  },
+  {
+    "id": 252,
+    "categoryEL": "Αστρονομία",
+    "categoryEN": "Astronomy",
+    "questionEL": "Ποιος πλανήτης έχει τη μεγαλύτερη περίοδο περιφοράς γύρω από τον Ήλιο;",
+    "questionEN": "Which planet has the longest orbital period around the Sun?",
+    "answersEL": [
+      "Κρόνος",
+      "Ποσειδώνας",
+      "Ουρανός",
+      "Δίας"
+    ],
+    "answersEN": [
+      "Saturn",
+      "Neptune",
+      "Uranus",
+      "Jupiter"
+    ],
+    "difficulty": 1,
+    "correctIndex": 1
+  },
+  {
+    "id": 253,
+    "categoryEL": "Φυσική",
+    "categoryEN": "Physics",
+    "questionEL": "Ποια μονάδα μετρά την ηλεκτρική αντίσταση;",
+    "questionEN": "Which unit measures electrical resistance?",
+    "answersEL": [
+      "Βολτ",
+      "Αμπέρ",
+      "Ωμ",
+      "Τέσλα"
+    ],
+    "answersEN": [
+      "Volt",
+      "Ampere",
+      "Ohm",
+      "Tesla"
+    ],
+    "difficulty": 1,
+    "correctIndex": 2
+  },
+  {
+    "id": 254,
+    "categoryEL": "Ιστορία",
+    "categoryEN": "History",
+    "questionEL": "Ποια μάχη το 1815 σήμανε το τέλος της εξουσίας του Ναπολέοντα;",
+    "questionEN": "Which battle in 1815 marked the end of Napoleon's rule?",
+    "answersEL": [
+      "Βατερλώ",
+      "Αούστερλιτς",
+      "Λειψία",
+      "Τραφάλγκαρ"
+    ],
+    "answersEN": [
+      "Waterloo",
+      "Austerlitz",
+      "Leipzig",
+      "Trafalgar"
+    ],
+    "difficulty": 1,
+    "correctIndex": 0
+  },
+  {
+    "id": 255,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποιο είναι το μεγαλύτερο αρχιπέλαγος στον κόσμο;",
+    "questionEN": "What is the largest archipelago in the world?",
+    "answersEL": [
+      "Ινδονησία",
+      "Φιλιππίνες",
+      "Ιαπωνία",
+      "Ελλάδα"
+    ],
+    "answersEN": [
+      "Indonesia",
+      "Philippines",
+      "Japan",
+      "Greece"
+    ],
+    "difficulty": 1,
+    "correctIndex": 0
+  },
+  {
+    "id": 256,
+    "categoryEL": "Βιολογία",
+    "categoryEN": "Biology",
+    "questionEL": "Ποιο οργανίδιο είναι υπεύθυνο για την παραγωγή ενέργειας στο κύτταρο;",
+    "questionEN": "Which organelle is responsible for energy production in the cell?",
+    "answersEL": [
+      "Πυρήνας",
+      "Μιτοχόνδριο",
+      "Ριβόσωμα",
+      "Χλωροπλάστης"
+    ],
+    "answersEN": [
+      "Nucleus",
+      "Mitochondrion",
+      "Ribosome",
+      "Chloroplast"
+    ],
+    "difficulty": 1,
+    "correctIndex": 1
+  },
+  {
+    "id": 257,
+    "categoryEL": "Χημεία",
+    "categoryEN": "Chemistry",
+    "questionEL": "Ποιο pH θεωρείται ουδέτερο;",
+    "questionEN": "Which pH value is considered neutral?",
+    "answersEL": [
+      "0",
+      "7",
+      "10",
+      "14"
+    ],
+    "answersEN": [
+      "0",
+      "7",
+      "10",
+      "14"
+    ],
+    "difficulty": 1,
+    "correctIndex": 1
+  },
+  {
+    "id": 258,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια χώρα έχει τη μεγαλύτερη παραγωγή καφέ παγκοσμίως;",
+    "questionEN": "Which country is the largest coffee producer in the world?",
+    "answersEL": [
+      "Βραζιλία",
+      "Κολομβία",
+      "Βιετνάμ",
+      "Ινδία"
+    ],
+    "answersEN": [
+      "Brazil",
+      "Colombia",
+      "Vietnam",
+      "India"
+    ],
+    "difficulty": 1,
+    "correctIndex": 0
+  },
+  {
+    "id": 259,
+    "categoryEL": "Ιστορία",
+    "categoryEN": "History",
+    "questionEL": "Ποια αρχαία πόλη καταστράφηκε από την έκρηξη του Βεζούβιου το 79 μ.Χ.;",
+    "questionEN": "Which ancient city was destroyed by the eruption of Mount Vesuvius in 79 AD?",
+    "answersEL": [
+      "Πομπηία",
+      "Αθήνα",
+      "Σπάρτη",
+      "Καρχηδόνα"
+    ],
+    "answersEN": [
+      "Pompeii",
+      "Athens",
+      "Sparta",
+      "Carthage"
+    ],
+    "difficulty": 1,
+    "correctIndex": 0
+  },
+  {
+    "id": 260,
+    "categoryEL": "Μαθηματικά",
+    "categoryEN": "Mathematics",
+    "questionEL": "Ποιος είναι ο τετραγωνικός ρίζας του 144;",
+    "questionEN": "What is the square root of 144?",
+    "answersEL": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "answersEN": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "difficulty": 1,
+    "correctIndex": 2
+  },
+  {
+    "id": 261,
+    "categoryEL": "Τεχνολογία",
+    "categoryEN": "Technology",
+    "questionEL": "Τι σημαίνει το HTML;",
+    "questionEN": "What does HTML stand for?",
+    "answersEL": [
+      "Hyper Trainer Marking Language",
+      "HyperText Markup Language",
+      "HighText Markdown Language",
+      "Hyper Tool Multi Language"
+    ],
+    "answersEN": [
+      "Hyper Trainer Marking Language",
+      "HyperText Markup Language",
+      "HighText Markdown Language",
+      "Hyper Tool Multi Language"
+    ],
+    "difficulty": 1,
+    "correctIndex": 1
+  },
+  {
+    "id": 262,
+    "categoryEL": "Ανατομία",
+    "categoryEN": "Anatomy",
+    "questionEL": "Ποιο όργανο φιλτράρει το αίμα και παράγει ούρα;",
+    "questionEN": "Which organ filters blood and produces urine?",
+    "answersEL": [
+      "Συκώτι",
+      "Νεφρό",
+      "Σπλήνας",
+      "Πάγκρεας"
+    ],
+    "answersEN": [
+      "Liver",
+      "Kidney",
+      "Spleen",
+      "Pancreas"
+    ],
+    "difficulty": 1,
+    "correctIndex": 1
+  },
+  {
+    "id": 263,
+    "categoryEL": "Μουσική",
+    "categoryEN": "Music",
+    "questionEL": "Ποιος συνθέτης έγραψε την '9η Συμφωνία';",
+    "questionEN": "Which composer wrote the '9th Symphony'?",
+    "answersEL": [
+      "Μπετόβεν",
+      "Μότσαρτ",
+      "Μπαχ",
+      "Σοπέν"
+    ],
+    "answersEN": [
+      "Beethoven",
+      "Mozart",
+      "Bach",
+      "Chopin"
+    ],
+    "difficulty": 1,
+    "correctIndex": 0
+  },
+  {
+    "id": 264,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια είναι η πρωτεύουσα της Νότιας Κορέας;",
+    "questionEN": "What is the capital of South Korea?",
+    "answersEL": [
+      "Σεούλ",
+      "Πεκίνο",
+      "Τόκιο",
+      "Μανίλα"
+    ],
+    "answersEN": [
+      "Seoul",
+      "Beijing",
+      "Tokyo",
+      "Manila"
+    ],
+    "difficulty": 1,
+    "correctIndex": 0
+  },
+  {
+    "id": 265,
+    "categoryEL": "Φυσική",
+    "categoryEN": "Physics",
+    "questionEL": "Ποια δύναμη κρατά τα αντικείμενα προσκολλημένα στη Γη;",
+    "questionEN": "Which force keeps objects attached to Earth?",
+    "answersEL": [
+      "Μαγνητισμός",
+      "Βαρύτητα",
+      "Τριβή",
+      "Ηλεκτρισμός"
+    ],
+    "answersEN": [
+      "Magnetism",
+      "Gravity",
+      "Friction",
+      "Electricity"
+    ],
+    "difficulty": 1,
+    "correctIndex": 1
+  },
+  {
+    "id": 266,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια είναι η μεγαλύτερη πόλη της Καναδά;",
+    "questionEN": "What is the largest city in Canada?",
+    "answersEL": [
+      "Οτάβα",
+      "Τορόντο",
+      "Βανκούβερ",
+      "Μόντρεαλ"
+    ],
+    "answersEN": [
+      "Ottawa",
+      "Toronto",
+      "Vancouver",
+      "Montreal"
+    ],
+    "difficulty": 1,
+    "correctIndex": 1
+  },
+  {
+    "id": 267,
+    "categoryEL": "Ιστορία",
+    "categoryEN": "History",
+    "questionEL": "Ποιο έτος ξεκίνησε ο Δεύτερος Παγκόσμιος Πόλεμος;",
+    "questionEN": "In which year did World War II begin?",
+    "answersEL": [
+      "1935",
+      "1939",
+      "1941",
+      "1945"
+    ],
+    "answersEN": [
+      "1935",
+      "1939",
+      "1941",
+      "1945"
+    ],
+    "difficulty": 1,
+    "correctIndex": 1
+  },
+  {
+    "id": 268,
+    "categoryEL": "Βιολογία",
+    "categoryEN": "Biology",
+    "questionEL": "Ποιο μόριο μεταφέρει γενετικές πληροφορίες;",
+    "questionEN": "Which molecule carries genetic information?",
+    "answersEL": [
+      "RNA",
+      "DNA",
+      "ATP",
+      "Πρωτεΐνη"
+    ],
+    "answersEN": [
+      "RNA",
+      "DNA",
+      "ATP",
+      "Protein"
+    ],
+    "difficulty": 1,
+    "correctIndex": 1
+  },
+  {
+    "id": 269,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποιο είναι το μεγαλύτερο νησί της Ιαπωνίας;",
+    "questionEN": "What is the largest island of Japan?",
+    "answersEL": [
+      "Χοκάιντο",
+      "Χονσού",
+      "Κιουσού",
+      "Σικόκου"
+    ],
+    "answersEN": [
+      "Hokkaido",
+      "Honshu",
+      "Kyushu",
+      "Shikoku"
+    ],
+    "difficulty": 1,
+    "correctIndex": 1
+  },
+  {
+    "id": 270,
+    "categoryEL": "Τεχνολογία",
+    "categoryEN": "Technology",
+    "questionEL": "Ποια εταιρεία ανέπτυξε το λειτουργικό σύστημα Windows;",
+    "questionEN": "Which company developed the Windows operating system?",
+    "answersEL": [
+      "Apple",
+      "Google",
+      "Microsoft",
+      "IBM"
+    ],
+    "answersEN": [
+      "Apple",
+      "Google",
+      "Microsoft",
+      "IBM"
+    ],
+    "difficulty": 1,
+    "correctIndex": 2
+  },
+  {
+    "id": 271,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια είναι η πρωτεύουσα της Χιλής;",
+    "questionEN": "What is the capital of Chile?",
+    "answersEL": [
+      "Λίμα",
+      "Σαντιάγο",
+      "Μπουένος Άιρες",
+      "Καράκας"
+    ],
+    "answersEN": [
+      "Lima",
+      "Santiago",
+      "Buenos Aires",
+      "Caracas"
+    ],
+    "difficulty": 1,
+    "correctIndex": 1
+  },
+  {
+    "id": 272,
+    "categoryEL": "Μυθολογία",
+    "categoryEN": "Mythology",
+    "questionEL": "Ποιος ήταν ο θεός της θάλασσας στην ελληνική μυθολογία;",
+    "questionEN": "Who was the god of the sea in Greek mythology?",
+    "answersEL": [
+      "Δίας",
+      "Άρης",
+      "Ποσειδώνας",
+      "Ερμής"
+    ],
+    "answersEN": [
+      "Zeus",
+      "Ares",
+      "Poseidon",
+      "Hermes"
+    ],
+    "difficulty": 1,
+    "correctIndex": 2
+  },
+  {
+    "id": 273,
+    "categoryEL": "Χημεία",
+    "categoryEN": "Chemistry",
+    "questionEL": "Ποιο στοιχείο έχει ατομικό αριθμό 6;",
+    "questionEN": "Which element has atomic number 6?",
+    "answersEL": [
+      "Άνθρακας",
+      "Οξυγόνο",
+      "Άζωτο",
+      "Ήλιο"
+    ],
+    "answersEN": [
+      "Carbon",
+      "Oxygen",
+      "Nitrogen",
+      "Helium"
+    ],
+    "difficulty": 1,
+    "correctIndex": 0
+  },
+  {
+    "id": 274,
+    "categoryEL": "Σπορ",
+    "categoryEN": "Sports",
+    "questionEL": "Πόσα λεπτά διαρκεί ένας αγώνας ποδοσφαίρου (χωρίς καθυστερήσεις);",
+    "questionEN": "How many minutes does a football match last (without extra time)?",
+    "answersEL": [
+      "60",
+      "80",
+      "90",
+      "120"
+    ],
+    "answersEN": [
+      "60",
+      "80",
+      "90",
+      "120"
+    ],
+    "difficulty": 1,
+    "correctIndex": 2
+  },
+  {
+    "id": 275,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια είναι η πρωτεύουσα της Ταϊλάνδης;",
+    "questionEN": "What is the capital of Thailand?",
+    "answersEL": [
+      "Μπανγκόκ",
+      "Χανόι",
+      "Κουάλα Λουμπούρ",
+      "Γιακάρτα"
+    ],
+    "answersEN": [
+      "Bangkok",
+      "Hanoi",
+      "Kuala Lumpur",
+      "Jakarta"
+    ],
+    "difficulty": 1,
+    "correctIndex": 0
+  },
+  {
+    "id": 276,
+    "categoryEL": "Ιστορία",
+    "categoryEN": "History",
+    "questionEL": "Ποια αυτοκρατορία είχε πρωτεύουσα την Κωνσταντινούπολη πριν το 1453;",
+    "questionEN": "Which empire had Constantinople as its capital before 1453?",
+    "answersEL": [
+      "Ρωμαϊκή",
+      "Βυζαντινή",
+      "Οθωμανική",
+      "Περσική"
+    ],
+    "answersEN": [
+      "Roman",
+      "Byzantine",
+      "Ottoman",
+      "Persian"
+    ],
+    "difficulty": 1,
+    "correctIndex": 1
+  },
+  {
+    "id": 277,
+    "categoryEL": "Φυσική",
+    "categoryEN": "Physics",
+    "questionEL": "Ποια είναι η μονάδα μέτρησης της δύναμης;",
+    "questionEN": "What is the unit of force?",
+    "answersEL": [
+      "Joule",
+      "Watt",
+      "Newton",
+      "Pascal"
+    ],
+    "answersEN": [
+      "Joule",
+      "Watt",
+      "Newton",
+      "Pascal"
+    ],
+    "difficulty": 1,
+    "correctIndex": 2
+  },
+  {
+    "id": 278,
+    "categoryEL": "Βιολογία",
+    "categoryEN": "Biology",
+    "questionEL": "Ποια ομάδα οργανισμών κάνει φωτοσύνθεση;",
+    "questionEN": "Which group of organisms performs photosynthesis?",
+    "answersEL": [
+      "Ζώα",
+      "Μύκητες",
+      "Φυτά",
+      "Βακτήρια"
+    ],
+    "answersEN": [
+      "Animals",
+      "Fungi",
+      "Plants",
+      "Bacteria"
+    ],
+    "difficulty": 1,
+    "correctIndex": 2
+  },
+  {
+    "id": 279,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια είναι η πρωτεύουσα της Ινδίας;",
+    "questionEN": "What is the capital of India?",
+    "answersEL": [
+      "Μουμπάι",
+      "Νέο Δελχί",
+      "Καλκούτα",
+      "Τσενάι"
+    ],
+    "answersEN": [
+      "Mumbai",
+      "New Delhi",
+      "Kolkata",
+      "Chennai"
+    ],
+    "difficulty": 1,
+    "correctIndex": 1
+  },
+  {
+    "id": 280,
+    "categoryEL": "Τεχνολογία",
+    "categoryEN": "Technology",
+    "questionEL": "Ποιο είναι το κύριο πρωτόκολλο μεταφοράς δεδομένων στο web;",
+    "questionEN": "What is the main protocol used for data transfer on the web?",
+    "answersEL": [
+      "FTP",
+      "HTTP",
+      "SMTP",
+      "SSH"
+    ],
+    "answersEN": [
+      "FTP",
+      "HTTP",
+      "SMTP",
+      "SSH"
+    ],
+    "difficulty": 1,
+    "correctIndex": 1
+  },
+  {
+    "id": 281,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια είναι η πρωτεύουσα της Ινδονησίας;",
+    "questionEN": "What is the capital of Indonesia?",
+    "answersEL": [
+      "Μπανγκόκ",
+      "Γιακάρτα",
+      "Μανίλα",
+      "Κουάλα Λουμπούρ"
+    ],
+    "answersEN": [
+      "Bangkok",
+      "Jakarta",
+      "Manila",
+      "Kuala Lumpur"
+    ],
+    "difficulty": 1,
+    "correctIndex": 1
+  },
+  {
+    "id": 282,
+    "categoryEL": "Χημεία",
+    "categoryEN": "Chemistry",
+    "questionEL": "Ποιο αέριο είναι απαραίτητο για την καύση;",
+    "questionEN": "Which gas is necessary for combustion?",
+    "answersEL": [
+      "Άζωτο",
+      "Οξυγόνο",
+      "Υδρογόνο",
+      "Ήλιο"
+    ],
+    "answersEN": [
+      "Nitrogen",
+      "Oxygen",
+      "Hydrogen",
+      "Helium"
+    ],
+    "difficulty": 1,
+    "correctIndex": 1
+  },
+  {
+    "id": 283,
+    "categoryEL": "Μαθηματικά",
+    "categoryEN": "Mathematics",
+    "questionEL": "Πόσες μοίρες έχει ένα πλήρες κύκλος;",
+    "questionEN": "How many degrees are in a full circle?",
+    "answersEL": [
+      "180",
+      "270",
+      "360",
+      "720"
+    ],
+    "answersEN": [
+      "180",
+      "270",
+      "360",
+      "720"
+    ],
+    "difficulty": 1,
+    "correctIndex": 2
+  },
+  {
+    "id": 284,
+    "categoryEL": "Ιστορία",
+    "categoryEN": "History",
+    "questionEL": "Ποιος ήταν ο πρώτος άνθρωπος στο διάστημα;",
+    "questionEN": "Who was the first human in space?",
+    "answersEL": [
+      "Νιλ Άρμστρονγκ",
+      "Γιούρι Γκαγκάριν",
+      "Τζον Γκλεν",
+      "Μπαζ Όλντριν"
+    ],
+    "answersEN": [
+      "Neil Armstrong",
+      "Yuri Gagarin",
+      "John Glenn",
+      "Buzz Aldrin"
+    ],
+    "difficulty": 1,
+    "correctIndex": 1
+  },
+  {
+    "id": 285,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια είναι η πρωτεύουσα της Σαουδικής Αραβίας;",
+    "questionEN": "What is the capital of Saudi Arabia?",
+    "answersEL": [
+      "Ντόχα",
+      "Ριάντ",
+      "Ντουμπάι",
+      "Άμπου Ντάμπι"
+    ],
+    "answersEN": [
+      "Doha",
+      "Riyadh",
+      "Dubai",
+      "Abu Dhabi"
+    ],
+    "difficulty": 1,
+    "correctIndex": 1
+  },
+  {
+    "id": 286,
+    "categoryEL": "Φύση",
+    "categoryEN": "Nature",
+    "questionEL": "Ποια μορφή νερού έχει τη μεγαλύτερη πυκνότητα;",
+    "questionEN": "Which state of water has the highest density?",
+    "answersEL": [
+      "Πάγος",
+      "Υγρό νερό",
+      "Υδρατμός",
+      "Όλα ίδια"
+    ],
+    "answersEN": [
+      "Ice",
+      "Liquid water",
+      "Water vapor",
+      "All equal"
+    ],
+    "difficulty": 1,
+    "correctIndex": 1
+  },
+  {
+    "id": 287,
+    "categoryEL": "Ζωολογία",
+    "categoryEN": "Zoology",
+    "questionEL": "Ποιο ζώο έχει την πιο δυνατή δαγκωματιά σε σχέση με το μέγεθός του;",
+    "questionEN": "Which animal has the strongest bite relative to its size?",
+    "answersEL": [
+      "Καρχαρίας",
+      "Κροκόδειλος",
+      "Ιπποπόταμος",
+      "Σκαθάρι"
+    ],
+    "answersEN": [
+      "Shark",
+      "Crocodile",
+      "Hippopotamus",
+      "Beetle"
+    ],
+    "difficulty": 1,
+    "correctIndex": 1
+  },
+  {
+    "id": 288,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια είναι η πρωτεύουσα της Κολομβίας;",
+    "questionEN": "What is the capital of Colombia?",
+    "answersEL": [
+      "Λίμα",
+      "Μπογκοτά",
+      "Καράκας",
+      "Λα Πας"
+    ],
+    "answersEN": [
+      "Lima",
+      "Bogota",
+      "Caracas",
+      "La Paz"
+    ],
+    "difficulty": 1,
+    "correctIndex": 1
+  },
+  {
+    "id": 289,
+    "categoryEL": "Τεχνολογία",
+    "categoryEN": "Technology",
+    "questionEL": "Ποια εταιρεία αναπτύσσει την πλατφόρμα Android;",
+    "questionEN": "Which company develops the Android platform?",
+    "answersEL": [
+      "Microsoft",
+      "Google",
+      "Apple",
+      "Samsung"
+    ],
+    "answersEN": [
+      "Microsoft",
+      "Google",
+      "Apple",
+      "Samsung"
+    ],
+    "difficulty": 1,
+    "correctIndex": 1
+  },
+  {
+    "id": 290,
+    "categoryEL": "Ιστορία",
+    "categoryEN": "History",
+    "questionEL": "Ποια πόλη ήταν η πρωτεύουσα της αρχαίας Αιγύπτου στο Νέο Βασίλειο;",
+    "questionEN": "Which city was the capital of ancient Egypt in the New Kingdom?",
+    "answersEL": [
+      "Μέμφις",
+      "Θήβα",
+      "Αλεξάνδρεια",
+      "Γκίζα"
+    ],
+    "answersEN": [
+      "Memphis",
+      "Thebes",
+      "Alexandria",
+      "Giza"
+    ],
+    "difficulty": 1,
+    "correctIndex": 1
+  },
+  {
+    "id": 291,
+    "categoryEL": "Φυσική",
+    "categoryEN": "Physics",
+    "questionEL": "Ποιο είναι το σύμβολο της ταχύτητας στο SI;",
+    "questionEN": "What is the SI symbol for velocity?",
+    "answersEL": [
+      "v",
+      "t",
+      "s",
+      "a"
+    ],
+    "answersEN": [
+      "v",
+      "t",
+      "s",
+      "a"
+    ],
+    "difficulty": 1,
+    "correctIndex": 0
+  },
+  {
+    "id": 292,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια είναι η πρωτεύουσα της Αιθιοπίας;",
+    "questionEN": "What is the capital of Ethiopia?",
+    "answersEL": [
+      "Ναϊρόμπι",
+      "Αντίς Αμπέμπα",
+      "Χαρτούμ",
+      "Ντακάρ"
+    ],
+    "answersEN": [
+      "Nairobi",
+      "Addis Ababa",
+      "Khartoum",
+      "Dakar"
+    ],
+    "difficulty": 1,
+    "correctIndex": 1
+  },
+  {
+    "id": 293,
+    "categoryEL": "Μαθηματικά",
+    "categoryEN": "Mathematics",
+    "questionEL": "Πόσο ισούται το 2^5;",
+    "questionEN": "What is 2^5 equal to?",
+    "answersEL": [
+      "16",
+      "32",
+      "64",
+      "128"
+    ],
+    "answersEN": [
+      "16",
+      "32",
+      "64",
+      "128"
+    ],
+    "difficulty": 1,
+    "correctIndex": 1
+  },
+  {
+    "id": 294,
+    "categoryEL": "Χημεία",
+    "categoryEN": "Chemistry",
+    "questionEL": "Ποιο στοιχείο έχει το σύμβολο Na;",
+    "questionEN": "Which element has the symbol Na?",
+    "answersEL": [
+      "Άζωτο",
+      "Νάτριο",
+      "Νικέλιο",
+      "Νεόν"
+    ],
+    "answersEN": [
+      "Nitrogen",
+      "Sodium",
+      "Nickel",
+      "Neon"
+    ],
+    "difficulty": 1,
+    "correctIndex": 1
+  },
+  {
+    "id": 295,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια είναι η πρωτεύουσα της Νιγηρίας;",
+    "questionEN": "What is the capital of Nigeria?",
+    "answersEL": [
+      "Λάγος",
+      "Αμπούτζα",
+      "Κάιρο",
+      "Άκρα"
+    ],
+    "answersEN": [
+      "Lagos",
+      "Abuja",
+      "Cairo",
+      "Accra"
+    ],
+    "difficulty": 1,
+    "correctIndex": 1
+  },
+  {
+    "id": 296,
+    "categoryEL": "Βιολογία",
+    "categoryEN": "Biology",
+    "questionEL": "Ποιο είναι το βασικό καύσιμο των κυττάρων;",
+    "questionEN": "What is the primary fuel of cells?",
+    "answersEL": [
+      "Πρωτεΐνη",
+      "Λιπίδια",
+      "Γλυκόζη",
+      "DNA"
+    ],
+    "answersEN": [
+      "Protein",
+      "Lipids",
+      "Glucose",
+      "DNA"
+    ],
+    "difficulty": 1,
+    "correctIndex": 2
+  },
+  {
+    "id": 297,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια είναι η πρωτεύουσα της Περού;",
+    "questionEN": "What is the capital of Peru?",
+    "answersEL": [
+      "Λα Πας",
+      "Λίμα",
+      "Σαντιάγο",
+      "Κίτο"
+    ],
+    "answersEN": [
+      "La Paz",
+      "Lima",
+      "Santiago",
+      "Quito"
+    ],
+    "difficulty": 1,
+    "correctIndex": 1
+  },
+  {
+    "id": 298,
+    "categoryEL": "Σπορ",
+    "categoryEN": "Sports",
+    "questionEL": "Σε ποιο άθλημα χρησιμοποιείται ο όρος 'ace';",
+    "questionEN": "In which sport is the term 'ace' used?",
+    "answersEL": [
+      "Ποδόσφαιρο",
+      "Τένις",
+      "Μπάσκετ",
+      "Ράγκμπι"
+    ],
+    "answersEN": [
+      "Football",
+      "Tennis",
+      "Basketball",
+      "Rugby"
+    ],
+    "difficulty": 1,
+    "correctIndex": 1
+  },
+  {
+    "id": 299,
+    "categoryEL": "Γεωγραφία",
+    "categoryEN": "Geography",
+    "questionEL": "Ποια είναι η πρωτεύουσα της Μαλαισίας;",
+    "questionEN": "What is the capital of Malaysia?",
+    "answersEL": [
+      "Κουάλα Λουμπούρ",
+      "Σιγκαπούρη",
+      "Μπανγκόκ",
+      "Μανίλα"
+    ],
+    "answersEN": [
+      "Kuala Lumpur",
+      "Singapore",
+      "Bangkok",
+      "Manila"
+    ],
+    "difficulty": 1,
+    "correctIndex": 0
+  },
+  {
+    "id": 300,
+    "categoryEL": "Ιστορία",
+    "categoryEN": "History",
+    "questionEL": "Ποια αρχαία ελληνική πόλη ήταν γνωστή για τη δημοκρατία της;",
+    "questionEN": "Which ancient Greek city was known for its democracy?",
+    "answersEL": [
+      "Σπάρτη",
+      "Κόρινθος",
+      "Αθήνα",
+      "Θήβα"
+    ],
+    "answersEN": [
+      "Sparta",
+      "Corinth",
+      "Athens",
+      "Thebes"
+    ],
+    "difficulty": 1,
+    "correctIndex": 2
+  },
+  {
+    "id": 301,
+    "categoryEL": "Φυσική",
+    "categoryEN": "Physics",
+    "questionEL": "Ποια είναι η μονάδα μέτρησης της ισχύος;",
+    "questionEN": "What is the unit of power?",
+    "answersEL": [
+      "Joule",
+      "Watt",
+      "Newton",
+      "Volt"
+    ],
+    "answersEN": [
+      "Joule",
+      "Watt",
+      "Newton",
+      "Volt"
+    ],
+    "difficulty": 1,
+    "correctIndex": 1
+  },
   {
     "id": 302,
     "categoryEL": "Ζωολογία",
     "categoryEN": "Zoology",
     "questionEL": "Ποιο από τα παρακάτω θηλαστικά είναι το μοναδικό που μπορεί να πετά πραγματικά με συνεχή πτήση;",
     "questionEN": "Which of the following mammals is the only one capable of true sustained flight?",
-    "answersEL": ["Ιπτάμενος Σκίουρος", "Νυχτερίδα", "Λεμούριος", "Κολούγκο"],
-    "answersEN": ["Flying Squirrel", "Bat", "Lemur", "Colugo"],
+    "answersEL": [
+      "Ιπτάμενος Σκίουρος",
+      "Νυχτερίδα",
+      "Λεμούριος",
+      "Κολούγκο"
+    ],
+    "answersEN": [
+      "Flying Squirrel",
+      "Bat",
+      "Lemur",
+      "Colugo"
+    ],
+    "difficulty": 1,
     "correctIndex": 1
   },
   {
@@ -3028,8 +6347,19 @@
     "categoryEN": "Zoology",
     "questionEL": "Ποιο είναι το μοναδικό γνωστό δηλητηριώδες πρωτεύον θηλαστικό;",
     "questionEN": "Which is the only known venomous primate mammal?",
-    "answersEL": ["Μπαμπουίνος", "Καπουτσίνος", "Αργό Λόρις", "Γίββωνας"],
-    "answersEN": ["Baboon", "Capuchin", "Slow Loris", "Gibbon"],
+    "answersEL": [
+      "Μπαμπουίνος",
+      "Καπουτσίνος",
+      "Αργό Λόρις",
+      "Γίββωνας"
+    ],
+    "answersEN": [
+      "Baboon",
+      "Capuchin",
+      "Slow Loris",
+      "Gibbon"
+    ],
+    "difficulty": 1,
     "correctIndex": 2
-  }  
-]  
+  }
+]
